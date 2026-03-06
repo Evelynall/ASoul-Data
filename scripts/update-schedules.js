@@ -259,19 +259,27 @@ async function main() {
         return dateA - dateB;
     });
 
-    // 生成新版本号
-    const newVersion = new Date().toISOString().replace(/[-:T]/g, '').slice(0, 14);
+    // 生成新版本号（格式：YYYYMMDDHHmmss）
+    const now = new Date();
+    const newVersion = now.toISOString().replace(/[-:T.]/g, '').slice(0, 14);
 
     // 保存更新后的数据
     const updatedData = {
         version: newVersion,
-        schedules: allSchedules
+        schedules: allSchedules,
+        lastUpdate: now.toISOString(),
+        updateInfo: {
+            totalSchedules: allSchedules.length,
+            newSchedules: newSchedulesCount,
+            updatedSchedules: updatedSchedulesCount
+        }
     };
 
     fs.writeFileSync(BASE_SCHEDULES_PATH, JSON.stringify(updatedData, null, 2), 'utf-8');
 
     console.log('\n更新完成！');
     console.log(`新版本号: ${newVersion}`);
+    console.log(`更新时间: ${now.toISOString()}`);
     console.log(`总日程数量: ${allSchedules.length}`);
     console.log(`新增日程: ${newSchedulesCount}`);
     console.log(`更新日程: ${updatedSchedulesCount}`);
