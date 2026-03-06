@@ -54,16 +54,25 @@ function parseICS(icsText) {
             const tzMatch = ev.dtstart.match(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})(Z|[+-]\d{4})?/);
             if (tzMatch) {
                 const [, year, month, day, hour, minute, second, timezone] = tzMatch;
-                let eventDate = new Date(year, month - 1, day, hour, minute, second || 0);
+                let eventDate;
 
                 if (timezone === 'Z') {
+                    // UTC时间：创建UTC时间戳，然后转换为本地时间
                     const utcTime = Date.UTC(year, month - 1, day, hour, minute, second || 0);
                     eventDate = new Date(utcTime);
                 } else if (timezone && timezone.match(/[+-]\d{4}/)) {
+                    // 带时区偏移的时间：先创建UTC时间，再应用偏移
                     const offsetHours = parseInt(timezone.substring(1, 3));
                     const offsetMinutes = parseInt(timezone.substring(3, 5));
-                    const totalOffsetMinutes = (timezone[0] === '+' ? 1 : -1) * (offsetHours * 60 + offsetMinutes);
-                    eventDate = new Date(eventDate.getTime() - totalOffsetMinutes * 60000);
+                    const totalOffsetMinutes = (timezone[0] === '+' ? offsetHours : -offsetHours) * 60 +
+                        (timezone[0] === '+' ? offsetMinutes : -offsetMinutes);
+
+                    // 创建UTC时间戳，减去时区偏移得到真实UTC时间
+                    const utcTime = Date.UTC(year, month - 1, day, hour, minute, second || 0) - (totalOffsetMinutes * 60000);
+                    eventDate = new Date(utcTime);
+                } else {
+                    // 无时区信息：假设为本地时间
+                    eventDate = new Date(year, month - 1, day, hour, minute, second || 0);
                 }
 
                 date = `${eventDate.getFullYear()}/${String(eventDate.getMonth() + 1).padStart(2, '0')}/${String(eventDate.getDate()).padStart(2, '0')}`;
