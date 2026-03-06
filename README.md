@@ -30,6 +30,9 @@ https://example.com/calendar2.ics
 
 GitHub Actions会在以下情况自动运行：
 - 每天北京时间早上8点（UTC 0点）
+- 每天北京时间中午12点（UTC 4点）
+- 每天北京时间下午4点（UTC 8点）
+- 每天北京时间晚上8点（UTC 12点）
 - 手动触发（在Actions页面点击"Run workflow"）
 
 ### 3. 数据格式
