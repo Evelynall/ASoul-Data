@@ -1,0 +1,24 @@
+{
+    "name": "asoul-data",
+    "version": "1.0.0",
+    "description": "A-SOUL 日程数据仓库",
+    "main": "scripts/update-schedules.js",
+    "scripts": {
+        "update": "node scripts/update-schedules.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Evelynall/ASoul-Data.git"
+    },
+    "keywords": [
+        "asoul",
+        "calendar",
+        "schedule",
+        "ics"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "node-fetch": "^2.7.0"
+    }
+}
