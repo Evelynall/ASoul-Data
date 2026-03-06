@@ -54,29 +54,30 @@ function parseICS(icsText) {
             const tzMatch = ev.dtstart.match(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})(Z|[+-]\d{4})?/);
             if (tzMatch) {
                 const [, year, month, day, hour, minute, second, timezone] = tzMatch;
-                let eventDate;
+                let utcTime;
 
                 if (timezone === 'Z') {
-                    // UTC时间：创建UTC时间戳，然后转换为本地时间
-                    const utcTime = Date.UTC(year, month - 1, day, hour, minute, second || 0);
-                    eventDate = new Date(utcTime);
+                    // UTC时间：直接使用
+                    utcTime = Date.UTC(year, month - 1, day, hour, minute, second || 0);
                 } else if (timezone && timezone.match(/[+-]\d{4}/)) {
-                    // 带时区偏移的时间：先创建UTC时间，再应用偏移
+                    // 带时区偏移的时间：转换为UTC
                     const offsetHours = parseInt(timezone.substring(1, 3));
                     const offsetMinutes = parseInt(timezone.substring(3, 5));
                     const totalOffsetMinutes = (timezone[0] === '+' ? offsetHours : -offsetHours) * 60 +
                         (timezone[0] === '+' ? offsetMinutes : -offsetMinutes);
 
                     // 创建UTC时间戳，减去时区偏移得到真实UTC时间
-                    const utcTime = Date.UTC(year, month - 1, day, hour, minute, second || 0) - (totalOffsetMinutes * 60000);
-                    eventDate = new Date(utcTime);
+                    utcTime = Date.UTC(year, month - 1, day, hour, minute, second || 0) - (totalOffsetMinutes * 60000);
                 } else {
-                    // 无时区信息：假设为本地时间
-                    eventDate = new Date(year, month - 1, day, hour, minute, second || 0);
+                    // 无时区信息：假设为北京时间（UTC+8），转换为UTC
+                    utcTime = Date.UTC(year, month - 1, day, hour, minute, second || 0) - (8 * 60 * 60000);
                 }
 
-                date = `${eventDate.getFullYear()}/${String(eventDate.getMonth() + 1).padStart(2, '0')}/${String(eventDate.getDate()).padStart(2, '0')}`;
-                time = `${String(eventDate.getHours()).padStart(2, '0')}:${String(eventDate.getMinutes()).padStart(2, '0')}`;
+                // 将UTC时间转换为北京时间（UTC+8）
+                const beijingTime = new Date(utcTime + (8 * 60 * 60000));
+
+                date = `${beijingTime.getUTCFullYear()}/${String(beijingTime.getUTCMonth() + 1).padStart(2, '0')}/${String(beijingTime.getUTCDate()).padStart(2, '0')}`;
+                time = `${String(beijingTime.getUTCHours()).padStart(2, '0')}:${String(beijingTime.getUTCMinutes()).padStart(2, '0')}`;
             } else {
                 const dm = ev.dtstart.match(/(\d{4})(\d{2})(\d{2})/);
                 if (dm) {
