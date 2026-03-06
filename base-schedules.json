@@ -1,5 +1,5 @@
 {
-  "version": "20260306184805",
+  "version": "20260306185040",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -39809,6 +39809,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1175149450767630419",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260307-1200-eileen@asoul.love",
+      "date": "2026/03/07",
+      "time": "04:00",
+      "title": "【突击】玩一玩《千禧梦》！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1176202392046141449",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
       "note": "",
       "isIcs": true,
