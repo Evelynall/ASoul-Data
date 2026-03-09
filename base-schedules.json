@@ -1,5 +1,5 @@
 {
-  "version": "20260309085114",
+  "version": "20260309094958",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -40461,6 +40461,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260309-2200-fiona@asoul.love",
+      "date": "2026/03/09",
+      "time": "22:00",
+      "title": "【电台】接我电话嘛",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1177433183670501400",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260310-1200-bella@asoul.love",
       "date": "2026/03/10",
       "time": "12:00",
@@ -40515,7 +40532,7 @@
       "id": "20260310-1930-gladys@asoul.love",
       "date": "2026/03/10",
       "time": "19:30",
-      "title": "设计我们的戒指吧～",
+      "title": "设计 我们的戒指吧 ~",
       "type": "日常",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -40648,6 +40665,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260313-2100-diana@asoul.love",
+      "date": "2026/03/13",
+      "time": "21:00",
+      "title": "【突击】生日会前夜！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1177418610833883136",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260314-1800-fiona@asoul.love",
       "date": "2026/03/14",
       "time": "18:00",
@@ -40685,7 +40719,7 @@
       "id": "20260315-2000-gladys@asoul.love",
       "date": "2026/03/15",
       "time": "20:00",
-      "title": "【才艺】春日游·四时歌",
+      "title": "【才艺】春日游 · 四时歌",
       "type": "节目",
       "subTitle": "有点宜思的世界",
       "category": "小心思",
@@ -40699,10 +40733,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-09T08:51:14.822Z",
+  "lastUpdate": "2026-03-09T09:49:58.695Z",
   "updateInfo": {
-    "totalSchedules": 2300,
-    "newSchedules": 1,
+    "totalSchedules": 2302,
+    "newSchedules": 2,
     "updatedSchedules": 13
   }
 }
