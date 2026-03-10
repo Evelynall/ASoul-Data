@@ -1,5 +1,5 @@
 {
-  "version": "20260310085039",
+  "version": "20260310132059",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -40517,8 +40517,8 @@
       "time": "19:00",
       "title": "【突击】继续生化9！",
       "type": "突击",
-      "subTitle": "乃琳突击",
-      "category": "乃琳",
+      "subTitle": "乃琳&嘉然突击",
+      "category": "嘉然+乃琳",
       "dynamicUrl": "https://www.bilibili.com/opus/1176948548136075271",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
@@ -40733,7 +40733,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-10T08:50:39.546Z",
+  "lastUpdate": "2026-03-10T13:20:59.538Z",
   "updateInfo": {
     "totalSchedules": 2302,
     "newSchedules": 0,
