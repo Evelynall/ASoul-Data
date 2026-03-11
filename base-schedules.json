@@ -1,5 +1,5 @@
 {
-  "version": "20260310132059",
+  "version": "20260311015453",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -40614,6 +40614,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260311-2200-fiona@asoul.love",
+      "date": "2026/03/11",
+      "time": "22:00",
+      "title": "【2D】宜宝放映室",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1178174142788141106",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260312-1200-bella@asoul.love",
+      "date": "2026/03/12",
+      "time": "12:00",
+      "title": "【突击】最后的泽塔！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1178157057406140419",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260312-1400-fiona@asoul.love",
       "date": "2026/03/12",
       "time": "14:00",
@@ -40639,6 +40673,23 @@
       "subTitle": "乃琳&贝拉直播",
       "category": "贝拉+乃琳",
       "dynamicUrl": "https://www.bilibili.com/opus/1177640587642273800",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260312-2215-eileen@asoul.love",
+      "date": "2026/03/12",
+      "time": "22:15",
+      "title": "【突击】深夜聊天《千禧梦》！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1178153642914480134",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
@@ -40733,10 +40784,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-10T13:20:59.538Z",
+  "lastUpdate": "2026-03-11T01:54:53.221Z",
   "updateInfo": {
-    "totalSchedules": 2302,
-    "newSchedules": 0,
-    "updatedSchedules": 14
+    "totalSchedules": 2305,
+    "newSchedules": 3,
+    "updatedSchedules": 9
   }
 }
