@@ -1,5 +1,5 @@
 {
-  "version": "20260311084939",
+  "version": "20260311132029",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -40563,6 +40563,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260311-1200-eileen@asoul.love",
+      "date": "2026/03/11",
+      "time": "12:00",
+      "title": "【突击】做鸣潮支线！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1178153041643175936",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260311-1400-gladys@asoul.love",
       "date": "2026/03/11",
       "time": "14:00",
@@ -40699,6 +40716,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260313-1400-gladys@asoul.love",
+      "date": "2026/03/13",
+      "time": "14:00",
+      "title": "【2D】陪伴直播间～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1178518779566489638",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260313-1800-fiona@asoul.love",
       "date": "2026/03/13",
       "time": "18:00",
@@ -40709,6 +40743,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1177638803050856467",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260313-1830-eileen@asoul.love",
+      "date": "2026/03/13",
+      "time": "18:30",
+      "title": "【突击】看鸣潮3.2前瞻！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1178155554200092707",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -40784,10 +40835,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-11T08:49:39.336Z",
+  "lastUpdate": "2026-03-11T13:20:29.118Z",
   "updateInfo": {
-    "totalSchedules": 2305,
-    "newSchedules": 0,
+    "totalSchedules": 2308,
+    "newSchedules": 3,
     "updatedSchedules": 12
   }
 }
