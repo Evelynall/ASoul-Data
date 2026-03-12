@@ -1,5 +1,5 @@
 {
-  "version": "20260312051501",
+  "version": "20260312085047",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -40685,7 +40685,7 @@
       "id": "20260312-1600-fiona@asoul.love",
       "date": "2026/03/12",
       "time": "16:00",
-      "title": "心宜直播",
+      "title": "【2D】看tag＋惊心动魄斗地主",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -40726,6 +40726,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1178153642914480134",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260313-1200-bella@asoul.love",
+      "date": "2026/03/13",
+      "time": "12:00",
+      "title": "【突击】成龙历险记！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1178784354612019217",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -40852,10 +40869,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-12T05:15:01.891Z",
+  "lastUpdate": "2026-03-12T08:50:47.356Z",
   "updateInfo": {
-    "totalSchedules": 2309,
+    "totalSchedules": 2310,
     "newSchedules": 1,
-    "updatedSchedules": 10
+    "updatedSchedules": 11
   }
 }
