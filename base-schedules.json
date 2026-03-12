@@ -40665,23 +40665,6 @@
       "isFavorite": false
     },
     {
-      "id": "20260312-1400-fiona@asoul.love",
-      "date": "2026/03/12",
-      "time": "14:00",
-      "title": "心宜直播",
-      "type": "2D",
-      "subTitle": "心宜直播",
-      "category": "心宜",
-      "dynamicUrl": "https://www.bilibili.com/opus/1177638803050856467",
-      "liveRoomUrl": "https://live.bilibili.com/30849777",
-      "icsUrl": "https://live.bilibili.com/30849777",
-      "completed": false,
-      "note": "",
-      "isIcs": true,
-      "isAnime": false,
-      "isFavorite": false
-    },
-    {
       "id": "20260312-1600-fiona@asoul.love",
       "date": "2026/03/12",
       "time": "16:00",
