@@ -40818,23 +40818,6 @@
       "isFavorite": false
     },
     {
-      "id": "20260314-1800-fiona@asoul.love",
-      "date": "2026/03/14",
-      "time": "18:00",
-      "title": "心宜&思诺直播",
-      "type": "2D",
-      "subTitle": "心宜&思诺直播",
-      "category": "小心思",
-      "dynamicUrl": "https://www.bilibili.com/opus/1177638803050856467",
-      "liveRoomUrl": "https://live.bilibili.com/30849777",
-      "icsUrl": "https://live.bilibili.com/30849777",
-      "completed": false,
-      "note": "",
-      "isIcs": true,
-      "isAnime": false,
-      "isFavorite": false
-    },
-    {
       "id": "20260314-2000-diana@asoul.love",
       "date": "2026/03/14",
       "time": "20:00",
