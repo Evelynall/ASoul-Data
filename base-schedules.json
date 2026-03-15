@@ -1,5 +1,5 @@
 {
-  "version": "20260315021254",
+  "version": "20260315052639",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -40869,6 +40869,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260317-1700-diana@asoul.love",
+      "date": "2026/03/17",
+      "time": "17:00",
+      "title": "【突击/电台】是啊，吃什么",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1179850056228929569",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260317-1900-bella@asoul.love",
       "date": "2026/03/17",
       "time": "19:00",
@@ -40879,6 +40896,40 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1179160065451491333",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260317-2200-eileen@asoul.love",
+      "date": "2026/03/17",
+      "time": "22:00",
+      "title": "【突击】继续千禧梦！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1179868395772837944",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260318-1500-diana@asoul.love",
+      "date": "2026/03/18",
+      "time": "15:00",
+      "title": "【突击/鸣潮】洛可可伴星！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1179850232311054345",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -40901,12 +40952,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260322-1200-diana@asoul.love",
+      "date": "2026/03/22",
+      "time": "12:00",
+      "title": "【突击/鸣潮】过2.7主线！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1179850455681859587",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-15T02:12:54.552Z",
+  "lastUpdate": "2026-03-15T05:26:39.153Z",
   "updateInfo": {
-    "totalSchedules": 2312,
-    "newSchedules": 0,
+    "totalSchedules": 2316,
+    "newSchedules": 4,
     "updatedSchedules": 4
   }
 }
