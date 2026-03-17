@@ -1,5 +1,5 @@
 {
-  "version": "20260317052050",
+  "version": "20260317085754",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -40954,6 +40954,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260318-1200-bella@asoul.love",
+      "date": "2026/03/18",
+      "time": "12:00",
+      "title": "【突击】一起看成龙历险记！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1180647734769614854",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260318-1400-fiona@asoul.love",
       "date": "2026/03/18",
       "time": "14:00",
@@ -41073,6 +41090,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260319-2215-eileen@asoul.love",
+      "date": "2026/03/19",
+      "time": "22:15",
+      "title": "【突击】深夜电台",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1180666237481385990",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260320-1600-fiona@asoul.love",
       "date": "2026/03/20",
       "time": "16:00",
@@ -41175,10 +41209,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-17T05:20:50.712Z",
+  "lastUpdate": "2026-03-17T08:57:54.644Z",
   "updateInfo": {
-    "totalSchedules": 2328,
-    "newSchedules": 0,
+    "totalSchedules": 2330,
+    "newSchedules": 2,
     "updatedSchedules": 19
   }
 }
