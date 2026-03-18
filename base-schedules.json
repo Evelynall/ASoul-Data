@@ -1,5 +1,5 @@
 {
-  "version": "20260318085558",
+  "version": "20260318134534",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41008,7 +41008,7 @@
       "id": "20260318-1800-gladys@asoul.love",
       "date": "2026/03/18",
       "time": "18:00",
-      "title": "思诺直播",
+      "title": "【2D歌杂】最喜欢的bgm",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -41226,10 +41226,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-18T08:55:58.656Z",
+  "lastUpdate": "2026-03-18T13:45:34.352Z",
   "updateInfo": {
     "totalSchedules": 2331,
-    "newSchedules": 1,
-    "updatedSchedules": 15
+    "newSchedules": 0,
+    "updatedSchedules": 16
   }
 }
