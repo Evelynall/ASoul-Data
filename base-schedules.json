@@ -1,5 +1,5 @@
 {
-  "version": "20260318052504",
+  "version": "20260318085558",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -40974,7 +40974,7 @@
       "id": "20260318-1400-fiona@asoul.love",
       "date": "2026/03/18",
       "time": "14:00",
-      "title": "心宜直播",
+      "title": "【2D】零红蝶重制版o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -41107,6 +41107,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260320-1200-bella@asoul.love",
+      "date": "2026/03/20",
+      "time": "12:00",
+      "title": "【突击】来看看战双新主线！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1181017647385411606",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260320-1600-fiona@asoul.love",
       "date": "2026/03/20",
       "time": "16:00",
@@ -41209,10 +41226,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-18T05:25:04.317Z",
+  "lastUpdate": "2026-03-18T08:55:58.656Z",
   "updateInfo": {
-    "totalSchedules": 2330,
-    "newSchedules": 0,
+    "totalSchedules": 2331,
+    "newSchedules": 1,
     "updatedSchedules": 15
   }
 }
