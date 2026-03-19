@@ -1,5 +1,5 @@
 {
-  "version": "20260319085000",
+  "version": "20260319132530",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41158,6 +41158,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260320-2200-gladys@asoul.love",
+      "date": "2026/03/20",
+      "time": "22:00",
+      "title": "【晚安电台】有想我吗～螺",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1181463679769509893",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260321-1300-eileen@asoul.love",
       "date": "2026/03/21",
       "time": "13:00",
@@ -41226,10 +41243,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-19T08:50:00.101Z",
+  "lastUpdate": "2026-03-19T13:25:30.420Z",
   "updateInfo": {
-    "totalSchedules": 2331,
-    "newSchedules": 0,
+    "totalSchedules": 2332,
+    "newSchedules": 1,
     "updatedSchedules": 11
   }
 }
