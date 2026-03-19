@@ -1,5 +1,5 @@
 {
-  "version": "20260319052154",
+  "version": "20260319085000",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41042,7 +41042,7 @@
       "id": "20260319-1400-gladys@asoul.love",
       "date": "2026/03/19",
       "time": "14:00",
-      "title": "思诺直播",
+      "title": "【2D】不就是生化危机7吗！！",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -41226,7 +41226,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-19T05:21:54.455Z",
+  "lastUpdate": "2026-03-19T08:50:00.101Z",
   "updateInfo": {
     "totalSchedules": 2331,
     "newSchedules": 0,
