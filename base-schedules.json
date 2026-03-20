@@ -1,5 +1,5 @@
 {
-  "version": "20260320084900",
+  "version": "20260320131835",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41241,12 +41241,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260322-2030-bella@asoul.love",
+      "date": "2026/03/22",
+      "time": "20:30",
+      "title": "【突击】继续过战双新主线！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1181810077439361062",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-20T08:49:00.060Z",
+  "lastUpdate": "2026-03-20T13:18:35.220Z",
   "updateInfo": {
-    "totalSchedules": 2332,
-    "newSchedules": 0,
+    "totalSchedules": 2333,
+    "newSchedules": 1,
     "updatedSchedules": 8
   }
 }
