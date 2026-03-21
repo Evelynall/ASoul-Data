@@ -1,5 +1,5 @@
 {
-  "version": "20260320131835",
+  "version": "20260321015415",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41209,6 +41209,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260321-2200-fiona@asoul.love",
+      "date": "2026/03/21",
+      "time": "22:00",
+      "title": "【突击】请接宜宝电话^ ^",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1181860410181025847",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260322-1200-diana@asoul.love",
       "date": "2026/03/22",
       "time": "12:00",
@@ -41260,10 +41277,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-20T13:18:35.220Z",
+  "lastUpdate": "2026-03-21T01:54:15.800Z",
   "updateInfo": {
-    "totalSchedules": 2333,
+    "totalSchedules": 2334,
     "newSchedules": 1,
-    "updatedSchedules": 8
+    "updatedSchedules": 5
   }
 }
