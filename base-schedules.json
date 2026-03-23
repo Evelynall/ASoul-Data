@@ -1,5 +1,5 @@
 {
-  "version": "20260323020745",
+  "version": "20260323052847",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41326,12 +41326,63 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260326-1900-bella@asoul.love",
+      "date": "2026/03/26",
+      "time": "19:00",
+      "title": "【突击】体验洛克王国世界！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1182837815870750743",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260326-1900-diana@asoul.love",
+      "date": "2026/03/26",
+      "time": "19:00",
+      "title": "【突击】体验洛克王国世界！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1182837841645797383",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260326-1900-eileen@asoul.love",
+      "date": "2026/03/26",
+      "time": "19:00",
+      "title": "【突击】体验洛克王国世界！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1182837867396726807",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-23T02:07:45.419Z",
+  "lastUpdate": "2026-03-23T05:28:47.412Z",
   "updateInfo": {
-    "totalSchedules": 2337,
-    "newSchedules": 2,
-    "updatedSchedules": 1
+    "totalSchedules": 2340,
+    "newSchedules": 3,
+    "updatedSchedules": 3
   }
 }
