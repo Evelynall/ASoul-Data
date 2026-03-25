@@ -1,5 +1,5 @@
 {
-  "version": "20260325052217",
+  "version": "20260325085631",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41382,7 +41382,7 @@
       "id": "20260325-1430-gladys@asoul.love",
       "date": "2026/03/25",
       "time": "14:30",
-      "title": "思诺直播",
+      "title": "【2D】生化危机7！",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -41532,6 +41532,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260327-1830-eileen@asoul.love",
+      "date": "2026/03/27",
+      "time": "18:30",
+      "title": "【突击】来简单聊聊天吧~",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1183608212740374561",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260327-2100-fiona@asoul.love",
       "date": "2026/03/27",
       "time": "21:00",
@@ -41600,10 +41617,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-25T05:22:17.627Z",
+  "lastUpdate": "2026-03-25T08:56:31.331Z",
   "updateInfo": {
-    "totalSchedules": 2353,
+    "totalSchedules": 2354,
     "newSchedules": 1,
-    "updatedSchedules": 14
+    "updatedSchedules": 15
   }
 }
