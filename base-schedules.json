@@ -1,5 +1,5 @@
 {
-  "version": "20260326054014",
+  "version": "20260326090203",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41450,7 +41450,7 @@
       "id": "20260326-1430-fiona@asoul.love",
       "date": "2026/03/26",
       "time": "14:30",
-      "title": "心宜直播",
+      "title": "【2D】零红蝶完结! ^-^",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -41617,7 +41617,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-26T05:40:14.414Z",
+  "lastUpdate": "2026-03-26T09:02:03.925Z",
   "updateInfo": {
     "totalSchedules": 2354,
     "newSchedules": 0,
