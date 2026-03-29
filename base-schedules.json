@@ -1,5 +1,5 @@
 {
-  "version": "20260329054227",
+  "version": "20260329084616",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41700,12 +41700,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260404-2000-eileen@asoul.love",
+      "date": "2026/04/04",
+      "time": "20:00",
+      "title": "【突击/鸣潮】换日庆典收尾！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1185112288811548674",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-29T05:42:27.765Z",
+  "lastUpdate": "2026-03-29T08:46:16.285Z",
   "updateInfo": {
-    "totalSchedules": 2359,
-    "newSchedules": 0,
+    "totalSchedules": 2360,
+    "newSchedules": 1,
     "updatedSchedules": 4
   }
 }
