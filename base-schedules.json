@@ -1,5 +1,5 @@
 {
-  "version": "20260329022231",
+  "version": "20260329054227",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41702,7 +41702,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-29T02:22:31.628Z",
+  "lastUpdate": "2026-03-29T05:42:27.765Z",
   "updateInfo": {
     "totalSchedules": 2359,
     "newSchedules": 0,
