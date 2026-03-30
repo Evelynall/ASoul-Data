@@ -1,5 +1,5 @@
 {
-  "version": "20260330091717",
+  "version": "20260330135354",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41685,6 +41685,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260330-1700-gladys@asoul.love",
+      "date": "2026/03/30",
+      "time": "17:00",
+      "title": "【2D】通关生化危机7!",
+      "type": "2D",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1185431591738933249",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260331-1200-bella@asoul.love",
       "date": "2026/03/31",
       "time": "12:00",
@@ -41893,8 +41910,8 @@
       "date": "2026/04/03",
       "time": "20:00",
       "title": "你要当我的旅行搭子吗？",
-      "type": "日常",
-      "subTitle": "心宜思诺",
+      "type": "节目",
+      "subTitle": "心宜思诺的聊天室",
       "category": "小心思",
       "dynamicUrl": "https://www.bilibili.com/opus/1185431591738933249",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
@@ -41940,10 +41957,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-30T09:17:17.382Z",
+  "lastUpdate": "2026-03-30T13:53:54.344Z",
   "updateInfo": {
-    "totalSchedules": 2373,
+    "totalSchedules": 2374,
     "newSchedules": 1,
-    "updatedSchedules": 14
+    "updatedSchedules": 15
   }
 }
