@@ -1,5 +1,5 @@
 {
-  "version": "20260329131422",
+  "version": "20260330022520",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41702,6 +41702,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260401-1430-diana@asoul.love",
+      "date": "2026/04/01",
+      "time": "14:30",
+      "title": "【突击】鸣潮3.0主线上半",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1185220431782608898",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260402-1200-diana@asoul.love",
+      "date": "2026/04/02",
+      "time": "12:00",
+      "title": "【突击】鸣潮3.0主线下半",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1185220457581772801",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260404-2000-eileen@asoul.love",
       "date": "2026/04/04",
       "time": "20:00",
@@ -41717,12 +41751,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260405-1900-diana@asoul.love",
+      "date": "2026/04/05",
+      "time": "19:00",
+      "title": "【突击】鸣潮3.1主线上半！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1185220479024103443",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-03-29T13:14:22.388Z",
+  "lastUpdate": "2026-03-30T02:25:20.122Z",
   "updateInfo": {
-    "totalSchedules": 2360,
-    "newSchedules": 0,
-    "updatedSchedules": 5
+    "totalSchedules": 2363,
+    "newSchedules": 3,
+    "updatedSchedules": 2
   }
 }
