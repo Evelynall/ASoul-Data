@@ -1,5 +1,5 @@
 {
-  "version": "20260402054037",
+  "version": "20260402090237",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -41858,7 +41858,7 @@
       "id": "20260402-1400-gladys@asoul.love",
       "date": "2026/04/02",
       "time": "14:00",
-      "title": "思诺直播",
+      "title": "【2D】螺诺斗地主大赛！",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -41916,6 +41916,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1185431591738933249",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260403-1600-diana@asoul.love",
+      "date": "2026/04/03",
+      "time": "16:00",
+      "title": "【突击】玩洛克王国世界！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1186612928935100421",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -42008,10 +42025,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-02T05:40:37.981Z",
+  "lastUpdate": "2026-04-02T09:02:37.549Z",
   "updateInfo": {
-    "totalSchedules": 2377,
-    "newSchedules": 0,
+    "totalSchedules": 2378,
+    "newSchedules": 1,
     "updatedSchedules": 10
   }
 }
