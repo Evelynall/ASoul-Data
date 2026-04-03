@@ -41950,8 +41950,8 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1185433911020224547",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
-      "completed": false,
-      "note": "",
+      "completed": true,
+      "note": "乃琳请假，小团播改双播",
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
