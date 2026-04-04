@@ -1,5 +1,5 @@
 {
-  "version": "20260404084736",
+  "version": "20260404131444",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42025,6 +42025,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260405-1200-eileen@asoul.love",
+      "date": "2026/04/05",
+      "time": "12:00",
+      "title": "【突击】和小琳一起洛克王国！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1187395673790611488",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260405-1900-diana@asoul.love",
       "date": "2026/04/05",
       "time": "19:00",
@@ -42040,12 +42057,46 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260407-1200-bella@asoul.love",
+      "date": "2026/04/07",
+      "time": "12:00",
+      "title": "【突击】看会儿猫和老鼠！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1187387521972043808",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260408-1200-bella@asoul.love",
+      "date": "2026/04/08",
+      "time": "12:00",
+      "title": "【突击】过战双永夜胎动主线！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1187387556329685025",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-04T08:47:36.622Z",
+  "lastUpdate": "2026-04-04T13:14:44.015Z",
   "updateInfo": {
-    "totalSchedules": 2379,
-    "newSchedules": 0,
+    "totalSchedules": 2382,
+    "newSchedules": 3,
     "updatedSchedules": 3
   }
 }
