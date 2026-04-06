@@ -1,5 +1,5 @@
 {
-  "version": "20260405131553",
+  "version": "20260406022601",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42093,6 +42093,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260407-1800-diana@asoul.love",
+      "date": "2026/04/07",
+      "time": "18:00",
+      "title": "【突击】鸣潮3.1主线下半",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1187848127128797185",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260408-1200-bella@asoul.love",
       "date": "2026/04/08",
       "time": "12:00",
@@ -42127,10 +42144,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-05T13:15:53.300Z",
+  "lastUpdate": "2026-04-06T02:26:01.246Z",
   "updateInfo": {
-    "totalSchedules": 2384,
-    "newSchedules": 0,
-    "updatedSchedules": 6
+    "totalSchedules": 2385,
+    "newSchedules": 1,
+    "updatedSchedules": 3
   }
 }
