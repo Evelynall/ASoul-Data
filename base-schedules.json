@@ -42069,8 +42069,8 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1185220479024103443",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
-      "completed": false,
-      "note": "",
+      "completed": true,
+      "note": "提前到6点",
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
