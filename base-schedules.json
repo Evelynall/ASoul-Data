@@ -1,5 +1,5 @@
 {
-  "version": "20260408090706",
+  "version": "20260408135338",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42297,6 +42297,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260410-1100-bella@asoul.love",
+      "date": "2026/04/10",
+      "time": "11:00",
+      "title": "【突击】过战双主线湮灭残昼！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1188884399697952818",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260410-1700-gladys@asoul.love",
       "date": "2026/04/10",
       "time": "17:00",
@@ -42365,6 +42382,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260412-1200-diana@asoul.love",
+      "date": "2026/04/12",
+      "time": "12:00",
+      "title": "【突击】鸣潮3.2主线上半！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1188875071042617350",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260412-1900-eileen@asoul.love",
       "date": "2026/04/12",
       "time": "19:00",
@@ -42399,10 +42433,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-08T09:07:06.087Z",
+  "lastUpdate": "2026-04-08T13:53:38.813Z",
   "updateInfo": {
-    "totalSchedules": 2400,
-    "newSchedules": 1,
-    "updatedSchedules": 13
+    "totalSchedules": 2402,
+    "newSchedules": 2,
+    "updatedSchedules": 14
   }
 }
