@@ -1,5 +1,5 @@
 {
-  "version": "20260409091245",
+  "version": "20260409140352",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42263,6 +42263,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260409-1930-eileen-u1189227483784806400@asoul.love",
+      "date": "2026/04/09",
+      "time": "19:30",
+      "title": "KTV！但颜文字>.<",
+      "type": "日常",
+      "subTitle": "乃琳直播",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1189227483784806400",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260409-2100-bella@asoul.love",
       "date": "2026/04/09",
       "time": "21:00",
@@ -42290,6 +42307,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1188528853696380937",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260410-1000-gladys@asoul.love",
+      "date": "2026/04/10",
+      "time": "10:00",
+      "title": "【2D】小诺歌杂时间",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1189262253695696898",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -42484,10 +42518,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-09T09:12:45.263Z",
+  "lastUpdate": "2026-04-09T14:03:52.279Z",
   "updateInfo": {
-    "totalSchedules": 2405,
-    "newSchedules": 3,
-    "updatedSchedules": 12
+    "totalSchedules": 2407,
+    "newSchedules": 2,
+    "updatedSchedules": 15
   }
 }
