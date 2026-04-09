@@ -90,6 +90,67 @@ node scripts/update-schedules.js
 https://raw.githubusercontent.com/Evelynall/ASoul-Data/main/base-schedules.json
 ```
 
+## 手动修改日程数据
+
+当需要修正特定日程的字段（如标记已完成、添加备注等）时，可使用 **"修改日程数据"** 工作流。
+
+### 触发方式
+
+1. 进入仓库 Actions 页面
+2. 左侧选择 **"修改日程数据"** 工作流
+3. 点击 **"Run workflow"**
+4. 在 `patch_data` 输入框中填入 JSON 数据，点击绿色 **"Run workflow"** 按钮
+
+### 输入格式
+
+**单条修改**（修改一个日程的指定字段）：
+```json
+{"id":"20210128-2000-bella@asoul.love","completed":true,"note":"演唱会"}
+```
+
+**批量修改**（一次修改多个日程）：
+```json
+[
+  {"id":"20210128-2000-bella@asoul.love","completed":true,"note":"演唱会"},
+  {"id":"20210129-2000-ava@asoul.love","isFavorite":true}
+]
+```
+
+### 可修改的字段
+
+| 字段 | 类型 | 说明 |
+|------|------|------|
+| `title` | string | 日程标题 |
+| `type` | string | 日程类型 |
+| `subTitle` | string | 副标题 |
+| `category` | string | 成员分类 |
+| `dynamicUrl` | string | B站动态链接 |
+| `liveRoomUrl` | string | 直播间链接 |
+| `icsUrl` | string | ICS 链接 |
+| `completed` | boolean | 是否已完成 |
+| `note` | string | 备注 |
+| `isAnime` | boolean | 是否为动画 |
+| `isFavorite` | boolean | 是否收藏 |
+
+> `id`、`date`、`time` 等标识性字段不允许通过此工作流修改。
+
+### 通过 API 触发（远程调用）
+
+可以从其他系统通过 GitHub API 触发此工作流，实现自动化修改：
+
+```bash
+curl -X POST \
+  -H "Authorization: Bearer YOUR_GITHUB_TOKEN" \
+  -H "Accept: application/vnd.github+json" \
+  https://api.github.com/repos/Evelynall/ASoul-Data/actions/workflows/patch-schedule.yml/dispatches \
+  -d '{
+    "ref": "main",
+    "inputs": {
+      "patch_data": "{\"id\":\"20210128-2000-bella@asoul.love\",\"completed\":true,\"note\":\"已完成\"}"
+    }
+  }'
+```
+
 ## 许可证
 
 MIT License

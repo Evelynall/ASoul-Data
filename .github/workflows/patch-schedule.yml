@@ -1,0 +1,64 @@
+name: 修改日程数据
+
+on:
+  workflow_dispatch:
+    inputs:
+      patch_data:
+        description: |
+          要修改的日程数据（JSON 格式）
+          单条示例：{"id":"20210128-2000-bella@asoul.love","completed":true,"note":"演唱会"}
+          批量示例：[{"id":"...","completed":true},{"id":"...","note":"备注"}]
+        required: true
+        type: string
+
+jobs:
+  patch-schedule:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 验证并预览补丁内容
+        run: |
+          echo "收到的补丁数据："
+          echo '${{ github.event.inputs.patch_data }}' | python3 -m json.tool || {
+            echo "错误：输入的 JSON 格式无效，请检查后重试"
+            exit 1
+          }
+
+      - name: 执行日程修改
+        env:
+          PATCH_DATA: ${{ github.event.inputs.patch_data }}
+        run: node scripts/patch-schedule.js
+        # 退出码 2 表示有 id 未找到，仍视为部分成功，继续提交已修改的部分
+        continue-on-error: false
+
+      - name: 提交更改
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add base-schedules.json
+
+          if git diff --staged --quiet; then
+            echo "没有检测到文件变化，无需提交"
+            exit 0
+          fi
+
+          # 截取补丁数据的前 80 个字符作为提交信息摘要
+          PATCH_SUMMARY=$(echo '${{ github.event.inputs.patch_data }}' | head -c 80)
+          git commit -m "手动修改日程数据 $(date +'%Y-%m-%d %H:%M:%S UTC') | ${PATCH_SUMMARY}"
+          echo "已提交更改"
+
+      - name: 推送更改
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
