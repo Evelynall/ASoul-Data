@@ -1,5 +1,5 @@
 {
-  "version": "20260409083929",
+  "version": "20260409084204",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -38938,7 +38938,7 @@
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
-      "note": "",
+      "note": "更新为双播小小梦魇",
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false,
@@ -42433,7 +42433,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-09T08:39:29.866Z",
+  "lastUpdate": "2026-04-09T08:42:04.627Z",
   "updateInfo": {
     "totalSchedules": 2402,
     "newSchedules": 0,
