@@ -1,5 +1,5 @@
 {
-  "version": "20260409085609",
+  "version": "20260409091245",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42232,7 +42232,7 @@
       "id": "20260409-1600-gladys@asoul.love",
       "date": "2026/04/09",
       "time": "16:00",
-      "title": "思诺直播",
+      "title": "【2D】久违的聊天之校园趣事",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -42365,6 +42365,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260411-1500-eileen@asoul.love",
+      "date": "2026/04/11",
+      "time": "15:00",
+      "title": "【突击】一起洛克王国世界！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1189207230923145254",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260411-1920-bella@asoul.love",
+      "date": "2026/04/11",
+      "time": "19:20",
+      "title": "【突击】一起看终末地前瞻",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1189218676967997442",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260411-2000-bella@asoul.love",
       "date": "2026/04/11",
       "time": "20:00",
@@ -42373,6 +42407,23 @@
       "subTitle": "A-SOUL夜谈",
       "category": "A-SOUL",
       "dynamicUrl": "https://www.bilibili.com/opus/1188029187967942673",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260411-2100-bella-u1189218260344635392@asoul.love",
+      "date": "2026/04/11",
+      "time": "21:00",
+      "title": "KTV来 KTV来",
+      "type": "节目",
+      "subTitle": "A-SOUL夜谈",
+      "category": "A-SOUL",
+      "dynamicUrl": "https://www.bilibili.com/opus/1189218260344635392",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
@@ -42433,10 +42484,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-09T08:56:09.353Z",
+  "lastUpdate": "2026-04-09T09:12:45.263Z",
   "updateInfo": {
-    "totalSchedules": 2402,
-    "newSchedules": 0,
+    "totalSchedules": 2405,
+    "newSchedules": 3,
     "updatedSchedules": 12
   }
 }
