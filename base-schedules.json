@@ -1,5 +1,5 @@
 {
-  "version": "20260409085209",
+  "version": "20260409085334",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -30292,8 +30292,8 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1094550253372178437",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
-      "completed": false,
-      "note": "",
+      "completed": true,
+      "note": "身体原因取消",
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
@@ -42433,7 +42433,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-09T08:52:09.455Z",
+  "lastUpdate": "2026-04-09T08:53:34.968Z",
   "updateInfo": {
     "totalSchedules": 2402,
     "newSchedules": 0,
