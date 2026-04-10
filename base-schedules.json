@@ -1,5 +1,5 @@
 {
-  "version": "20260409140352",
+  "version": "20260410014616",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42443,8 +42443,8 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1188029187967942673",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
-      "completed": false,
-      "note": "",
+      "completed": true,
+      "note": "拉姐巨龙前瞻，团播延后一小时",
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
@@ -42518,7 +42518,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-09T14:03:52.279Z",
+  "lastUpdate": "2026-04-10T01:46:16.440Z",
   "updateInfo": {
     "totalSchedules": 2407,
     "newSchedules": 2,
