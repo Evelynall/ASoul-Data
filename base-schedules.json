@@ -1,5 +1,5 @@
 {
-  "version": "20260410134137",
+  "version": "20260411020659",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42467,6 +42467,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260411-2200-fiona@asoul.love",
+      "date": "2026/04/11",
+      "time": "22:00",
+      "title": "【突击】和你打电话说晚安~",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1189709501535617041",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260412-1200-diana@asoul.love",
       "date": "2026/04/12",
       "time": "12:00",
@@ -42535,10 +42552,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-10T13:41:37.220Z",
+  "lastUpdate": "2026-04-11T02:06:59.814Z",
   "updateInfo": {
-    "totalSchedules": 2408,
+    "totalSchedules": 2409,
     "newSchedules": 1,
-    "updatedSchedules": 12
+    "updatedSchedules": 8
   }
 }
