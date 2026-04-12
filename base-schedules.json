@@ -1,5 +1,5 @@
 {
-  "version": "20260412085448",
+  "version": "20260412131931",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42552,6 +42552,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260414-1700-diana@asoul.love",
+      "date": "2026/04/14",
+      "time": "17:00",
+      "title": "【突击】继续鸣潮3.2主线！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1190359403139694593",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260415-1600-bella@asoul.love",
       "date": "2026/04/15",
       "time": "16:00",
@@ -42586,10 +42603,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-12T08:54:48.013Z",
+  "lastUpdate": "2026-04-12T13:19:31.842Z",
   "updateInfo": {
-    "totalSchedules": 2411,
-    "newSchedules": 0,
+    "totalSchedules": 2412,
+    "newSchedules": 1,
     "updatedSchedules": 6
   }
 }
