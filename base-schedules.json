@@ -1,5 +1,5 @@
 {
-  "version": "20260413095841",
+  "version": "20260413140149",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42603,6 +42603,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260414-2100-gladys-u1190722680028921857@asoul.love",
+      "date": "2026/04/14",
+      "time": "21:00",
+      "title": "思诺直播",
+      "type": "2D",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1190722680028921857",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260415-0830-eileen@asoul.love",
       "date": "2026/04/15",
       "time": "08:30",
@@ -42645,6 +42662,23 @@
       "subTitle": "思诺直播",
       "category": "思诺",
       "dynamicUrl": "https://www.bilibili.com/opus/1190626784157106180",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260415-1930-gladys@asoul.love",
+      "date": "2026/04/15",
+      "time": "19:30",
+      "title": "【3D歌回】周杰伦主题歌回2",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1190723414456795152",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
@@ -42790,10 +42824,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-13T09:58:41.528Z",
+  "lastUpdate": "2026-04-13T14:01:49.403Z",
   "updateInfo": {
-    "totalSchedules": 2423,
-    "newSchedules": 1,
-    "updatedSchedules": 14
+    "totalSchedules": 2425,
+    "newSchedules": 2,
+    "updatedSchedules": 15
   }
 }
