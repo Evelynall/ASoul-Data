@@ -1,5 +1,5 @@
 {
-  "version": "20260414102207",
+  "version": "20260414102228",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42664,8 +42664,8 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1190626784157106180",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
-      "completed": false,
-      "note": "",
+      "completed": true,
+      "note": "与周二的3D互换",
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
@@ -42824,7 +42824,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-14T10:22:07.811Z",
+  "lastUpdate": "2026-04-14T10:22:28.802Z",
   "updateInfo": {
     "totalSchedules": 2425,
     "newSchedules": 0,
