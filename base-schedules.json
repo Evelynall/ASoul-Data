@@ -1,5 +1,5 @@
 {
-  "version": "20260416092341",
+  "version": "20260416140601",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42759,7 +42759,7 @@
       "id": "20260416-2100-fiona@asoul.love",
       "date": "2026/04/16",
       "time": "21:00",
-      "title": "心宜直播",
+      "title": "【2D】宜宝放映室o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -42841,6 +42841,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260418-1920-diana@asoul.love",
+      "date": "2026/04/18",
+      "time": "19:20",
+      "title": "【突击】和小然一起看异环前瞻",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1191834466702589987",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260419-2000-fiona@asoul.love",
       "date": "2026/04/19",
       "time": "20:00",
@@ -42858,10 +42875,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-16T09:23:41.440Z",
+  "lastUpdate": "2026-04-16T14:06:01.810Z",
   "updateInfo": {
-    "totalSchedules": 2427,
-    "newSchedules": 0,
+    "totalSchedules": 2428,
+    "newSchedules": 1,
     "updatedSchedules": 9
   }
 }
