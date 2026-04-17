@@ -1,5 +1,5 @@
 {
-  "version": "20260417092214",
+  "version": "20260417134925",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42793,7 +42793,7 @@
       "id": "20260417-1800-fiona@asoul.love",
       "date": "2026/04/17",
       "time": "18:00",
-      "title": "心宜直播",
+      "title": "【2D】一起唱歌聊天吧o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -42909,10 +42909,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-17T09:22:14.072Z",
+  "lastUpdate": "2026-04-17T13:49:25.956Z",
   "updateInfo": {
     "totalSchedules": 2430,
-    "newSchedules": 2,
-    "updatedSchedules": 6
+    "newSchedules": 0,
+    "updatedSchedules": 8
   }
 }
