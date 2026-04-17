@@ -1,5 +1,5 @@
 {
-  "version": "20260417060214",
+  "version": "20260417092214",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42841,6 +42841,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260418-1200-eileen@asoul.love",
+      "date": "2026/04/18",
+      "time": "12:00",
+      "title": "【突击】继续玩识质存在！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1192169590099017748",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260418-1920-diana@asoul.love",
       "date": "2026/04/18",
       "time": "19:20",
@@ -42851,6 +42868,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1191834466702589987",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260419-1200-eileen@asoul.love",
+      "date": "2026/04/19",
+      "time": "12:00",
+      "title": "【突击】先玩鸣潮诸星密语！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1192169620148060183",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -42875,10 +42909,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-17T06:02:14.920Z",
+  "lastUpdate": "2026-04-17T09:22:14.072Z",
   "updateInfo": {
-    "totalSchedules": 2428,
-    "newSchedules": 0,
+    "totalSchedules": 2430,
+    "newSchedules": 2,
     "updatedSchedules": 6
   }
 }
