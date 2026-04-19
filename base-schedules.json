@@ -1,5 +1,5 @@
 {
-  "version": "20260419023407",
+  "version": "20260419055731",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42907,12 +42907,46 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260421-1900-diana@asoul.love",
+      "date": "2026/04/21",
+      "time": "19:00",
+      "title": "【鸣潮/突击】全息尝尝咸淡！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1192847082562519041",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260422-1200-bella@asoul.love",
+      "date": "2026/04/22",
+      "time": "12:00",
+      "title": "【突击】过战双剧情枯朽为灯！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1192845656617648151",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-19T02:34:07.228Z",
+  "lastUpdate": "2026-04-19T05:57:31.138Z",
   "updateInfo": {
-    "totalSchedules": 2430,
-    "newSchedules": 0,
+    "totalSchedules": 2432,
+    "newSchedules": 2,
     "updatedSchedules": 2
   }
 }
