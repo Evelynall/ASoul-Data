@@ -1,5 +1,5 @@
 {
-  "version": "20260420061315",
+  "version": "20260420100128",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -42912,7 +42912,7 @@
       "id": "20260420-1700-gladys@asoul.love",
       "date": "2026/04/20",
       "time": "17:00",
-      "title": "思诺直播",
+      "title": "【2D】回忆歌杂",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -43004,6 +43004,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1193224380360949784",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260422-1800-eileen@asoul.love",
+      "date": "2026/04/22",
+      "time": "18:00",
+      "title": "【鸣潮/突击】来玩团子活动！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1193278103995023365",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -43147,10 +43164,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-20T06:13:15.335Z",
+  "lastUpdate": "2026-04-20T10:01:28.085Z",
   "updateInfo": {
-    "totalSchedules": 2444,
-    "newSchedules": 12,
-    "updatedSchedules": 2
+    "totalSchedules": 2445,
+    "newSchedules": 1,
+    "updatedSchedules": 14
   }
 }
