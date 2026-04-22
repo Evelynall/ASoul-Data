@@ -1,5 +1,5 @@
 {
-  "version": "20260422092508",
+  "version": "20260422140307",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43045,6 +43045,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260423-1200-diana@asoul.love",
+      "date": "2026/04/23",
+      "time": "12:00",
+      "title": "【突击】和小然一起开荒异环！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1194050283249860629",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260423-1400-gladys@asoul.love",
       "date": "2026/04/23",
       "time": "14:00",
@@ -43164,6 +43181,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260425-1200-eileen@asoul.love",
+      "date": "2026/04/25",
+      "time": "12:00",
+      "title": "【鸣潮/突击】继续团子活动！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1194094628788240390",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260425-1400-fiona@asoul.love",
+      "date": "2026/04/25",
+      "time": "14:00",
+      "title": "【2D】陪你过周末^ ^",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1194089397544288256",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260425-2000-diana@asoul.love",
       "date": "2026/04/25",
       "time": "20:00",
@@ -43198,10 +43249,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-22T09:25:08.199Z",
+  "lastUpdate": "2026-04-22T14:03:07.810Z",
   "updateInfo": {
-    "totalSchedules": 2447,
-    "newSchedules": 2,
-    "updatedSchedules": 11
+    "totalSchedules": 2450,
+    "newSchedules": 3,
+    "updatedSchedules": 13
   }
 }
