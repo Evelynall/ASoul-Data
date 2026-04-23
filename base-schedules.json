@@ -1,5 +1,5 @@
 {
-  "version": "20260423094755",
+  "version": "20260423140421",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43249,6 +43249,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260426-1000-bella@asoul.love",
+      "date": "2026/04/26",
+      "time": "10:00",
+      "title": "【突击】过战双主线空晓界限！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1194446481124229124",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260426-2000-gladys@asoul.love",
       "date": "2026/04/26",
       "time": "20:00",
@@ -43266,10 +43283,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-23T09:47:55.933Z",
+  "lastUpdate": "2026-04-23T14:04:21.741Z",
   "updateInfo": {
-    "totalSchedules": 2451,
+    "totalSchedules": 2452,
     "newSchedules": 1,
-    "updatedSchedules": 12
+    "updatedSchedules": 13
   }
 }
