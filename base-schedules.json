@@ -1,5 +1,5 @@
 {
-  "version": "20260424060634",
+  "version": "20260424094739",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43249,6 +43249,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260425-2200-gladys@asoul.love",
+      "date": "2026/04/25",
+      "time": "22:00",
+      "title": "【晚安电台】小螺抱抱～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1194785882314375192",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260426-1000-bella@asoul.love",
       "date": "2026/04/26",
       "time": "10:00",
@@ -43300,10 +43317,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-24T06:06:34.460Z",
+  "lastUpdate": "2026-04-24T09:47:39.946Z",
   "updateInfo": {
-    "totalSchedules": 2453,
+    "totalSchedules": 2454,
     "newSchedules": 1,
-    "updatedSchedules": 9
+    "updatedSchedules": 10
   }
 }
