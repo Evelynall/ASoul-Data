@@ -1,5 +1,5 @@
 {
-  "version": "20260424023225",
+  "version": "20260424060634",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43266,6 +43266,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260426-1900-eileen@asoul.love",
+      "date": "2026/04/26",
+      "time": "19:00",
+      "title": "【突击】和王姐一起无畏契约！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1194717794207268869",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260426-2000-gladys@asoul.love",
       "date": "2026/04/26",
       "time": "20:00",
@@ -43283,10 +43300,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-24T02:32:25.824Z",
+  "lastUpdate": "2026-04-24T06:06:34.460Z",
   "updateInfo": {
-    "totalSchedules": 2452,
-    "newSchedules": 0,
+    "totalSchedules": 2453,
+    "newSchedules": 1,
     "updatedSchedules": 9
   }
 }
