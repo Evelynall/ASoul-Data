@@ -1,5 +1,5 @@
 {
-  "version": "20260427062630",
+  "version": "20260427102048",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43337,7 +43337,7 @@
       "id": "20260427-1700-fiona@asoul.love",
       "date": "2026/04/27",
       "time": "17:00",
-      "title": "心宜直播",
+      "title": "【2D】来选节目吧！",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -43368,6 +43368,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260428-1100-diana@asoul.love",
+      "date": "2026/04/28",
+      "time": "11:00",
+      "title": "【归环】和小然一起探探路",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1195902913090682903",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260428-1530-bella@asoul.love",
       "date": "2026/04/28",
       "time": "15:30",
@@ -43378,6 +43395,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1195495294941265945",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260428-1900-eileen@asoul.love",
+      "date": "2026/04/28",
+      "time": "19:00",
+      "title": "【突击】归环一周目接力2/3",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1195902956059230240",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -43412,6 +43446,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1195821976629805056",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260429-1100-bella@asoul.love",
+      "date": "2026/04/29",
+      "time": "11:00",
+      "title": "【突击】归环一周目接力3/3",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1195902994704498705",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -43485,12 +43536,46 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260503-1900-eileen@asoul.love",
+      "date": "2026/05/03",
+      "time": "19:00",
+      "title": "【突击】鸣潮3.3主线！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1195869098832035842",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260505-1800-diana@asoul.love",
+      "date": "2026/05/05",
+      "time": "18:00",
+      "title": "【突击】来玩鸣潮3.3主线！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1195870357277376513",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-27T06:26:30.801Z",
+  "lastUpdate": "2026-04-27T10:20:48.584Z",
   "updateInfo": {
-    "totalSchedules": 2464,
-    "newSchedules": 8,
-    "updatedSchedules": 1
+    "totalSchedules": 2469,
+    "newSchedules": 5,
+    "updatedSchedules": 9
   }
 }
