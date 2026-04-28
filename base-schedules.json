@@ -1,5 +1,5 @@
 {
-  "version": "20260428101843",
+  "version": "20260428143448",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43521,6 +43521,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260430-1430-bella@asoul.love",
+      "date": "2026/04/30",
+      "time": "14:30",
+      "title": "【突击】继续战双刻命螺旋！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1196305489018748933",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260430-1930-eileen@asoul.love",
       "date": "2026/04/30",
       "time": "19:30",
@@ -43589,10 +43606,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-28T10:18:43.155Z",
+  "lastUpdate": "2026-04-28T14:34:48.779Z",
   "updateInfo": {
-    "totalSchedules": 2470,
+    "totalSchedules": 2471,
     "newSchedules": 1,
-    "updatedSchedules": 12
+    "updatedSchedules": 13
   }
 }
