@@ -1,5 +1,5 @@
 {
-  "version": "20260429062152",
+  "version": "20260429100830",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43473,7 +43473,7 @@
       "id": "20260429-1800-gladys@asoul.love",
       "date": "2026/04/29",
       "time": "18:00",
-      "title": "思诺心宜双播",
+      "title": "【2D】双人游戏time！",
       "type": "2D",
       "subTitle": "思诺心宜双播",
       "category": "小心思",
@@ -43514,6 +43514,40 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1196269845028536344",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260429-2230-eileen-u1196593625486589957@asoul.love",
+      "date": "2026/04/29",
+      "time": "22:30",
+      "title": "喝点儿聊聊天，继续上次的qa",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1196593625486589957",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260430-1200-diana@asoul.love",
+      "date": "2026/04/30",
+      "time": "12:00",
+      "title": "【突击】再玩一会儿异环！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1196622741073035271",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -43572,6 +43606,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260430-2230-diana@asoul.love",
+      "date": "2026/04/30",
+      "time": "22:30",
+      "title": "【突击】深夜小然电台",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1196622710954786832",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260503-1900-eileen@asoul.love",
       "date": "2026/05/03",
       "time": "19:00",
@@ -43606,10 +43657,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-29T06:21:52.483Z",
+  "lastUpdate": "2026-04-29T10:08:30.318Z",
   "updateInfo": {
-    "totalSchedules": 2471,
-    "newSchedules": 0,
-    "updatedSchedules": 9
+    "totalSchedules": 2474,
+    "newSchedules": 3,
+    "updatedSchedules": 8
   }
 }
