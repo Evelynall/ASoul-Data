@@ -1,5 +1,5 @@
 {
-  "version": "20260430100928",
+  "version": "20260430141915",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43640,6 +43640,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260504-0930-bella@asoul.love",
+      "date": "2026/05/04",
+      "time": "09:30",
+      "title": "【突击】过战双主线摇篮！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1197039490279931908",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260505-1800-diana@asoul.love",
       "date": "2026/05/05",
       "time": "18:00",
@@ -43657,10 +43674,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-04-30T10:09:28.886Z",
+  "lastUpdate": "2026-04-30T14:19:15.578Z",
   "updateInfo": {
-    "totalSchedules": 2474,
-    "newSchedules": 0,
+    "totalSchedules": 2475,
+    "newSchedules": 1,
     "updatedSchedules": 7
   }
 }
