@@ -1,5 +1,5 @@
 {
-  "version": "20260504101705",
+  "version": "20260504142232",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43759,6 +43759,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260506-1700-eileen@asoul.love",
+      "date": "2026/05/06",
+      "time": "17:00",
+      "title": "【突击/鸣潮】玩二周年活动！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1198520438006743063",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260506-1800-gladys@asoul.love",
       "date": "2026/05/06",
       "time": "18:00",
@@ -43912,6 +43929,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260510-1000-bella@asoul.love",
+      "date": "2026/05/10",
+      "time": "10:00",
+      "title": "【突击】过战双主线碑火铸脊！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1198514807265820723",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260510-2000-fiona@asoul.love",
       "date": "2026/05/10",
       "time": "20:00",
@@ -43929,10 +43963,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-04T10:17:05.642Z",
+  "lastUpdate": "2026-05-04T14:22:32.538Z",
   "updateInfo": {
-    "totalSchedules": 2490,
-    "newSchedules": 0,
+    "totalSchedules": 2492,
+    "newSchedules": 2,
     "updatedSchedules": 15
   }
 }
