@@ -1,5 +1,5 @@
 {
-  "version": "20260507063320",
+  "version": "20260507102739",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43946,6 +43946,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260509-1200-diana@asoul.love",
+      "date": "2026/05/09",
+      "time": "12:00",
+      "title": "【鸣潮/突击】玩玩二周年活动",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1199621925326815239",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260509-1600-fiona@asoul.love",
       "date": "2026/05/09",
       "time": "16:00",
@@ -44014,10 +44031,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-07T06:33:20.335Z",
+  "lastUpdate": "2026-05-07T10:27:39.194Z",
   "updateInfo": {
-    "totalSchedules": 2495,
+    "totalSchedules": 2496,
     "newSchedules": 1,
-    "updatedSchedules": 11
+    "updatedSchedules": 12
   }
 }
