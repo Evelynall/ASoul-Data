@@ -1,5 +1,5 @@
 {
-  "version": "20260508092629",
+  "version": "20260508140756",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43932,7 +43932,7 @@
       "id": "20260508-2200-fiona@asoul.love",
       "date": "2026/05/08",
       "time": "22:00",
-      "title": "心宜直播",
+      "title": "【2D】宜宝放映室o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -44029,12 +44029,46 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260511-1830-gladys@asoul.love",
+      "date": "2026/05/11",
+      "time": "18:30",
+      "title": "【2D】生化危机8开玩！！！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1200035148364513318",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260513-1200-eileen@asoul.love",
+      "date": "2026/05/13",
+      "time": "12:00",
+      "title": "【突击】来看赛博朋克边缘行者",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1199979528596750360",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-08T09:26:29.297Z",
+  "lastUpdate": "2026-05-08T14:07:56.567Z",
   "updateInfo": {
-    "totalSchedules": 2496,
-    "newSchedules": 0,
+    "totalSchedules": 2498,
+    "newSchedules": 2,
     "updatedSchedules": 9
   }
 }
