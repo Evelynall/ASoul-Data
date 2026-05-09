@@ -1,5 +1,5 @@
 {
-  "version": "20260509061354",
+  "version": "20260509092255",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -43966,7 +43966,7 @@
       "id": "20260509-1600-fiona@asoul.love",
       "date": "2026/05/09",
       "time": "16:00",
-      "title": "心宜直播",
+      "title": "【2D】来点影视剧OST",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -44065,7 +44065,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-09T06:13:54.533Z",
+  "lastUpdate": "2026-05-09T09:22:55.526Z",
   "updateInfo": {
     "totalSchedules": 2498,
     "newSchedules": 0,
