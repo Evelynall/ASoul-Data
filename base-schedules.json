@@ -1,5 +1,5 @@
 {
-  "version": "20260510094050",
+  "version": "20260510134642",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44031,6 +44031,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260511-0900-bella@asoul.love",
+      "date": "2026/05/11",
+      "time": "09:00",
+      "title": "【突击】早安电台",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1200757252626055172",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260511-1830-gladys@asoul.love",
       "date": "2026/05/11",
       "time": "18:30",
@@ -44082,10 +44099,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-10T09:40:50.692Z",
+  "lastUpdate": "2026-05-10T13:46:42.995Z",
   "updateInfo": {
-    "totalSchedules": 2499,
+    "totalSchedules": 2500,
     "newSchedules": 1,
-    "updatedSchedules": 4
+    "updatedSchedules": 5
   }
 }
