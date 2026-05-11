@@ -205,7 +205,7 @@ async function main() {
     let skipCount = 0;
 
     for (const schedule of schedules) {
-        if (schedule.replayUrl && schedule.replayUrl.includes('bilibili.com')) {
+        if ((schedule.replayUrl && schedule.replayUrl.includes('bilibili.com')) || schedule.officialRecordUrl) {
             skipCount++;
             continue;
         }
@@ -228,7 +228,7 @@ async function main() {
             
             if (videoDate === scheduleDate) {
                 if (timeMatch(scheduleTime, videoTime)) {
-                    schedule.replayUrl = videoInfo.url;
+                    schedule.officialRecordUrl = videoInfo.url;
                     updateCount++;
                     console.log(`✓ 匹配成功!`);
                     console.log(`  日程: ${schedule.id}`);
