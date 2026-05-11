@@ -43,11 +43,10 @@ function extractDateTime(scheduleId) {
 }
 
 async function fetchSeriesVideos(mid, seriesId) {
-    const allVideos = [];
+    const targetVideos = [];
     let pageNum = 1;
     const pageSize = 20;
     let hasMore = true;
-    const targetVideos = [];
 
     while (hasMore) {
         const url = `${BILIBILI_SERIES_API}?mid=${mid}&page_num=${pageNum}&page_size=${pageSize}`;
