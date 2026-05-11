@@ -20,7 +20,7 @@ const ID_MEMBER_MAP = {
     'gladys': '思诺'
 };
 
-const BILIBILI_SERIES_API = 'https://api.bilibili.com/x/polymer/web-space/home/seasons_series';
+const BILIBILI_SERIES_API = 'https://api.bilibili.com/x/series/archives';
 
 function extractMemberFromId(scheduleId) {
     const match = scheduleId.match(/^(\d{8})-(\d{4})-(.+?)@/);
@@ -45,11 +45,11 @@ function extractDateTime(scheduleId) {
 async function fetchSeriesVideos(mid, seriesId) {
     const targetVideos = [];
     let pageNum = 1;
-    const pageSize = 20;
+    const pageSize = 100;
     let hasMore = true;
 
     while (hasMore) {
-        const url = `${BILIBILI_SERIES_API}?mid=${mid}&page_num=${pageNum}&page_size=${pageSize}`;
+        const url = `${BILIBILI_SERIES_API}?mid=${mid}&series_id=${seriesId}&only_normal=true&sort=desc&pn=${pageNum}&ps=${pageSize}`;
 
         try {
             const response = await fetch(url, {
@@ -72,26 +72,13 @@ async function fetchSeriesVideos(mid, seriesId) {
                 break;
             }
 
-            const seriesList = data.data?.items_lists?.series_list || [];
+            const archives = data.data?.archives || [];
+            targetVideos.push(...archives);
+
+            const pageInfo = data.data?.page || {};
+            const totalPage = pageInfo.total_page || 1;
             
-            let foundSeries = false;
-            for (const series of seriesList) {
-                const meta = series.meta || {};
-                if (meta.series_id === seriesId) {
-                    const archives = series.archives || [];
-                    targetVideos.push(...archives);
-                    foundSeries = true;
-                    break;
-                }
-            }
-
-            if (!foundSeries) {
-                hasMore = false;
-                break;
-            }
-
-            const pageInfo = data.data?.items_lists?.page || {};
-            if (pageNum >= pageInfo.total || seriesList.length < pageSize) {
+            if (pageNum >= totalPage || archives.length < pageSize) {
                 hasMore = false;
             } else {
                 pageNum++;
