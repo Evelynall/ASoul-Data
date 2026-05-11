@@ -13,6 +13,9 @@ const MEMBER_CONFIG = {
 };
 
 const ID_MEMBER_MAP = {
+    'bella': '贝拉',
+    'diana': '嘉然',
+    'eileen': '乃琳',
     'fiona': '心宜',
     'gladys': '思诺'
 };
