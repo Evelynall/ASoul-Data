@@ -8,16 +8,13 @@ const MEMBER_CONFIG = {
     '贝拉': { mid: 672353429, seriesId: 222938 },
     '嘉然': { mid: 672328094, seriesId: 222940 },
     '乃琳': { mid: 672342685, seriesId: 222754 },
-    '向晚': { mid: 3537115310721181, seriesId: 3698069 },
-    '珈乐': { mid: 3537115310721781, seriesId: 3692011 }
+    '心宜': { mid: 3537115310721181, seriesId: 3698069 },
+    '思诺': { mid: 3537115310721781, seriesId: 3692011 }
 };
 
 const ID_MEMBER_MAP = {
-    'bella': '贝拉',
-    'diana': '嘉然',
-    'eileen': '乃琳',
-    'ava': '向晚',
-    'carol': '珈乐'
+    'fiona': '心宜',
+    'gladys': '思诺'
 };
 
 const BILIBILI_SERIES_API = 'https://api.bilibili.com/x/polymer/web-space/home/seasons_series';
