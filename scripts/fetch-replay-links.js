@@ -5,11 +5,11 @@ const fetch = require('node-fetch');
 const BASE_SCHEDULES_PATH = path.join(__dirname, '..', 'base-schedules.json');
 
 const MEMBER_CONFIG = {
-    '贝拉': { mid: 672353429, seriesName: '直播回放' },
-    '嘉然': { mid: 672328094, seriesName: '直播回放' },
-    '乃琳': { mid: 672342685, seriesName: '直播回放' },
-    '向晚': { mid: 3537115310721181, seriesName: '直播回放' },
-    '珈乐': { mid: 3537115310721781, seriesName: '直播回放' }
+    '贝拉': { mid: 672353429, seriesId: 222938 },
+    '嘉然': { mid: 672328094, seriesId: 222940 },
+    '乃琳': { mid: 672342685, seriesId: 222754 },
+    '向晚': { mid: 3537115310721181, seriesId: 3698069 },
+    '珈乐': { mid: 3537115310721781, seriesId: 3692011 }
 };
 
 const ID_MEMBER_MAP = {
@@ -42,7 +42,7 @@ function extractDateTime(scheduleId) {
     return null;
 }
 
-async function fetchAllVideos(mid) {
+async function fetchSeriesVideos(mid, seriesId) {
     const allVideos = [];
     let pageNum = 1;
     const pageSize = 20;
@@ -56,7 +56,8 @@ async function fetchAllVideos(mid) {
             const response = await fetch(url, {
                 headers: {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                    'Referer': 'https://www.bilibili.com'
+                    'Referer': `https://space.bilibili.com/${mid}/lists/${seriesId}?type=series`,
+                    'Origin': 'https://space.bilibili.com'
                 }
             });
 
@@ -74,12 +75,20 @@ async function fetchAllVideos(mid) {
 
             const seriesList = data.data?.items_lists?.series_list || [];
             
+            let foundSeries = false;
             for (const series of seriesList) {
                 const meta = series.meta || {};
-                if (meta.name === '直播回放') {
+                if (meta.series_id === seriesId) {
                     const archives = series.archives || [];
                     targetVideos.push(...archives);
+                    foundSeries = true;
+                    break;
                 }
+            }
+
+            if (!foundSeries) {
+                hasMore = false;
+                break;
             }
 
             const pageInfo = data.data?.items_lists?.page || {};
@@ -159,10 +168,10 @@ async function main() {
     const memberVideos = {};
     for (const [memberName, config] of Object.entries(MEMBER_CONFIG)) {
         console.log(`\n正在获取 ${memberName} 的录播列表...`);
-        console.log(`  MID: ${config.mid}, Series: ${config.seriesName}`);
+        console.log(`  MID: ${config.mid}, Series ID: ${config.seriesId}`);
 
         try {
-            const videos = await fetchAllVideos(config.mid);
+            const videos = await fetchSeriesVideos(config.mid, config.seriesId);
             console.log(`  获取到 ${videos.length} 个视频`);
 
             const videoMap = new Map();
