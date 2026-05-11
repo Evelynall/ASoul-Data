@@ -48,8 +48,6 @@ async function fetchSeriesVideos(mid, seriesId) {
     const pageSize = 20;
     let hasMore = true;
 
-    console.log(`  请求URL: ${BILIBILI_SERIES_API}?mid=${mid}&page_num=${pageNum}&page_size=${pageSize}`);
-
     while (hasMore) {
         const url = `${BILIBILI_SERIES_API}?mid=${mid}&page_num=${pageNum}&page_size=${pageSize}`;
 
@@ -68,37 +66,26 @@ async function fetchSeriesVideos(mid, seriesId) {
             }
 
             const data = await response.json();
-            
-            console.log(`  API响应 code: ${data.code}, message: ${data.message}`);
-            
+
             if (data.code !== 0) {
-                console.error(`  API返回错误: ${data.message}`);
-                console.log(`  完整响应: ${JSON.stringify(data, null, 2)}`);
+                console.error(`API返回错误: ${data.message}`);
                 break;
             }
 
-            const itemsLists = data.data?.items_lists;
-            console.log(`  items_lists: ${JSON.stringify(itemsLists, null, 2).substring(0, 500)}...`);
-            
-            const seriesList = itemsLists?.series_list || [];
-            console.log(`  series_list 数量: ${seriesList.length}`);
+            const seriesList = data.data?.items_lists?.series_list || [];
             
             let foundSeries = false;
-            console.log(`  查找 series_id: ${seriesId}`);
             for (const series of seriesList) {
                 const meta = series.meta || {};
-                console.log(`    系列: ${meta.name}, series_id: ${meta.series_id}, 视频数: ${(series.archives || []).length}`);
                 if (meta.series_id === seriesId) {
                     const archives = series.archives || [];
                     targetVideos.push(...archives);
                     foundSeries = true;
-                    console.log(`    ✓ 找到匹配的系列!`);
                     break;
                 }
             }
 
             if (!foundSeries) {
-                console.log(`  未找到 series_id=${seriesId} 的系列`);
                 hasMore = false;
                 break;
             }
@@ -156,7 +143,11 @@ function timeMatch(scheduleTime, videoTime) {
     const [vh, vm] = videoTime.split(':').map(Number);
     
     const diff = Math.abs(sh * 60 + sm - (vh * 60 + vm));
-    return diff <= 30;
+    if (diff <= 30) return true;
+    
+    const videoHourPlus1 = (vh + 1) % 24;
+    const diffPlus1 = Math.abs(sh * 60 + sm - (videoHourPlus1 * 60 + vm));
+    return diffPlus1 <= 30;
 }
 
 async function main() {
