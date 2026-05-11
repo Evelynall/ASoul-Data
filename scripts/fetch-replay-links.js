@@ -114,7 +114,7 @@ function parseVideoDateTime(title) {
         { regex: /(\d{4})(\d{2})(\d{2})/, format: (m) => `${m[1]}/${m[2]}/${m[3]}` }
     ];
 
-    const timePattern = /(\d{2})点(\d{2})场/;
+    const timePattern = /(\d{1,2})点(?:场|(\d{2})场)/;
 
     let date = null;
     for (const pattern of datePatterns) {
@@ -128,7 +128,9 @@ function parseVideoDateTime(title) {
     let time = null;
     const timeMatch = title.match(timePattern);
     if (timeMatch) {
-        time = `${timeMatch[1].padStart(2, '0')}:${timeMatch[2]}`;
+        const hour = timeMatch[1].padStart(2, '0');
+        const minute = timeMatch[2] ? timeMatch[2].padStart(2, '0') : '00';
+        time = `${hour}:${minute}`;
     }
 
     return { date, time };
