@@ -45,7 +45,7 @@ function extractDateTime(scheduleId) {
 async function fetchSeriesVideos(mid, seriesId) {
     const targetVideos = [];
     let pageNum = 1;
-    const pageSize = 100;
+    const pageSize = 5;
     let hasMore = true;
 
     while (hasMore) {
