@@ -1,5 +1,5 @@
 {
-  "version": "20260511073849",
+  "version": "20260511112745",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44247,8 +44247,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1eK5x6NEKX"
+      "isFavorite": false
     },
     {
       "id": "20260511-1830-gladys@asoul.love",
@@ -44295,6 +44294,40 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1201017169014423572",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260513-1830-diana@asoul.love",
+      "date": "2026/05/13",
+      "time": "18:30",
+      "title": "【突击.鸣潮】船长伴星！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1201103134990008327",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260513-2000-diana@asoul.love",
+      "date": "2026/05/13",
+      "time": "20:00",
+      "title": "【鸣潮/突击】船长伴星！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1201097096253407240",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -44489,11 +44522,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-11T07:38:49.463Z",
+  "lastUpdate": "2026-05-11T11:27:45.303Z",
   "updateInfo": {
-    "totalSchedules": 2511,
-    "newSchedules": 11,
-    "updatedSchedules": 4
-  },
-  "lastReplayUpdate": "2026-05-11T09:12:09.297Z"
+    "totalSchedules": 2513,
+    "newSchedules": 2,
+    "updatedSchedules": 15
+  }
 }
