@@ -1,5 +1,5 @@
 {
-  "version": "20260514102159",
+  "version": "20260514143226",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44494,6 +44494,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260515-2200-gladys@asoul.love",
+      "date": "2026/05/15",
+      "time": "22:00",
+      "title": "【突击】祝我生日快乐🎂！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1202275051152343040",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260516-1600-eileen@asoul.love",
       "date": "2026/05/16",
       "time": "16:00",
@@ -44596,10 +44613,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-14T10:21:59.665Z",
+  "lastUpdate": "2026-05-14T14:32:26.748Z",
   "updateInfo": {
-    "totalSchedules": 2517,
+    "totalSchedules": 2518,
     "newSchedules": 1,
-    "updatedSchedules": 13
+    "updatedSchedules": 14
   }
 }
