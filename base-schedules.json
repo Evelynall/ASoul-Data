@@ -1,5 +1,5 @@
 {
-  "version": "20260514064428",
+  "version": "20260514102159",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44443,6 +44443,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260515-1100-bella@asoul.love",
+      "date": "2026/05/15",
+      "time": "11:00",
+      "title": "【突击】过战双主线镜像星尘！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1202213942362898455",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260515-1700-fiona@asoul.love",
       "date": "2026/05/15",
       "time": "17:00",
@@ -44579,10 +44596,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-14T06:44:28.261Z",
+  "lastUpdate": "2026-05-14T10:21:59.665Z",
   "updateInfo": {
-    "totalSchedules": 2516,
-    "newSchedules": 0,
+    "totalSchedules": 2517,
+    "newSchedules": 1,
     "updatedSchedules": 13
   }
 }
