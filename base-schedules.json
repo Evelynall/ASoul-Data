@@ -1,5 +1,5 @@
 {
-  "version": "20260515065400",
+  "version": "20260515102743",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44468,7 +44468,7 @@
       "id": "20260515-1700-fiona@asoul.love",
       "date": "2026/05/15",
       "time": "17:00",
-      "title": "心宜直播",
+      "title": "【2D】你好，斗地主吗o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -44567,6 +44567,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260517-1200-eileen@asoul.love",
+      "date": "2026/05/17",
+      "time": "12:00",
+      "title": "【突击】竞拍之王之王者归来！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1202566743875125273",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260517-1900-diana@asoul.love",
       "date": "2026/05/17",
       "time": "19:00",
@@ -44601,6 +44618,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260519-1200-bella@asoul.love",
+      "date": "2026/05/19",
+      "time": "12:00",
+      "title": "【突击】久违的成龙历险记！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1202587471382052898",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260613-2000-gladys@asoul.love",
       "date": "2026/06/13",
       "time": "20:00",
@@ -44618,10 +44652,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-15T06:54:00.890Z",
+  "lastUpdate": "2026-05-15T10:27:43.664Z",
   "updateInfo": {
-    "totalSchedules": 2518,
-    "newSchedules": 0,
+    "totalSchedules": 2520,
+    "newSchedules": 2,
     "updatedSchedules": 10
   }
 }
