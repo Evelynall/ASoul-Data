@@ -1,5 +1,5 @@
 {
-  "version": "20260516062040",
+  "version": "20260516094321",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44642,11 +44642,11 @@
       "id": "20260613-2000-gladys@asoul.love",
       "date": "2026/06/13",
       "time": "20:00",
-      "title": "【3D生日会】四弦惊晓",
+      "title": "{: 【3D生日会】四弦惊晓",
       "type": "节目",
-      "subTitle": "思诺生日会",
-      "category": "思诺",
-      "dynamicUrl": "https://www.bilibili.com/opus/1201842990291615752",
+      "subTitle": "思诺3D生日会理论上应当剔除副标题但保留核心活动名故此处为思诺3D生日会或者思诺生日会取思诺生日会更加简洁规范符合示例模式故定为思诺生日会作为描述性名称。同时考虑到3D生日会通常属于重大活动项目。由于动态描述中乃琳是以表情包标签形式出现而非明确出席成员，故不计入成员列表。成员仅保留主播本人。故生成如下",
+      "category": "乃琳+思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1202914524561145857",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
@@ -44656,7 +44656,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-16T06:20:40.960Z",
+  "lastUpdate": "2026-05-16T09:43:21.623Z",
   "updateInfo": {
     "totalSchedules": 2520,
     "newSchedules": 0,
