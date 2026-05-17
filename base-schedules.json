@@ -1,5 +1,5 @@
 {
-  "version": "20260517064234",
+  "version": "20260517094903",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44641,6 +44641,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260519-2000-eileen@asoul.love",
+      "date": "2026/05/19",
+      "time": "20:00",
+      "title": "【突击】先聊聊天然后看团子！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1203284763621720069",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260613-2000-gladys@asoul.love",
       "date": "2026/06/13",
       "time": "20:00",
@@ -44658,10 +44675,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-17T06:42:34.994Z",
+  "lastUpdate": "2026-05-17T09:49:03.832Z",
   "updateInfo": {
-    "totalSchedules": 2520,
-    "newSchedules": 0,
+    "totalSchedules": 2521,
+    "newSchedules": 1,
     "updatedSchedules": 5
   }
 }
