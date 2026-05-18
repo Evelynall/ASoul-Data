@@ -1,5 +1,5 @@
 {
-  "version": "20260518053302",
+  "version": "20260518155120",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44627,23 +44627,6 @@
       "officialRecordUrl": "https://www.bilibili.com/video/BV1oCLp6KESt"
     },
     {
-      "id": "20260519-1900-fiona@asoul.love",
-      "date": "2026/05/19",
-      "time": "19:00",
-      "title": "心宜直播",
-      "type": "2D",
-      "subTitle": "心宜直播",
-      "category": "心宜",
-      "dynamicUrl": "https://www.bilibili.com/opus/1203614765280133177",
-      "liveRoomUrl": "https://live.bilibili.com/30849777",
-      "icsUrl": "https://live.bilibili.com/30849777",
-      "completed": false,
-      "note": "",
-      "isIcs": true,
-      "isAnime": false,
-      "isFavorite": false
-    },
-    {
       "id": "20260519-1200-bella@asoul.love",
       "date": "2026/05/19",
       "time": "12:00",
@@ -44654,6 +44637,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1202587471382052898",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260519-1900-fiona@asoul.love",
+      "date": "2026/05/19",
+      "time": "19:00",
+      "title": "心宜直播",
+      "type": "2D",
+      "subTitle": "心宜直播",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1203614765280133177",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -44715,7 +44715,7 @@
       "id": "20260520-1900-diana@asoul.love",
       "date": "2026/05/20",
       "time": "19:00",
-      "title": "嘉然520直播",
+      "title": "想见你",
       "type": "特别",
       "subTitle": "嘉然520直播",
       "category": "嘉然",
@@ -44749,7 +44749,7 @@
       "id": "20260520-2005-bella@asoul.love",
       "date": "2026/05/20",
       "time": "20:05",
-      "title": "贝拉520直播",
+      "title": "如果......",
       "type": "特别",
       "subTitle": "贝拉520直播",
       "category": "贝拉",
@@ -44766,7 +44766,7 @@
       "id": "20260520-2110-eileen@asoul.love",
       "date": "2026/05/20",
       "time": "21:10",
-      "title": "乃琳520直播",
+      "title": "心愿是，和你",
       "type": "特别",
       "subTitle": "乃琳520直播",
       "category": "乃琳",
@@ -44868,7 +44868,7 @@
       "id": "20260524-2030-eileen@asoul.love",
       "date": "2026/05/24",
       "time": "20:30",
-      "title": "虚时回溯(鸣潮专场)",
+      "title": "虚时回溯",
       "type": "节目",
       "subTitle": "A-SOUL小剧场",
       "category": "A-SOUL",
@@ -44899,11 +44899,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-18T05:33:02.119Z",
+  "lastUpdate": "2026-05-18T15:51:20.392Z",
   "updateInfo": {
     "totalSchedules": 2534,
-    "newSchedules": 13,
-    "updatedSchedules": 3
-  },
-  "lastReplayUpdate": "2026-05-18T12:22:32.293Z"
+    "newSchedules": 0,
+    "updatedSchedules": 16
+  }
 }
