@@ -135,6 +135,7 @@ https://raw.githubusercontent.com/Evelynall/ASoul-Data/main/base-schedules.json
 | `note` | string | 备注 |
 | `isAnime` | boolean | 是否为动画 |
 | `isFavorite` | boolean | 是否收藏 |
+| `officialRecordUrl` | string | 官方录播地址 |
 
 > `id`、`date`、`time` 等标识性字段不允许通过此工作流修改。
 
