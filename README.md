@@ -61,7 +61,8 @@ https://example.com/calendar2.ics
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "官方录播地址"
     }
   ]
 }
