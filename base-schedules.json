@@ -1,5 +1,5 @@
 {
-  "version": "20260519075746",
+  "version": "20260519105513",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44641,14 +44641,13 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1eLLB66E9N"
+      "isFavorite": false
     },
     {
       "id": "20260519-1900-fiona@asoul.love",
       "date": "2026/05/19",
       "time": "19:00",
-      "title": "心宜直播",
+      "title": "【2D】从零开始的底特律变人",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -44900,11 +44899,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-19T07:57:46.053Z",
+  "lastUpdate": "2026-05-19T10:55:13.148Z",
   "updateInfo": {
     "totalSchedules": 2534,
     "newSchedules": 0,
     "updatedSchedules": 16
-  },
-  "lastReplayUpdate": "2026-05-19T08:28:52.787Z"
+  }
 }
