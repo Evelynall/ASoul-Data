@@ -1,5 +1,5 @@
 {
-  "version": "20260521105631",
+  "version": "20260521154638",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44803,8 +44803,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1QnL46qEn4"
+      "isFavorite": false
     },
     {
       "id": "20260521-1700-gladys@asoul.love",
@@ -44844,7 +44843,7 @@
       "id": "20260521-2100-fiona@asoul.love",
       "date": "2026/05/21",
       "time": "21:00",
-      "title": "心宜直播",
+      "title": "【2D】宜宝放映室o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -44875,10 +44874,27 @@
       "isFavorite": false
     },
     {
+      "id": "20260523-1200-diana@asoul.love",
+      "date": "2026/05/23",
+      "time": "12:00",
+      "title": "【突击】黑神话复健DAY2",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1204876839267336196",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260523-1400-gladys@asoul.love",
       "date": "2026/05/23",
       "time": "14:00",
-      "title": "思诺直播",
+      "title": "【2D】生化8吓不到我🫨",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -44977,11 +44993,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-21T10:56:31.347Z",
+  "lastUpdate": "2026-05-21T15:46:38.227Z",
   "updateInfo": {
-    "totalSchedules": 2538,
+    "totalSchedules": 2539,
     "newSchedules": 1,
-    "updatedSchedules": 10
-  },
-  "lastReplayUpdate": "2026-05-21T12:09:23.005Z"
+    "updatedSchedules": 11
+  }
 }
