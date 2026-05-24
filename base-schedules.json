@@ -1,5 +1,5 @@
 {
-  "version": "20260524094605",
+  "version": "20260524135223",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -44986,6 +44986,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260524-1600-gladys@asoul.love",
+      "date": "2026/05/24",
+      "time": "16:00",
+      "title": "【突击】休息30分钟~",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1205903123821887490",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260524-2030-eileen@asoul.love",
       "date": "2026/05/24",
       "time": "20:30",
@@ -45037,11 +45054,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-24T09:46:05.727Z",
+  "lastUpdate": "2026-05-24T13:52:23.408Z",
   "updateInfo": {
-    "totalSchedules": 2541,
+    "totalSchedules": 2542,
     "newSchedules": 1,
-    "updatedSchedules": 3
-  },
-  "lastReplayUpdate": "2026-05-24T10:26:27.213Z"
+    "updatedSchedules": 4
+  }
 }
