@@ -1,5 +1,5 @@
 {
-  "version": "20260526023408",
+  "version": "20260526075235",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45228,6 +45228,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260529-1900-eileen@asoul.love",
+      "date": "2026/05/29",
+      "time": "19:00",
+      "title": "【突击】一起看鸣潮3.4前瞻",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1206569915368079385",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260529-1900-1955897084@asoul.love",
+      "date": "2026/05/29",
+      "time": "19:00",
+      "title": "《鸣潮》3.4版本前瞻通讯",
+      "type": "节目",
+      "subTitle": "1955897084直播",
+      "category": "其他",
+      "dynamicUrl": "https://www.bilibili.com/opus/1206615317489385497",
+      "liveRoomUrl": "https://space.bilibili.com/1955897084",
+      "icsUrl": "https://space.bilibili.com/1955897084",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260529-2000-diana@asoul.love",
       "date": "2026/05/29",
       "time": "20:00",
@@ -45296,10 +45330,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-26T02:34:08.685Z",
+  "lastUpdate": "2026-05-26T07:52:35.416Z",
   "updateInfo": {
-    "totalSchedules": 2556,
-    "newSchedules": 0,
+    "totalSchedules": 2558,
+    "newSchedules": 2,
     "updatedSchedules": 15
   }
 }
