@@ -1,5 +1,5 @@
 {
-  "version": "20260526075235",
+  "version": "20260526160333",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45110,6 +45110,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260527-1200-bella@asoul.love",
+      "date": "2026/05/27",
+      "time": "12:00",
+      "title": "【突击】战双主线遥行循星",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1206677474242461705",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260527-1600-fiona@asoul.love",
+      "date": "2026/05/27",
+      "time": "16:00",
+      "title": "【突击】底特律变人！",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1206749638284017666",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260527-1930-diana@asoul.love",
       "date": "2026/05/27",
       "time": "19:30",
@@ -45331,11 +45365,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-26T07:52:35.416Z",
+  "lastUpdate": "2026-05-26T16:03:33.234Z",
   "updateInfo": {
-    "totalSchedules": 2558,
+    "totalSchedules": 2560,
     "newSchedules": 2,
-    "updatedSchedules": 15
-  },
-  "lastReplayUpdate": "2026-05-26T07:55:19.290Z"
+    "updatedSchedules": 13
+  }
 }
