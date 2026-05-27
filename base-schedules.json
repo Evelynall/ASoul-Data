@@ -1,5 +1,5 @@
 {
-  "version": "20260527024419",
+  "version": "20260527080638",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45215,6 +45215,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260528-2000-diana@asoul.love",
+      "date": "2026/05/28",
+      "time": "20:00",
+      "title": "今州杯S12嘉宾赛",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1206993978943078409",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260528-2000-eileen@asoul.love",
+      "date": "2026/05/28",
+      "time": "20:00",
+      "title": "今州杯S12嘉宾赛",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1206994421326807041",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260528-2100-fiona@asoul.love",
       "date": "2026/05/28",
       "time": "21:00",
@@ -45354,11 +45388,11 @@
       "id": "20260613-2000-gladys@asoul.love",
       "date": "2026/06/13",
       "time": "20:00",
-      "title": "四弦惊晓",
+      "title": "1. 类型判定：标题中包含“生日会”且不含“突击”，属于重大活动，判定为“节目”。 2. 标题提取：提取活动描述为“思诺生日会”，移除连字符后的副标题“四弦惊晓”。 3. 成员判定：主播为思诺（gladys），动态中未明确提及其他成员参与，故仅包含主播。 4. ID 映射：思诺对应 gladys。 \\n\\n最终 JSON 如下：\\n{\"typ...",
       "type": "节目",
-      "subTitle": "思诺生日会",
+      "subTitle": "思诺生日会Check-in生日会节目分析如下",
       "category": "思诺",
-      "dynamicUrl": "https://www.bilibili.com/opus/1202914524561145857",
+      "dynamicUrl": "https://www.bilibili.com/opus/1206990311043104807",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
@@ -45368,10 +45402,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-27T02:44:19.909Z",
+  "lastUpdate": "2026-05-27T08:06:38.863Z",
   "updateInfo": {
-    "totalSchedules": 2560,
-    "newSchedules": 0,
+    "totalSchedules": 2562,
+    "newSchedules": 2,
     "updatedSchedules": 15
   }
 }
