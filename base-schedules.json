@@ -1,5 +1,5 @@
 {
-  "version": "20260527112606",
+  "version": "20260527160411",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45285,6 +45285,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260529-0900-bella@asoul.love",
+      "date": "2026/05/29",
+      "time": "09:00",
+      "title": "【突击】战双主线锈夜逐光",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1207072817378492450",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260529-1700-fiona@asoul.love",
       "date": "2026/05/29",
       "time": "17:00",
@@ -45404,11 +45421,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-27T11:26:06.378Z",
+  "lastUpdate": "2026-05-27T16:04:11.315Z",
   "updateInfo": {
-    "totalSchedules": 2562,
-    "newSchedules": 0,
-    "updatedSchedules": 17
-  },
-  "lastReplayUpdate": "2026-05-27T12:13:52.064Z"
+    "totalSchedules": 2563,
+    "newSchedules": 1,
+    "updatedSchedules": 12
+  }
 }
