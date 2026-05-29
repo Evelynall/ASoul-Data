@@ -1,5 +1,5 @@
 {
-  "version": "20260528161924",
+  "version": "20260529023531",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45278,7 +45278,7 @@
       "id": "20260529-0900-gladys@asoul.love",
       "date": "2026/05/29",
       "time": "09:00",
-      "title": "思诺直播",
+      "title": "【2D】练歌时间~",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -45428,11 +45428,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-28T16:19:24.370Z",
+  "lastUpdate": "2026-05-29T02:35:31.770Z",
   "updateInfo": {
     "totalSchedules": 2563,
     "newSchedules": 0,
-    "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-05-28T22:43:15.418Z"
+    "updatedSchedules": 9
+  }
 }
