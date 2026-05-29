@@ -1,5 +1,5 @@
 {
-  "version": "20260529080015",
+  "version": "20260529110113",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45289,8 +45289,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1fYVb6JEmH"
+      "isFavorite": false
     },
     {
       "id": "20260529-0900-bella@asoul.love",
@@ -45313,7 +45312,7 @@
       "id": "20260529-1700-fiona@asoul.love",
       "date": "2026/05/29",
       "time": "17:00",
-      "title": "心宜直播",
+      "title": "【2D】来一起KTV啊o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -45369,6 +45368,23 @@
       "subTitle": "A-SOUL团综",
       "category": "A-SOUL",
       "dynamicUrl": "https://www.bilibili.com/opus/1206215340018630658",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260529-2030-diana-u1207789484230312019@asoul.love",
+      "date": "2026/05/29",
+      "time": "20:30",
+      "title": "去海边吧",
+      "type": "节目",
+      "subTitle": "A-SOUL团综",
+      "category": "A-SOUL",
+      "dynamicUrl": "https://www.bilibili.com/opus/1207789484230312019",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
@@ -45446,11 +45462,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-29T08:00:15.886Z",
+  "lastUpdate": "2026-05-29T11:01:13.477Z",
   "updateInfo": {
-    "totalSchedules": 2564,
+    "totalSchedules": 2565,
     "newSchedules": 1,
-    "updatedSchedules": 9
-  },
-  "lastReplayUpdate": "2026-05-29T08:02:09.169Z"
+    "updatedSchedules": 8
+  }
 }
