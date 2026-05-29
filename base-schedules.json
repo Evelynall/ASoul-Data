@@ -1,5 +1,5 @@
 {
-  "version": "20260529122741",
+  "version": "20260529160235",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45397,6 +45397,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260530-1750-eileen@asoul.love",
+      "date": "2026/05/30",
+      "time": "17:50",
+      "title": "【突击】一起看鸣潮生日会！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1207821481693675529",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260530-1800-gladys@asoul.love",
       "date": "2026/05/30",
       "time": "18:00",
@@ -45424,6 +45441,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1206215340018630658",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260531-1900-diana@asoul.love",
+      "date": "2026/05/31",
+      "time": "19:00",
+      "title": "【突击】黑神话复健day3",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1207821992816803846",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -45465,11 +45499,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-29T12:27:41.632Z",
+  "lastUpdate": "2026-05-29T16:02:35.463Z",
   "updateInfo": {
-    "totalSchedules": 2565,
-    "newSchedules": 1,
-    "updatedSchedules": 8
-  },
-  "lastReplayUpdate": "2026-05-29T12:09:22.161Z"
+    "totalSchedules": 2567,
+    "newSchedules": 2,
+    "updatedSchedules": 4
+  }
 }
