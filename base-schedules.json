@@ -1,5 +1,5 @@
 {
-  "version": "20260529023531",
+  "version": "20260529080015",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45377,6 +45377,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260530-1800-gladys@asoul.love",
+      "date": "2026/05/30",
+      "time": "18:00",
+      "title": "【突击】螺壳护理大师上线~",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1207732056229937152",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260530-2000-bella@asoul.love",
       "date": "2026/05/30",
       "time": "20:00",
@@ -45428,10 +45445,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-05-29T02:35:31.770Z",
+  "lastUpdate": "2026-05-29T08:00:15.886Z",
   "updateInfo": {
-    "totalSchedules": 2563,
-    "newSchedules": 0,
+    "totalSchedules": 2564,
+    "newSchedules": 1,
     "updatedSchedules": 9
   }
 }
