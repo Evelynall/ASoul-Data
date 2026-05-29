@@ -45343,7 +45343,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1gEVY6jEgE"
     },
     {
       "id": "20260529-1900-1955897084@asoul.love",
@@ -45377,7 +45378,8 @@
       "note": "因乃琳观看鸣潮前瞻推迟",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1BHVa6sE5s"
     },
     {
       "id": "20260529-2030-diana-u1207789484230312019@asoul.love",
@@ -45504,5 +45506,6 @@
     "totalSchedules": 2567,
     "newSchedules": 2,
     "updatedSchedules": 4
-  }
+  },
+  "lastReplayUpdate": "2026-05-29T16:47:44.624Z"
 }
