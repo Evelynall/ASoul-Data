@@ -1,5 +1,5 @@
 {
-  "version": "20260601092847",
+  "version": "20260601132505",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45523,6 +45523,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260602-2030-eileen@asoul.love",
+      "date": "2026/06/02",
+      "time": "20:30",
+      "title": "【突击】晚间电台聊聊天~",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1208930618363084808",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260602-2100-gladys@asoul.love",
       "date": "2026/06/02",
       "time": "21:00",
@@ -45540,6 +45557,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260603-1200-bella@asoul.love",
+      "date": "2026/06/03",
+      "time": "12:00",
+      "title": "【突击】一起看成龙历险记！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1208929574709100547",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260603-1730-fiona@asoul.love",
       "date": "2026/06/03",
       "time": "17:30",
@@ -45550,6 +45584,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1208809957687820297",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260603-1900-diana@asoul.love",
+      "date": "2026/06/03",
+      "time": "19:00",
+      "title": "【突击】黑神话复健day4",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1208931443015680006",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -45727,11 +45778,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-01T09:28:47.324Z",
+  "lastUpdate": "2026-06-01T13:25:05.310Z",
   "updateInfo": {
-    "totalSchedules": 2580,
-    "newSchedules": 12,
-    "updatedSchedules": 2
-  },
-  "lastReplayUpdate": "2026-06-01T09:30:23.526Z"
+    "totalSchedules": 2583,
+    "newSchedules": 3,
+    "updatedSchedules": 14
+  }
 }
