@@ -1,5 +1,5 @@
 {
-  "version": "20260602114033",
+  "version": "20260602114552",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45524,6 +45524,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260602-2000-fiona-u1209266083260792835@asoul.love",
+      "date": "2026/06/02",
+      "time": "20:00",
+      "title": "不想长大!",
+      "type": "日常",
+      "subTitle": "心宜直播",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1209266083260792835",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260602-2030-eileen@asoul.love",
       "date": "2026/06/02",
       "time": "20:30",
@@ -45796,11 +45813,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-02T11:40:33.386Z",
+  "lastUpdate": "2026-06-02T11:45:52.322Z",
   "updateInfo": {
-    "totalSchedules": 2584,
+    "totalSchedules": 2585,
     "newSchedules": 1,
-    "updatedSchedules": 16
-  },
-  "lastReplayUpdate": "2026-06-02T08:40:48.649Z"
+    "updatedSchedules": 15
+  }
 }
