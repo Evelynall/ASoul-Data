@@ -45521,7 +45521,8 @@
       "note": "未知原因移到20点",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1BjVr6SEeH"
     },
     {
       "id": "20260602-2000-fiona-u1209266083260792835@asoul.love",
@@ -45555,7 +45556,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV189V66vEn8"
     },
     {
       "id": "20260602-2100-gladys@asoul.love",
@@ -45818,5 +45820,6 @@
     "totalSchedules": 2585,
     "newSchedules": 0,
     "updatedSchedules": 14
-  }
+  },
+  "lastReplayUpdate": "2026-06-02T17:27:38.362Z"
 }
