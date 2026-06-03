@@ -1,5 +1,5 @@
 {
-  "version": "20260603032637",
+  "version": "20260603085720",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45597,7 +45597,7 @@
       "id": "20260603-1730-fiona@asoul.love",
       "date": "2026/06/03",
       "time": "17:30",
-      "title": "心宜直播",
+      "title": "【2D】继续底特律变人o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -45815,7 +45815,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-03T03:26:37.141Z",
+  "lastUpdate": "2026-06-03T08:57:20.571Z",
   "updateInfo": {
     "totalSchedules": 2585,
     "newSchedules": 0,
