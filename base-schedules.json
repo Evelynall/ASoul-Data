@@ -1,5 +1,5 @@
 {
-  "version": "20260604153450",
+  "version": "20260605024400",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45723,7 +45723,7 @@
       "id": "20260605-0900-gladys@asoul.love",
       "date": "2026/06/05",
       "time": "09:00",
-      "title": "思诺直播",
+      "title": "【电台】小诺早起第二天&gt\\;.",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -45873,11 +45873,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-04T15:34:50.315Z",
+  "lastUpdate": "2026-06-05T02:44:00.017Z",
   "updateInfo": {
     "totalSchedules": 2588,
     "newSchedules": 0,
-    "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-06-04T22:25:31.088Z"
+    "updatedSchedules": 10
+  }
 }
