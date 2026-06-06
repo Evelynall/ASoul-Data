@@ -1,5 +1,5 @@
 {
-  "version": "20260606095119",
+  "version": "20260606140112",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45789,8 +45789,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1E87Q6xEF4"
+      "isFavorite": false
     },
     {
       "id": "20260606-2000-diana@asoul.love",
@@ -45895,11 +45894,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-06T09:51:19.382Z",
+  "lastUpdate": "2026-06-06T14:01:12.484Z",
   "updateInfo": {
     "totalSchedules": 2589,
-    "newSchedules": 1,
-    "updatedSchedules": 6
-  },
-  "lastReplayUpdate": "2026-06-06T10:49:58.185Z"
+    "newSchedules": 0,
+    "updatedSchedules": 7
+  }
 }
