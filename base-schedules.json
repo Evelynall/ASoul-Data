@@ -1,5 +1,5 @@
 {
-  "version": "20260606023120",
+  "version": "20260606065442",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45863,9 +45863,9 @@
       "id": "20260613-2000-gladys@asoul.love",
       "date": "2026/06/13",
       "time": "20:00",
-      "title": "思诺生日会",
+      "title": "1. 类型判定：标题中包含“生日会”且不含“突击”，属于重大活动，判定为“节目”。 2. 标题提取：提取活动描述为“思诺生日会”，移除连字符后的副标题“四弦惊晓”。 3. 成员判定：主播为思诺（gladys），动态中未明确提及其他成员参与，故仅包含主播。 4. ID 映射：思诺对应 gladys。 \\n\\n最终 JSON 如下：\\n{\"typ...",
       "type": "节目",
-      "subTitle": "【3D生日会】四弦惊晓",
+      "subTitle": "思诺生日会Check-in生日会节目分析如下",
       "category": "思诺",
       "dynamicUrl": "https://www.bilibili.com/opus/1206990311043104807",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
@@ -45877,9 +45877,9 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-06T02:31:20.108Z",
+  "lastUpdate": "2026-06-06T06:54:42.628Z",
   "updateInfo": {
-    "totalSchedules": 2589,
+    "totalSchedules": 2588,
     "newSchedules": 0,
     "updatedSchedules": 6
   }
