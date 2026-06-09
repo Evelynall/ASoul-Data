@@ -1,5 +1,5 @@
 {
-  "version": "20260608161104",
+  "version": "20260609023025",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45934,6 +45934,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260610-1200-diana-u1211587871654281235@asoul.love",
+      "date": "2026/06/10",
+      "time": "12:00",
+      "title": "复习一遍边缘行者",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1211587871654281235",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260610-1800-eileen@asoul.love",
+      "date": "2026/06/10",
+      "time": "18:00",
+      "title": "【鸣潮/突击】先逛一逛夜之城",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1211586862390444038",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260610-2100-eileen@asoul.love",
       "date": "2026/06/10",
       "time": "21:00",
@@ -46070,11 +46104,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-08T16:11:04.121Z",
+  "lastUpdate": "2026-06-09T02:30:25.145Z",
   "updateInfo": {
-    "totalSchedules": 2599,
-    "newSchedules": 0,
-    "updatedSchedules": 12
-  },
-  "lastReplayUpdate": "2026-06-08T22:43:15.036Z"
+    "totalSchedules": 2601,
+    "newSchedules": 2,
+    "updatedSchedules": 10
+  }
 }
