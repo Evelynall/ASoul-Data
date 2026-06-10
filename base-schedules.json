@@ -1,5 +1,5 @@
 {
-  "version": "20260610081014",
+  "version": "20260610112838",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -45953,6 +45953,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260610-1300-gladys@asoul.love",
+      "date": "2026/06/10",
+      "time": "13:00",
+      "title": "【电台突击】想你！小螺！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1211866962973425664",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260610-1800-eileen@asoul.love",
       "date": "2026/06/10",
       "time": "18:00",
@@ -45980,6 +45997,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1211407882500702208",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260611-1200-bella@asoul.love",
+      "date": "2026/06/11",
+      "time": "12:00",
+      "title": "【突击】一起来看成龙历险记！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1212184601573720086",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -46104,13 +46138,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260614-1100-eileen@asoul.love",
+      "date": "2026/06/14",
+      "time": "11:00",
+      "title": "【突击】细品战双长路归航主线",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1212227529763454983",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-10T08:10:14.870Z",
+  "lastUpdate": "2026-06-10T11:28:38.593Z",
   "updateInfo": {
-    "totalSchedules": 2601,
-    "newSchedules": 0,
+    "totalSchedules": 2604,
+    "newSchedules": 3,
     "updatedSchedules": 10
-  },
-  "lastReplayUpdate": "2026-06-10T08:11:50.586Z"
+  }
 }
