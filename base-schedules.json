@@ -1,5 +1,5 @@
 {
-  "version": "20260611025310",
+  "version": "20260611084818",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46110,6 +46110,57 @@
       "isFavorite": false
     },
     {
+      "id": "20260612-1850-diana@asoul.love",
+      "date": "2026/06/12",
+      "time": "18:50",
+      "title": "【突击】找重锤聊天（挑战赛）",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1212557336022876192",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260612-1850-bella@asoul.love",
+      "date": "2026/06/12",
+      "time": "18:50",
+      "title": "【突击】我也要打亚当重锤吗？",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1212564233731964949",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260612-1850-eileen@asoul.love",
+      "date": "2026/06/12",
+      "time": "18:50",
+      "title": "【突击】区区亚当重锤！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1212559990284353541",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260612-2000-bella@asoul.love",
       "date": "2026/06/12",
       "time": "20:00",
@@ -46161,10 +46212,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-11T02:53:10.199Z",
+  "lastUpdate": "2026-06-11T08:48:18.524Z",
   "updateInfo": {
-    "totalSchedules": 2604,
-    "newSchedules": 0,
-    "updatedSchedules": 9
+    "totalSchedules": 2607,
+    "newSchedules": 3,
+    "updatedSchedules": 7
   }
 }
