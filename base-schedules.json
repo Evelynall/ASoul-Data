@@ -1,5 +1,5 @@
 {
-  "version": "20260612112551",
+  "version": "20260612112735",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46174,8 +46174,8 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1211407882500702208",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
-      "completed": false,
-      "note": "",
+      "completed": true,
+      "note": "花火鸣潮联动导致延期到21点，乃琳关节炎调整为ktv",
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
@@ -46266,7 +46266,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-12T11:25:51.373Z",
+  "lastUpdate": "2026-06-12T11:27:35.614Z",
   "updateInfo": {
     "totalSchedules": 2610,
     "newSchedules": 3,
