@@ -1,5 +1,5 @@
 {
-  "version": "20260612082657",
+  "version": "20260612112551",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46093,8 +46093,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1QLEC6dEfk"
+      "isFavorite": false
     },
     {
       "id": "20260612-1700-fiona@asoul.love",
@@ -46182,6 +46181,57 @@
       "isFavorite": false
     },
     {
+      "id": "20260612-2100-bella-u1212987635914506256@asoul.love",
+      "date": "2026/06/12",
+      "time": "21:00",
+      "title": "经典返场",
+      "type": "节目",
+      "subTitle": "贝拉&乃琳直播: 乃贝KTV",
+      "category": "贝拉+乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1212987635914506256",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260612-2230-gladys@asoul.love",
+      "date": "2026/06/12",
+      "time": "22:30",
+      "title": "【电台突击】生日会前夜~",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1212983873477017603",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260613-1530-diana@asoul.love",
+      "date": "2026/06/13",
+      "time": "15:30",
+      "title": "【突击】一起看86版西游记！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1212967157501001735",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260613-2000-gladys@asoul.love",
       "date": "2026/06/13",
       "time": "20:00",
@@ -46216,11 +46266,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-12T08:26:57.805Z",
+  "lastUpdate": "2026-06-12T11:25:51.373Z",
   "updateInfo": {
-    "totalSchedules": 2607,
-    "newSchedules": 0,
-    "updatedSchedules": 8
-  },
-  "lastReplayUpdate": "2026-06-12T08:36:51.152Z"
+    "totalSchedules": 2610,
+    "newSchedules": 3,
+    "updatedSchedules": 7
+  }
 }
