@@ -46093,7 +46093,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1QLEC6dEfk"
     },
     {
       "id": "20260612-1700-fiona@asoul.love",
@@ -46127,7 +46128,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1AUJ56vECo"
     },
     {
       "id": "20260612-1850-bella@asoul.love",
@@ -46144,7 +46146,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1woEy6mEao"
     },
     {
       "id": "20260612-1850-eileen@asoul.love",
@@ -46161,7 +46164,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1wfEy6jEnC"
     },
     {
       "id": "20260612-2000-bella@asoul.love",
@@ -46178,7 +46182,8 @@
       "note": "花火鸣潮联动导致延期到21点，乃琳关节炎调整为ktv",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV18RJV6rEaP"
     },
     {
       "id": "20260612-2100-bella-u1212987635914506256@asoul.love",
@@ -46212,7 +46217,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1D9JV6GEUp"
     },
     {
       "id": "20260613-1530-diana@asoul.love",
@@ -46271,5 +46277,6 @@
     "totalSchedules": 2610,
     "newSchedules": 0,
     "updatedSchedules": 10
-  }
+  },
+  "lastReplayUpdate": "2026-06-12T16:23:24.378Z"
 }
