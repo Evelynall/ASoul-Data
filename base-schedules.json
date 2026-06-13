@@ -1,5 +1,5 @@
 {
-  "version": "20260613024251",
+  "version": "20260613051137",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46018,8 +46018,8 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1212184601573720086",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
-      "completed": false,
-      "note": "",
+      "completed": true,
+      "note": "肠胃炎请假",
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
@@ -46272,7 +46272,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-13T02:42:51.936Z",
+  "lastUpdate": "2026-06-13T05:11:37.124Z",
   "updateInfo": {
     "totalSchedules": 2610,
     "newSchedules": 0,
