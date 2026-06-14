@@ -1,5 +1,5 @@
 {
-  "version": "20260614025417",
+  "version": "20260614081636",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46272,12 +46272,46 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260616-0830-bella@asoul.love",
+      "date": "2026/06/16",
+      "time": "08:30",
+      "title": "【突击】早安电台",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1213661417501098016",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260616-1200-diana@asoul.love",
+      "date": "2026/06/16",
+      "time": "12:00",
+      "title": "【突击/鸣潮】看洛瑟菈剧情！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1213643975580188677",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-14T02:54:17.945Z",
+  "lastUpdate": "2026-06-14T08:16:36.197Z",
   "updateInfo": {
-    "totalSchedules": 2610,
-    "newSchedules": 0,
+    "totalSchedules": 2612,
+    "newSchedules": 2,
     "updatedSchedules": 1
   }
 }
