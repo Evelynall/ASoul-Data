@@ -1,5 +1,5 @@
 {
-  "version": "20260615102545",
+  "version": "20260615134354",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46482,9 +46482,9 @@
       "id": "20260620-0000-diana@asoul.love",
       "date": "2026/06/20",
       "time": "00:00",
-      "title": "线下演唱会",
+      "title": "然有引力",
       "type": "其他",
-      "subTitle": "嘉然专场",
+      "subTitle": "嘉然线下",
       "category": "嘉然",
       "dynamicUrl": "https://www.bilibili.com/opus/1214005150158422050",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
@@ -46513,11 +46513,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-15T10:25:45.585Z",
+  "lastUpdate": "2026-06-15T13:43:54.373Z",
   "updateInfo": {
     "totalSchedules": 2624,
-    "newSchedules": 12,
-    "updatedSchedules": 2
-  },
-  "lastReplayUpdate": "2026-06-15T10:27:47.323Z"
+    "newSchedules": 0,
+    "updatedSchedules": 14
+  }
 }
