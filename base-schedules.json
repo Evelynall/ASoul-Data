@@ -1,5 +1,5 @@
 {
-  "version": "20260617025651",
+  "version": "20260617090403",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46368,7 +46368,7 @@
       "id": "20260617-1200-fiona@asoul.love",
       "date": "2026/06/17",
       "time": "12:00",
-      "title": "心宜直播",
+      "title": "【2D】来点下饭的盛世天下o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -46501,6 +46501,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260619-1200-bella@asoul.love",
+      "date": "2026/06/19",
+      "time": "12:00",
+      "title": "【突击】战双·繁星谣",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1214782614373662768",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260619-1900-diana@asoul.love",
+      "date": "2026/06/19",
+      "time": "19:00",
+      "title": "【突击】在线下前聊天的然糖",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1214783791219867649",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260620-0000-diana@asoul.love",
       "date": "2026/06/20",
       "time": "00:00",
@@ -46535,10 +46569,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-17T02:56:51.847Z",
+  "lastUpdate": "2026-06-17T09:04:03.079Z",
   "updateInfo": {
-    "totalSchedules": 2625,
-    "newSchedules": 0,
+    "totalSchedules": 2627,
+    "newSchedules": 2,
     "updatedSchedules": 10
   }
 }
