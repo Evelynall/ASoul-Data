@@ -1,5 +1,5 @@
 {
-  "version": "20260618114213",
+  "version": "20260618154630",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46451,8 +46451,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1xLjw6ZEfB"
+      "isFavorite": false
     },
     {
       "id": "20260618-1930-bella@asoul.love",
@@ -46475,7 +46474,7 @@
       "id": "20260618-2100-fiona@asoul.love",
       "date": "2026/06/18",
       "time": "21:00",
-      "title": "心宜直播",
+      "title": "【2D】宜宝放映室o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -46574,11 +46573,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-18T11:42:13.295Z",
+  "lastUpdate": "2026-06-18T15:46:30.412Z",
   "updateInfo": {
     "totalSchedules": 2627,
     "newSchedules": 0,
     "updatedSchedules": 8
-  },
-  "lastReplayUpdate": "2026-06-18T12:17:44.122Z"
+  }
 }
