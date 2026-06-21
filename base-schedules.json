@@ -1,5 +1,5 @@
 {
-  "version": "20260620142234",
+  "version": "20260621025759",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46595,13 +46595,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260621-1800-fiona@asoul.love",
+      "date": "2026/06/21",
+      "time": "18:00",
+      "title": "【突击】继续盛世天下o.O",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1216016506982236169",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-20T14:22:34.973Z",
+  "lastUpdate": "2026-06-21T02:57:59.534Z",
   "updateInfo": {
-    "totalSchedules": 2628,
-    "newSchedules": 0,
-    "updatedSchedules": 3
-  },
-  "lastReplayUpdate": "2026-06-20T22:16:37.906Z"
+    "totalSchedules": 2629,
+    "newSchedules": 1,
+    "updatedSchedules": 1
+  }
 }
