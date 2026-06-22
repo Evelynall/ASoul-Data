@@ -1,5 +1,5 @@
 {
-  "version": "20260622094914",
+  "version": "20260622132415",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46619,7 +46619,7 @@
       "id": "20260622-2100-gladys@asoul.love",
       "date": "2026/06/22",
       "time": "21:00",
-      "title": "思诺直播",
+      "title": "【电台】周一快乐，小螺！",
       "type": "电台",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -46837,11 +46837,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-22T09:49:14.778Z",
+  "lastUpdate": "2026-06-22T13:24:15.405Z",
   "updateInfo": {
     "totalSchedules": 2642,
     "newSchedules": 0,
     "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-06-22T09:50:46.119Z"
+  }
 }
