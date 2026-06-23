@@ -1,5 +1,5 @@
 {
-  "version": "20260623023536",
+  "version": "20260623075125",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46668,6 +46668,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260624-1800-diana@asoul.love",
+      "date": "2026/06/24",
+      "time": "18:00",
+      "title": "【突击】继续黑神话！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1216972828683796519",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260624-2100-eileen@asoul.love",
       "date": "2026/06/24",
       "time": "21:00",
@@ -46695,6 +46712,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1216602746379042825",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260625-1200-eileen@asoul.love",
+      "date": "2026/06/25",
+      "time": "12:00",
+      "title": "【鸣潮/突击】矩阵矩阵！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1216998598451920898",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -46804,6 +46838,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260627-1200-bella@asoul.love",
+      "date": "2026/06/27",
+      "time": "12:00",
+      "title": "【突击】先看赛琳娜好感剧情！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1217010147630514185",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260627-2000-diana@asoul.love",
       "date": "2026/06/27",
       "time": "20:00",
@@ -46838,10 +46889,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-23T02:35:36.305Z",
+  "lastUpdate": "2026-06-23T07:51:25.485Z",
   "updateInfo": {
-    "totalSchedules": 2642,
-    "newSchedules": 0,
+    "totalSchedules": 2645,
+    "newSchedules": 3,
     "updatedSchedules": 12
   }
 }
