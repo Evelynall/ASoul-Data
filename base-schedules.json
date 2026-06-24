@@ -1,5 +1,5 @@
 {
-  "version": "20260624103815",
+  "version": "20260624144900",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46707,7 +46707,7 @@
       "id": "20260624-2200-gladys@asoul.love",
       "date": "2026/06/24",
       "time": "22:00",
-      "title": "思诺直播",
+      "title": "【电台】我来了！小螺！",
       "type": "电台",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -46782,6 +46782,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1216602746379042825",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260626-1200-diana@asoul.love",
+      "date": "2026/06/26",
+      "time": "12:00",
+      "title": "【突击】收藏集代抽！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1217504674467282963",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -46891,11 +46908,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-24T10:38:15.144Z",
+  "lastUpdate": "2026-06-24T14:49:00.683Z",
   "updateInfo": {
-    "totalSchedules": 2645,
-    "newSchedules": 0,
+    "totalSchedules": 2646,
+    "newSchedules": 1,
     "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-06-24T11:39:02.818Z"
+  }
 }
