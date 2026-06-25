@@ -1,5 +1,5 @@
 {
-  "version": "20260625103121",
+  "version": "20260625144833",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46778,7 +46778,7 @@
       "id": "20260625-2200-fiona@asoul.love",
       "date": "2026/06/25",
       "time": "22:00",
-      "title": "心宜直播",
+      "title": "【电台】旅行青蛙小宜前来觐见！",
       "type": "电台",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -46911,11 +46911,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-25T10:31:21.880Z",
+  "lastUpdate": "2026-06-25T14:48:33.902Z",
   "updateInfo": {
     "totalSchedules": 2646,
     "newSchedules": 0,
     "updatedSchedules": 11
-  },
-  "lastReplayUpdate": "2026-06-25T11:32:58.551Z"
+  }
 }
