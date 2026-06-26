@@ -1,5 +1,5 @@
 {
-  "version": "20260626075607",
+  "version": "20260626104106",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46860,6 +46860,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260626-2100-eileen-u1218172127420612615@asoul.love",
+      "date": "2026/06/26",
+      "time": "21:00",
+      "title": "事已至此，我们吃什么？",
+      "type": "节目",
+      "subTitle": "A-SOUL夜谈",
+      "category": "A-SOUL",
+      "dynamicUrl": "https://www.bilibili.com/opus/1218172127420612615",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260627-1200-bella@asoul.love",
       "date": "2026/06/27",
       "time": "12:00",
@@ -46894,6 +46911,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260627-2300-diana@asoul.love",
+      "date": "2026/06/27",
+      "time": "23:00",
+      "title": "【突击】深夜一起看电影！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1218154052066476098",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260628-1800-eileen@asoul.love",
+      "date": "2026/06/28",
+      "time": "18:00",
+      "title": "【突击】从零开始的艾尔登法环",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1218155091461144577",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260628-2000-fiona@asoul.love",
       "date": "2026/06/28",
       "time": "20:00",
@@ -46911,11 +46962,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-26T07:56:07.154Z",
+  "lastUpdate": "2026-06-26T10:41:06.965Z",
   "updateInfo": {
-    "totalSchedules": 2646,
-    "newSchedules": 0,
-    "updatedSchedules": 7
-  },
-  "lastReplayUpdate": "2026-06-26T07:57:18.025Z"
+    "totalSchedules": 2649,
+    "newSchedules": 3,
+    "updatedSchedules": 6
+  }
 }
