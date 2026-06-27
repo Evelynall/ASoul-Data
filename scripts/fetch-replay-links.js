@@ -20,7 +20,10 @@ const ID_MEMBER_MAP = {
     'gladys': '思诺'
 };
 
-const BILIBILI_SERIES_API = 'https://api.bilibili.com/x/series/archives';
+const BILIBILI_PROXY_URL = process.env.BILIBILI_PROXY_URL || '';
+const BILIBILI_SERIES_API = BILIBILI_PROXY_URL
+    ? `${BILIBILI_PROXY_URL.replace(/\/$/, '')}/x/series/archives`
+    : 'https://api.bilibili.com/x/series/archives';
 
 function extractMemberFromId(scheduleId) {
     const match = scheduleId.match(/^(\d{8})-(\d{4})-(.+?)@/);
@@ -139,6 +142,12 @@ function timeMatch(scheduleTime, videoTime) {
 
 async function main() {
     console.log('开始获取Bilibili录播链接...\n');
+
+    if (BILIBILI_PROXY_URL) {
+        console.log(`使用代理: ${BILIBILI_PROXY_URL}\n`);
+    } else {
+        console.log('直连 Bilibili API（未配置代理）\n');
+    }
 
     if (!fs.existsSync(BASE_SCHEDULES_PATH)) {
         console.error('错误：未找到基础日程库文件');
