@@ -1,6 +1,15 @@
 const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch');
+const { HttpsProxyAgent } = require('https-proxy-agent');
+
+const PROXY_URL = process.env.HTTPS_PROXY || process.env.HTTP_PROXY || process.env.https_proxy || process.env.http_proxy || '';
+
+let proxyAgent = null;
+if (PROXY_URL) {
+    proxyAgent = new HttpsProxyAgent(PROXY_URL);
+    console.log(`已配置代理: ${PROXY_URL}`);
+}
 
 const BASE_SCHEDULES_PATH = path.join(__dirname, '..', 'base-schedules.json');
 
@@ -52,13 +61,19 @@ async function fetchSeriesVideos(mid, seriesId) {
         const url = `${BILIBILI_SERIES_API}?mid=${mid}&series_id=${seriesId}&only_normal=true&sort=desc&pn=${pageNum}&ps=${pageSize}`;
 
         try {
-            const response = await fetch(url, {
+            const fetchOptions = {
                 headers: {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
                     'Referer': `https://space.bilibili.com/${mid}/lists/${seriesId}?type=series`,
                     'Origin': 'https://space.bilibili.com'
                 }
-            });
+            };
+
+            if (proxyAgent) {
+                fetchOptions.agent = proxyAgent;
+            }
+
+            const response = await fetch(url, fetchOptions);
 
             if (!response.ok) {
                 console.error(`API请求失败: HTTP ${response.status}`);

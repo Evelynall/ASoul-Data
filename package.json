@@ -19,6 +19,7 @@
     "author": "",
     "license": "MIT",
     "dependencies": {
-        "node-fetch": "^2.7.0"
+        "node-fetch": "^2.7.0",
+        "https-proxy-agent": "^7.0.5"
     }
 }
