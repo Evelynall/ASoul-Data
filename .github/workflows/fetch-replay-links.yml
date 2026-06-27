@@ -32,32 +32,6 @@ jobs:
       - name: 安装依赖
         run: npm install undici
 
-      - name: 调试 - curl测试B站API（排查风控）
-        run: |
-          echo "=== 测试B站API - 思诺视频列表 ==="
-          echo "URL: https://api.bilibili.com/x/series/archives?mid=3537115310721781&series_id=3692011&only_normal=true&sort=desc&pn=1&ps=5"
-          echo ""
-          curl -v \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
-            -H "Referer: https://space.bilibili.com/3537115310721781/lists/3692011?type=series" \
-            -H "Origin: https://space.bilibili.com" \
-            "https://api.bilibili.com/x/series/archives?mid=3537115310721781&series_id=3692011&only_normal=true&sort=desc&pn=1&ps=5" \
-            || echo "curl 命令执行失败，退出码: $?"
-          echo ""
-          echo "=== 测试B站API - 贝拉视频列表 ==="
-          echo "URL: https://api.bilibili.com/x/series/archives?mid=672353429&series_id=222938&only_normal=true&sort=desc&pn=1&ps=5"
-          echo ""
-          curl -v \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
-            -H "Referer: https://space.bilibili.com/672353429/lists/222938?type=series" \
-            -H "Origin: https://space.bilibili.com" \
-            "https://api.bilibili.com/x/series/archives?mid=672353429&series_id=222938&only_normal=true&sort=desc&pn=1&ps=5" \
-            || echo "curl 命令执行失败，退出码: $?"
-          echo ""
-          echo "=== 获取当前出口IP ==="
-          curl -s https://ifconfig.me || curl -s https://api.ipify.org || echo "无法获取IP"
-          echo ""
-
       - name: 运行录播链接获取脚本
         run: node scripts/fetch-replay-links.js
 
