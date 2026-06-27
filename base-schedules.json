@@ -1,5 +1,5 @@
 {
-  "version": "20260627023246",
+  "version": "20260627065338",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -46920,6 +46920,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260627-2200-gladys@asoul.love",
+      "date": "2026/06/27",
+      "time": "22:00",
+      "title": "【突击】清唱给你听～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1218449708974866449",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260627-2300-diana@asoul.love",
       "date": "2026/06/27",
       "time": "23:00",
@@ -46971,10 +46988,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-06-27T02:32:46.005Z",
+  "lastUpdate": "2026-06-27T06:53:38.970Z",
   "updateInfo": {
-    "totalSchedules": 2649,
-    "newSchedules": 0,
+    "totalSchedules": 2650,
+    "newSchedules": 1,
     "updatedSchedules": 5
   }
 }
