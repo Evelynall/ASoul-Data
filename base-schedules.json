@@ -46738,7 +46738,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1ru7a6MENK"
     },
     {
       "id": "20260625-1930-bella@asoul.love",
@@ -46755,7 +46756,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1wU7a6rEPC"
     },
     {
       "id": "20260625-2100-diana@asoul.love",
@@ -46772,7 +46774,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1MY7a6QERK"
     },
     {
       "id": "20260625-2200-fiona@asoul.love",
@@ -46789,7 +46792,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV17w7v66EwR"
     },
     {
       "id": "20260626-1200-diana@asoul.love",
@@ -46806,7 +46810,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1Wb7G6XEuP"
     },
     {
       "id": "20260626-1850-eileen@asoul.love",
@@ -46823,7 +46828,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1ZH7V6jEWQ"
     },
     {
       "id": "20260626-1850-diana@asoul.love",
@@ -46840,7 +46846,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV17p7V62ELU"
     },
     {
       "id": "20260626-2000-eileen@asoul.love",
@@ -46857,7 +46864,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1mm7L6TE6z"
     },
     {
       "id": "20260626-2100-eileen-u1218172127420612615@asoul.love",
@@ -46985,5 +46993,5 @@
     "newSchedules": 1,
     "updatedSchedules": 8
   },
-  "lastReplayUpdate": "2026-06-27T01:44:24.731Z"
+  "lastReplayUpdate": "2026-06-27T01:51:57.315Z"
 }
