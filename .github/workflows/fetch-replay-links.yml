@@ -34,6 +34,8 @@ jobs:
 
       - name: 运行录播链接获取脚本
         run: node scripts/fetch-replay-links.js
+        env:
+          BILIBILI_PROXY_URL: ${{ secrets.BILIBILI_PROXY_URL }}
 
       - name: 提交更改
         run: |
