@@ -79,7 +79,25 @@
 
 7. 点击右上角的 **"Deploy"** 按钮保存
 
-8. 记录下你的 Worker 访问地址，格式类似：
+8. （可选，推荐）配置 Worker 环境变量以提高成功率：
+   
+   在 Worker 详情页点击 **"Settings"** → **"Variables"** → **"Add variable"**，添加以下变量（均为可选）：
+   
+   | 变量名 | 说明 | 是否必需 |
+   |--------|------|----------|
+   | `BILIBILI_BUVID3` | 从浏览器获取的 buvid3 Cookie 值 | 推荐 |
+   | `BILIBILI_BUVID4` | 从浏览器获取的 buvid4 Cookie 值 | 可选 |
+   | `BILIBILI_COOKIES` | 其他自定义 Cookie（如 SESSDATA 等），格式：`key1=val1; key2=val2` | 可选 |
+   
+   **如何获取 Cookie：**
+   1. 在浏览器中访问 https://space.bilibili.com/ 并登录
+   2. 按 F12 打开开发者工具，切换到 **"Application"**（应用）标签
+   3. 左侧选择 **"Cookies"** → `https://www.bilibili.com`
+   4. 找到 `buvid3` 和 `buvid4`，复制它们的值
+   
+   > 注意：即使不配置这些变量，Worker 也会自动生成随机的 buvid3/buvid4。如果自动生成的仍然返回 -412 错误，建议使用真实浏览器的 Cookie。
+
+9. 记录下你的 Worker 访问地址，格式类似：
    ```
    https://bilibili-api-proxy.your-username.workers.dev
    ```
@@ -186,14 +204,17 @@ https://bilibili-api-proxy.your-username.workers.dev/x/series/archives?mid=67235
 **现象**：
 - 日志显示 "获取视频列表失败: Invalid response body" 或 "Premature close"
 - 本地运行正常，但 GitHub Actions 中失败
+- API 返回 `{"code":-412,"message":"request was banned"}`
 
 **可能原因**：
 - GitHub Actions 的 IP 地址被 B 站反爬虫机制拦截
+- 代理请求缺少 buvid3 等关键 Cookie，被 B 站识别为机器人
 
 **解决方法**：
 1. 按照本文档 **"第五步：配置 Bilibili API 代理"** 部署 Cloudflare Worker
 2. 配置 `BILIBILI_PROXY_URL` secret
-3. 重新运行工作流
+3. 如果代理返回 -412 错误，在 Cloudflare Worker 的环境变量中配置真实浏览器的 `BILIBILI_BUVID3` Cookie
+4. 重新运行工作流
 
 ### 问题4：合并冲突
 
