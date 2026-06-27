@@ -52,6 +52,7 @@ async function fetchSeriesVideos(mid, seriesId) {
         const url = `${BILIBILI_SERIES_API}?mid=${mid}&series_id=${seriesId}&only_normal=true&sort=desc&pn=${pageNum}&ps=${pageSize}`;
 
         try {
+            console.log(`  请求URL: ${url}`);
             const response = await fetch(url, {
                 headers: {
                     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -60,15 +61,28 @@ async function fetchSeriesVideos(mid, seriesId) {
                 }
             });
 
+            console.log(`  响应状态: ${response.status} ${response.statusText}`);
+            console.log(`  响应头: ${JSON.stringify(Object.fromEntries(response.headers))}`);
+
             if (!response.ok) {
+                const text = await response.text().catch(() => '无法读取响应体');
                 console.error(`API请求失败: HTTP ${response.status}`);
+                console.error(`响应体: ${text}`);
                 break;
             }
 
-            const data = await response.json();
+            const text = await response.text();
+            let data;
+            try {
+                data = JSON.parse(text);
+            } catch (parseError) {
+                console.error(`JSON解析失败: ${parseError.message}`);
+                console.error(`原始响应: ${text.substring(0, 500)}`);
+                break;
+            }
 
             if (data.code !== 0) {
-                console.error(`API返回错误: ${data.message}`);
+                console.error(`API返回错误: code=${data.code}, message=${data.message}`);
                 break;
             }
 
@@ -87,6 +101,11 @@ async function fetchSeriesVideos(mid, seriesId) {
             await new Promise(resolve => setTimeout(resolve, 300));
         } catch (error) {
             console.error(`获取视频列表失败: ${error.message}`);
+            console.error(`错误名称: ${error.name}`);
+            if (error.stack) {
+                console.error(`错误堆栈: ${error.stack}`);
+            }
+            console.error(`请求URL: ${url}`);
             break;
         }
     }
