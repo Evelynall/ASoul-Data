@@ -79,23 +79,25 @@
 
 7. 点击右上角的 **"Deploy"** 按钮保存
 
-8. （可选，推荐）配置 Worker 环境变量以提高成功率：
+8. 配置 Worker 环境变量（强烈推荐，否则大概率返回 -412 错误）：
    
-   在 Worker 详情页点击 **"Settings"** → **"Variables"** → **"Add variable"**，添加以下变量（均为可选）：
+   在 Worker 详情页点击 **"Settings"** → **"Variables"** → **"Add variable"**，添加以下变量：
    
    | 变量名 | 说明 | 是否必需 |
    |--------|------|----------|
-   | `BILIBILI_BUVID3` | 从浏览器获取的 buvid3 Cookie 值 | 推荐 |
-   | `BILIBILI_BUVID4` | 从浏览器获取的 buvid4 Cookie 值 | 可选 |
-   | `BILIBILI_COOKIES` | 其他自定义 Cookie（如 SESSDATA 等），格式：`key1=val1; key2=val2` | 可选 |
+   | `BILIBILI_BUVID3` | 从浏览器获取的 buvid3 Cookie 值 | **必需** |
+   | `BILIBILI_BUVID4` | 从浏览器获取的 buvid4 Cookie 值 | 推荐 |
+   | `BILIBILI_COOKIES` | 其他 Cookie（如 SESSDATA 等登录态 Cookie），格式：`key1=val1; key2=val2` | 可选，可提高成功率 |
    
-   **如何获取 Cookie：**
-   1. 在浏览器中访问 https://space.bilibili.com/ 并登录
+   **如何获取 Cookie（重要：必须用真实浏览器访问过 B 站的 Cookie）：**
+   1. 在 Chrome/Edge 浏览器中访问 https://space.bilibili.com/ 并登录你的 B 站账号
    2. 按 F12 打开开发者工具，切换到 **"Application"**（应用）标签
    3. 左侧选择 **"Cookies"** → `https://www.bilibili.com`
-   4. 找到 `buvid3` 和 `buvid4`，复制它们的值
+   4. 找到 `buvid3`，复制完整的值（类似 `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxinfoc`）
+   5. 同样复制 `buvid4` 的值
+   6. （可选）如果有 SESSDATA，也一并复制，登录态的 Cookie 成功率更高
    
-   > 注意：即使不配置这些变量，Worker 也会自动生成随机的 buvid3/buvid4。如果自动生成的仍然返回 -412 错误，建议使用真实浏览器的 Cookie。
+   > ⚠️ 重要提示：自动生成的 buvid3 大概率会被 B 站风控拦截，必须使用真实浏览器产生的 Cookie。如果配置后仍然返回 -412，请尝试添加 SESSDATA（登录态 Cookie）。
 
 9. 记录下你的 Worker 访问地址，格式类似：
    ```
@@ -208,13 +210,25 @@ https://bilibili-api-proxy.your-username.workers.dev/x/series/archives?mid=67235
 
 **可能原因**：
 - GitHub Actions 的 IP 地址被 B 站反爬虫机制拦截
-- 代理请求缺少 buvid3 等关键 Cookie，被 B 站识别为机器人
+- 代理请求缺少真实的 buvid3 等 Cookie，被 B 站识别为机器人
+- Cloudflare Worker 的 IP 段也被 B 站风控（概率较低）
 
-**解决方法**：
-1. 按照本文档 **"第五步：配置 Bilibili API 代理"** 部署 Cloudflare Worker
-2. 配置 `BILIBILI_PROXY_URL` secret
-3. 如果代理返回 -412 错误，在 Cloudflare Worker 的环境变量中配置真实浏览器的 `BILIBILI_BUVID3` Cookie
-4. 重新运行工作流
+**解决方法（按顺序尝试）**：
+
+1. 部署 Cloudflare Worker 并配置 `BILIBILI_PROXY_URL` secret（参考第五步）
+
+2. 在 Worker 环境变量中配置真实浏览器的 `BILIBILI_BUVID3`（**必需**）：
+   - 确保从浏览器中复制完整的 buvid3 值
+   - 同时配置 `BILIBILI_BUVID4` 效果更好
+
+3. 如果还是 -412，添加登录态 Cookie：
+   - 在浏览器中登录 B 站账号
+   - 复制 `SESSDATA` Cookie 的值
+   - 添加到 Worker 的 `BILIBILI_COOKIES` 变量中，格式：`SESSDATA=你的值`
+
+4. 如果以上方法都不行，可能是 Cloudflare 的 IP 段被限制，可以尝试：
+   - 使用 Vercel / Netlify Functions 等其他 Serverless 平台部署代理
+   - 或者考虑使用第三方代理服务
 
 ### 问题4：合并冲突
 
