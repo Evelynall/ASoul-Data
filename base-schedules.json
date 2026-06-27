@@ -46882,24 +46882,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
-    },
-    {
-      "id": "20260626-2100-eileen-u1218193290891886627@asoul.love",
-      "date": "2026/06/26",
-      "time": "21:00",
-      "title": "事已至此，我们吃什么？",
-      "type": "节目",
-      "subTitle": "A-SOUL夜谈",
-      "category": "A-SOUL",
-      "dynamicUrl": "https://www.bilibili.com/opus/1218193290891886627",
-      "liveRoomUrl": "https://live.bilibili.com/22625027",
-      "icsUrl": "https://live.bilibili.com/22625027",
-      "completed": false,
-      "note": "",
-      "isIcs": true,
-      "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1mm7L6TE6z"
     },
     {
       "id": "20260627-1200-bella@asoul.love",
