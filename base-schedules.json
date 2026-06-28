@@ -46990,7 +46990,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1jdTu6GE3i"
     }
   ],
   "lastUpdate": "2026-06-28T14:06:30.493Z",
@@ -46999,5 +47000,5 @@
     "newSchedules": 0,
     "updatedSchedules": 0
   },
-  "lastReplayUpdate": "2026-06-28T14:50:21.478Z"
+  "lastReplayUpdate": "2026-06-28T18:00:19.082Z"
 }
