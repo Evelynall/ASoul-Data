@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const fetch = require('node-fetch');
+const { fetch } = require('undici');
 
 // ICS订阅链接配置（从环境变量读取，多个链接用换行符分隔）
 const ICS_URLS = (process.env.ICS_URLS || '').split('\n').filter(url => url.trim().startsWith('http'));
