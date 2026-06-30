@@ -219,7 +219,11 @@ async function main() {
     for (const url of ICS_URLS) {
         console.log(`\n正在处理: ${url}`);
         try {
-            const response = await fetch(url.trim());
+            const response = await fetch(url.trim(), {
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+                }
+            });
             if (!response.ok) {
                 throw new Error(`HTTP ${response.status}: ${response.statusText}`);
             }
