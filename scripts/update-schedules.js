@@ -183,17 +183,41 @@ function parseICS(icsText) {
 
 // 使用curl获取ICS内容（兼容性更好）
 function fetchWithCurl(url) {
-    const output = execSync(
+    // 尝试绕过 Cloudflare 的 clearance cookie
+    const cookie = execSync(
         `curl -s -L --max-time 30 ` +
         `-A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" ` +
-        `-H "Accept: text/calendar,text/x-calendar,application/calendar+xml,application/ics,*/*" ` +
-        `-H "Accept-Language: zh-CN,zh;q=0.9,en;q=0.8" ` +
+        `-c /tmp/cookies.txt ` +
         `-w "\\n%{http_code}" ` +
         `--compressed "${url.trim()}"`,
         { encoding: 'utf-8' }
     );
 
-    const lines = output.trim().split('\n');
+    // 如果返回403，尝试使用 clearance cookie 重试
+    if (cookie.trim().endsWith('403')) {
+        const retry = execSync(
+            `curl -s -L --max-time 30 ` +
+            `-A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" ` +
+            `-b /tmp/cookies.txt ` +
+            `-H "Accept: text/calendar,text/x-calendar,application/calendar+xml,application/ics,*/*" ` +
+            `-H "Accept-Language: zh-CN,zh;q=0.9,en;q=0.8" ` +
+            `-w "\\n%{http_code}" ` +
+            `--compressed "${url.trim()}"`,
+            { encoding: 'utf-8' }
+        );
+
+        const lines = retry.trim().split('\n');
+        const statusCode = lines.pop();
+        const body = lines.join('\n');
+        return {
+            ok: statusCode === '200',
+            status: parseInt(statusCode),
+            statusText: statusCode === '200' ? 'OK' : 'Forbidden',
+            text: () => body
+        };
+    }
+
+    const lines = cookie.trim().split('\n');
     const statusCode = lines.pop();
     const body = lines.join('\n');
 
