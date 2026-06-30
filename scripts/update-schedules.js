@@ -183,34 +183,26 @@ function parseICS(icsText) {
 
 // 使用curl获取ICS内容（兼容性更好）
 function fetchWithCurl(url) {
-    const curlCmd = [
-        'curl',
-        '-s',
-        '-L',
-        '--max-time', '30',
-        '-A', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        '-H', 'Accept: text/calendar, text/x-calendar, application/calendar+xml, application/ics, */*',
-        '-H', 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8',
-        '-w', '\\n%{http_code}',
-        '--compressed',
-        url.trim()
-    ];
+    const output = execSync(
+        `curl -s -L --max-time 30 ` +
+        `-A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" ` +
+        `-H "Accept: text/calendar,text/x-calendar,application/calendar+xml,application/ics,*/*" ` +
+        `-H "Accept-Language: zh-CN,zh;q=0.9,en;q=0.8" ` +
+        `-w "\\n%{http_code}" ` +
+        `--compressed "${url.trim()}"`,
+        { encoding: 'utf-8' }
+    );
 
-    try {
-        const output = execSync(curlCmd.join(' '), { encoding: 'utf-8' });
-        const lines = output.trim().split('\n');
-        const statusCode = lines.pop();
-        const body = lines.join('\n');
+    const lines = output.trim().split('\n');
+    const statusCode = lines.pop();
+    const body = lines.join('\n');
 
-        return {
-            ok: statusCode === '200',
-            status: parseInt(statusCode),
-            statusText: statusCode === '200' ? 'OK' : 'Forbidden',
-            text: () => body
-        };
-    } catch (error) {
-        throw new Error(`curl执行失败: ${error.message}`);
-    }
+    return {
+        ok: statusCode === '200',
+        status: parseInt(statusCode),
+        statusText: statusCode === '200' ? 'OK' : 'Forbidden',
+        text: () => body
+    };
 }
 
 // 主函数
