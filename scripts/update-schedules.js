@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { fetch } = require('undici');
+const { execSync } = require('child_process');
 
 // ICS订阅链接配置（从环境变量读取，多个链接用换行符分隔）
 const ICS_URLS = (process.env.ICS_URLS || '').split('\n').filter(url => url.trim().startsWith('http'));
@@ -181,6 +181,38 @@ function parseICS(icsText) {
     }).filter(ev => ev.date);
 }
 
+// 使用curl获取ICS内容（兼容性更好）
+function fetchWithCurl(url) {
+    const curlCmd = [
+        'curl',
+        '-s',
+        '-L',
+        '--max-time', '30',
+        '-A', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        '-H', 'Accept: text/calendar, text/x-calendar, application/calendar+xml, application/ics, */*',
+        '-H', 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8',
+        '-w', '\\n%{http_code}',
+        '--compressed',
+        url.trim()
+    ];
+
+    try {
+        const output = execSync(curlCmd.join(' '), { encoding: 'utf-8' });
+        const lines = output.trim().split('\n');
+        const statusCode = lines.pop();
+        const body = lines.join('\n');
+
+        return {
+            ok: statusCode === '200',
+            status: parseInt(statusCode),
+            statusText: statusCode === '200' ? 'OK' : 'Forbidden',
+            text: () => body
+        };
+    } catch (error) {
+        throw new Error(`curl执行失败: ${error.message}`);
+    }
+}
+
 // 主函数
 async function main() {
     console.log('开始更新基础日程库...');
@@ -219,21 +251,13 @@ async function main() {
     for (const url of ICS_URLS) {
         console.log(`\n正在处理: ${url}`);
         try {
-            const response = await fetch(url.trim(), {
-                headers: {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                    'Accept': 'text/calendar, text/x-calendar, application/calendar+xml, application/ics, */*',
-                    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-                    'Accept-Encoding': 'gzip, deflate, br',
-                    'Connection': 'keep-alive',
-                    'Cache-Control': 'no-cache'
-                }
-            });
+            // 使用curl获取内容（更好的网络兼容性）
+            const response = fetchWithCurl(url);
             if (!response.ok) {
                 throw new Error(`HTTP ${response.status}: ${response.statusText}`);
             }
 
-            const icsText = await response.text();
+            const icsText = response.text();
             const parsedEvents = parseICS(icsText);
             console.log(`解析到 ${parsedEvents.length} 个事件`);
 
