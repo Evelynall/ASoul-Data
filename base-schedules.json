@@ -1,5 +1,5 @@
 {
-  "version": "20260701081529",
+  "version": "20260701105930",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47098,14 +47098,13 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1sKTi68E5b"
+      "isFavorite": false
     },
     {
       "id": "20260701-1700-fiona@asoul.love",
       "date": "2026/07/01",
       "time": "17:00",
-      "title": "心宜直播",
+      "title": "【2D】先吃饭！再盛世天下！",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -47289,11 +47288,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-01T08:15:29.843Z",
+  "lastUpdate": "2026-07-01T10:59:30.775Z",
   "updateInfo": {
     "totalSchedules": 2667,
-    "newSchedules": 2,
-    "updatedSchedules": 10
-  },
-  "lastReplayUpdate": "2026-07-01T08:16:53.368Z"
+    "newSchedules": 0,
+    "updatedSchedules": 12
+  }
 }
