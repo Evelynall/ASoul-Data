@@ -1,5 +1,5 @@
 {
-  "version": "20260701024640",
+  "version": "20260701081529",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47135,6 +47135,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260702-1200-eileen@asoul.love",
+      "date": "2026/07/02",
+      "time": "12:00",
+      "title": "【鸣潮/突击】午间锄大地！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1219931627327586328",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260702-1930-eileen@asoul.love",
       "date": "2026/07/02",
       "time": "19:30",
@@ -47179,6 +47196,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1219200342598615046",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260703-1200-diana@asoul.love",
+      "date": "2026/07/03",
+      "time": "12:00",
+      "title": "【突击】一起看西游记",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1219931000261312517",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -47254,10 +47288,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-01T02:46:40.466Z",
+  "lastUpdate": "2026-07-01T08:15:29.843Z",
   "updateInfo": {
-    "totalSchedules": 2665,
-    "newSchedules": 0,
+    "totalSchedules": 2667,
+    "newSchedules": 2,
     "updatedSchedules": 10
   }
 }
