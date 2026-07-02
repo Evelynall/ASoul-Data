@@ -1,5 +1,5 @@
 {
-  "version": "20260702023621",
+  "version": "20260702073429",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47257,6 +47257,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260704-1200-eileen@asoul.love",
+      "date": "2026/07/04",
+      "time": "12:00",
+      "title": "【突击】从二开始的法环之旅",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1220349802542268416",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260704-1600-diana@asoul.love",
+      "date": "2026/07/04",
+      "time": "16:00",
+      "title": "【突击】黑神话复健day6",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1220348917746499623",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260704-2000-eileen@asoul.love",
       "date": "2026/07/04",
       "time": "20:00",
@@ -47291,10 +47325,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-02T02:36:21.388Z",
+  "lastUpdate": "2026-07-02T07:34:29.663Z",
   "updateInfo": {
-    "totalSchedules": 2667,
-    "newSchedules": 0,
+    "totalSchedules": 2669,
+    "newSchedules": 2,
     "updatedSchedules": 9
   }
 }
