@@ -1,5 +1,5 @@
 {
-  "version": "20260703102343",
+  "version": "20260703142656",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47224,8 +47224,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1LNTx6nEbH"
+      "isFavorite": false
     },
     {
       "id": "20260703-1600-gladys@asoul.love",
@@ -47330,11 +47329,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-03T10:23:43.583Z",
+  "lastUpdate": "2026-07-03T14:26:56.164Z",
   "updateInfo": {
     "totalSchedules": 2669,
     "newSchedules": 0,
     "updatedSchedules": 7
-  },
-  "lastReplayUpdate": "2026-07-03T11:26:22.074Z"
+  }
 }
