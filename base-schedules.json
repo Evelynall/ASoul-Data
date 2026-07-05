@@ -47332,7 +47332,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1PAT16WELx"
     }
   ],
   "lastUpdate": "2026-07-05T13:58:29.115Z",
@@ -47340,5 +47341,6 @@
     "totalSchedules": 2669,
     "newSchedules": 0,
     "updatedSchedules": 1
-  }
+  },
+  "lastReplayUpdate": "2026-07-05T14:47:38.053Z"
 }
