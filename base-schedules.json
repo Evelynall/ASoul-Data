@@ -1,5 +1,5 @@
 {
-  "version": "20260705135829",
+  "version": "20260706023020",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47336,11 +47336,10 @@
       "officialRecordUrl": "https://www.bilibili.com/video/BV1PAT16WELx"
     }
   ],
-  "lastUpdate": "2026-07-05T13:58:29.115Z",
+  "lastUpdate": "2026-07-06T02:30:20.055Z",
   "updateInfo": {
     "totalSchedules": 2669,
     "newSchedules": 0,
-    "updatedSchedules": 1
-  },
-  "lastReplayUpdate": "2026-07-05T22:08:12.598Z"
+    "updatedSchedules": 0
+  }
 }
