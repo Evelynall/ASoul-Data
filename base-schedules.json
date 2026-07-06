@@ -1,5 +1,5 @@
 {
-  "version": "20260706082220",
+  "version": "20260706115217",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47339,7 +47339,7 @@
       "id": "20260706-1900-gladys@asoul.love",
       "date": "2026/07/06",
       "time": "19:00",
-      "title": "思诺直播",
+      "title": "【2D】先聊聊，8点小诺影厅~",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -47438,6 +47438,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260709-1600-diana@asoul.love",
+      "date": "2026/07/09",
+      "time": "16:00",
+      "title": "【突击】黑神话复健day7",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1221912951564271620",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260709-1930-eileen@asoul.love",
       "date": "2026/07/09",
       "time": "19:30",
@@ -47529,10 +47546,27 @@
       "title": "鸣潮舞台出演",
       "type": "活动",
       "subTitle": "BiliBili World",
-      "category": "思诺",
+      "category": "A-SOUL",
       "dynamicUrl": "https://www.bilibili.com/opus/1221797938812944389",
-      "liveRoomUrl": "https://live.bilibili.com/30858592",
-      "icsUrl": "https://live.bilibili.com/30858592",
+      "liveRoomUrl": "https://space.bilibili.com/others",
+      "icsUrl": "https://space.bilibili.com/others",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260711-0900-diana@asoul.love",
+      "date": "2026/07/11",
+      "time": "09:00",
+      "title": "【突击】早安电台",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1221913063249149969",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -47574,11 +47608,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-06T08:22:20.776Z",
+  "lastUpdate": "2026-07-06T11:52:17.472Z",
   "updateInfo": {
-    "totalSchedules": 2683,
-    "newSchedules": 14,
-    "updatedSchedules": 0
-  },
-  "lastReplayUpdate": "2026-07-06T08:25:37.443Z"
+    "totalSchedules": 2685,
+    "newSchedules": 2,
+    "updatedSchedules": 14
+  }
 }
