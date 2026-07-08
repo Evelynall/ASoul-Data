@@ -1,5 +1,5 @@
 {
-  "version": "20260708015946",
+  "version": "20260708062928",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47374,7 +47374,7 @@
       "id": "20260708-1400-fiona@asoul.love",
       "date": "2026/07/08",
       "time": "14:00",
-      "title": "心宜直播",
+      "title": "【突击】突然出现一下^ ^",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -47415,6 +47415,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1221797938812944389",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260708-2100-gladys@asoul.love",
+      "date": "2026/07/08",
+      "time": "21:00",
+      "title": "【晚安电台】啃啃螺壳✨",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1222558266161102849",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -47626,10 +47643,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-08T01:59:46.011Z",
+  "lastUpdate": "2026-07-08T06:29:28.445Z",
   "updateInfo": {
-    "totalSchedules": 2686,
-    "newSchedules": 0,
+    "totalSchedules": 2687,
+    "newSchedules": 1,
     "updatedSchedules": 16
   }
 }
