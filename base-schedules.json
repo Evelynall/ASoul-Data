@@ -1,5 +1,5 @@
 {
-  "version": "20260708062928",
+  "version": "20260708100322",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47641,13 +47641,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260725-2000-bella@asoul.love",
+      "date": "2026/07/25",
+      "time": "20:00",
+      "title": "贝拉生日会-八音盒少女",
+      "type": "节目",
+      "subTitle": "贝拉生日会",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1222584066000289824",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-08T06:29:28.445Z",
+  "lastUpdate": "2026-07-08T10:03:22.675Z",
   "updateInfo": {
-    "totalSchedules": 2687,
+    "totalSchedules": 2688,
     "newSchedules": 1,
-    "updatedSchedules": 16
-  },
-  "lastReplayUpdate": "2026-07-08T06:32:14.386Z"
+    "updatedSchedules": 17
+  }
 }
