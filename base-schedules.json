@@ -1,5 +1,5 @@
 {
-  "version": "20260709021222",
+  "version": "20260709075247",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47458,8 +47458,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1KdMj6EEdc"
+      "isFavorite": false
     },
     {
       "id": "20260709-1600-gladys@asoul.love",
@@ -47521,6 +47520,40 @@
       "subTitle": "贝拉直播",
       "category": "贝拉",
       "dynamicUrl": "https://www.bilibili.com/opus/1221797938812944389",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260710-0900-eileen@asoul.love",
+      "date": "2026/07/10",
+      "time": "09:00",
+      "title": "【突击】早安电台！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1222899690244145190",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260710-1200-bella@asoul.love",
+      "date": "2026/07/10",
+      "time": "12:00",
+      "title": "【突击】一起看成龙历险记！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1222899956528971797",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
@@ -47683,11 +47716,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-09T02:12:22.246Z",
+  "lastUpdate": "2026-07-09T07:52:47.645Z",
   "updateInfo": {
-    "totalSchedules": 2689,
-    "newSchedules": 0,
+    "totalSchedules": 2691,
+    "newSchedules": 2,
     "updatedSchedules": 14
-  },
-  "lastReplayUpdate": "2026-07-09T07:40:54.225Z"
+  }
 }
