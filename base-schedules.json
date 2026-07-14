@@ -1,5 +1,5 @@
 {
-  "version": "20260714061159",
+  "version": "20260714094217",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47848,6 +47848,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260716-1200-bella@asoul.love",
+      "date": "2026/07/16",
+      "time": "12:00",
+      "title": "【突击】过终末地1.4主线！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1224841938900877317",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260716-1600-gladys@asoul.love",
       "date": "2026/07/16",
       "time": "16:00",
@@ -47892,6 +47909,40 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1224398560852705302",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260717-0900-bella@asoul.love",
+      "date": "2026/07/17",
+      "time": "09:00",
+      "title": "【突击】生日早安电台！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1224813944328159265",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260717-1200-diana@asoul.love",
+      "date": "2026/07/17",
+      "time": "12:00",
+      "title": "【突击】黑神话复健day？",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1224812539873853462",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -47984,11 +48035,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-14T06:11:59.373Z",
+  "lastUpdate": "2026-07-14T09:42:17.131Z",
   "updateInfo": {
-    "totalSchedules": 2706,
-    "newSchedules": 0,
+    "totalSchedules": 2709,
+    "newSchedules": 3,
     "updatedSchedules": 14
-  },
-  "lastReplayUpdate": "2026-07-14T06:15:25.639Z"
+  }
 }
