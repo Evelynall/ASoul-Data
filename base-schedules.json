@@ -1,5 +1,5 @@
 {
-  "version": "20260714140332",
+  "version": "20260715014549",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47851,6 +47851,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260715-2300-gladys@asoul.love",
+      "date": "2026/07/15",
+      "time": "23:00",
+      "title": "【突击】千日聊聊心里话～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1224932661474099221",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260716-1200-bella@asoul.love",
       "date": "2026/07/16",
       "time": "12:00",
@@ -48038,11 +48055,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-14T14:03:32.961Z",
+  "lastUpdate": "2026-07-15T01:45:49.467Z",
   "updateInfo": {
-    "totalSchedules": 2709,
-    "newSchedules": 0,
-    "updatedSchedules": 17
-  },
-  "lastReplayUpdate": "2026-07-14T22:04:44.687Z"
+    "totalSchedules": 2710,
+    "newSchedules": 1,
+    "updatedSchedules": 14
+  }
 }
