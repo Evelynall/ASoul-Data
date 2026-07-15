@@ -1,5 +1,5 @@
 {
-  "version": "20260715094605",
+  "version": "20260715140016",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47814,14 +47814,13 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV17HNv6CEJa"
+      "isFavorite": false
     },
     {
       "id": "20260715-1900-fiona@asoul.love",
       "date": "2026/07/15",
       "time": "19:00",
-      "title": "心宜&思诺直播",
+      "title": "【2D双播】放映室，来了！",
       "type": "2D",
       "subTitle": "心宜&思诺直播",
       "category": "小心思",
@@ -48107,11 +48106,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-15T09:46:05.027Z",
+  "lastUpdate": "2026-07-15T14:00:16.805Z",
   "updateInfo": {
     "totalSchedules": 2713,
-    "newSchedules": 2,
-    "updatedSchedules": 16
-  },
-  "lastReplayUpdate": "2026-07-15T10:42:26.071Z"
+    "newSchedules": 0,
+    "updatedSchedules": 18
+  }
 }
