@@ -1,5 +1,5 @@
 {
-  "version": "20260716062022",
+  "version": "20260716095211",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47892,7 +47892,7 @@
       "id": "20260716-1600-gladys@asoul.love",
       "date": "2026/07/16",
       "time": "16:00",
-      "title": "思诺直播",
+      "title": "【2D】生化8完结！",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -48110,11 +48110,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-16T06:20:22.686Z",
+  "lastUpdate": "2026-07-16T09:52:11.463Z",
   "updateInfo": {
     "totalSchedules": 2713,
     "newSchedules": 0,
     "updatedSchedules": 14
-  },
-  "lastReplayUpdate": "2026-07-16T06:22:24.372Z"
+  }
 }
