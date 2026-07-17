@@ -1,5 +1,5 @@
 {
-  "version": "20260717061828",
+  "version": "20260717094255",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -47958,8 +47958,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV15MKJ6wEhk"
+      "isFavorite": false
     },
     {
       "id": "20260717-1200-diana@asoul.love",
@@ -47982,7 +47981,7 @@
       "id": "20260717-1600-fiona@asoul.love",
       "date": "2026/07/17",
       "time": "16:00",
-      "title": "心宜直播",
+      "title": "【2D】先看一下tag~",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -48101,11 +48100,11 @@
       "id": "20260725-2000-bella@asoul.love",
       "date": "2026/07/25",
       "time": "20:00",
-      "title": "贝拉生日会-八音盒少女",
+      "title": "贝拉生日会故：贝拉生日会贝拉生日会最终结果应为贝拉生日会由于标题已移除连字符后修饰语贝拉生日会最终确定结果为贝拉生日会贝拉生日会贝拉生日会结果为：贝拉生日会最终为贝拉生日会及提取成员...",
       "type": "节目",
-      "subTitle": "贝拉生日会",
+      "subTitle": "贝拉生日会芯节理版及相关活动说明除外此项需删减保留贝拉生日会部分即可按要求只需贝拉生日会部分但需符合程序提取逻辑故为贝拉生日会内容贝拉生日会部分贝拉生日会本义词为贝拉生日会则结果应如下贝拉生日会应提取为",
       "category": "贝拉",
-      "dynamicUrl": "https://www.bilibili.com/opus/1225892621031833609",
+      "dynamicUrl": "https://www.bilibili.com/opus/1225921066634838018",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
@@ -48115,11 +48114,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-17T06:18:28.337Z",
+  "lastUpdate": "2026-07-17T09:42:55.596Z",
   "updateInfo": {
     "totalSchedules": 2713,
     "newSchedules": 0,
     "updatedSchedules": 10
-  },
-  "lastReplayUpdate": "2026-07-17T06:20:45.686Z"
+  }
 }
