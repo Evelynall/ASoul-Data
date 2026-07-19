@@ -48101,7 +48101,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1v4Kr6tEt5"
     },
     {
       "id": "20260721-1840-eileen@asoul.love",
@@ -48161,5 +48162,5 @@
     "newSchedules": 2,
     "updatedSchedules": 3
   },
-  "lastReplayUpdate": "2026-07-19T14:24:51.442Z"
+  "lastReplayUpdate": "2026-07-19T17:53:03.832Z"
 }
