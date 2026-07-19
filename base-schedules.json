@@ -1,5 +1,5 @@
 {
-  "version": "20260719094054",
+  "version": "20260719134132",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -48103,6 +48103,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260721-1840-eileen@asoul.love",
+      "date": "2026/07/21",
+      "time": "18:40",
+      "title": "【突击】继续艾尔登法环！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1226721639924760601",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260725-1200-eileen@asoul.love",
+      "date": "2026/07/25",
+      "time": "12:00",
+      "title": "【突击】一起看鸣潮二创！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1226721833190948871",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260725-2000-bella@asoul.love",
       "date": "2026/07/25",
       "time": "20:00",
@@ -48120,11 +48154,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-19T09:40:54.589Z",
+  "lastUpdate": "2026-07-19T13:41:32.920Z",
   "updateInfo": {
-    "totalSchedules": 2713,
-    "newSchedules": 0,
+    "totalSchedules": 2715,
+    "newSchedules": 2,
     "updatedSchedules": 3
-  },
-  "lastReplayUpdate": "2026-07-19T10:18:50.678Z"
+  }
 }
