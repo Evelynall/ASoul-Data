@@ -1,5 +1,5 @@
 {
-  "version": "20260720064837",
+  "version": "20260720103706",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -48108,7 +48108,7 @@
       "id": "20260720-1800-gladys@asoul.love",
       "date": "2026/07/20",
       "time": "18:00",
-      "title": "思诺直播",
+      "title": "【2D】生化8dlc+小诺影厅~",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -48326,11 +48326,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-20T06:48:37.730Z",
+  "lastUpdate": "2026-07-20T10:37:06.329Z",
   "updateInfo": {
     "totalSchedules": 2725,
-    "newSchedules": 10,
-    "updatedSchedules": 3
-  },
-  "lastReplayUpdate": "2026-07-20T06:51:28.393Z"
+    "newSchedules": 0,
+    "updatedSchedules": 13
+  }
 }
