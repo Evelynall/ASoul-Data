@@ -1,5 +1,5 @@
 {
-  "version": "20260721015743",
+  "version": "20260721062939",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -48224,6 +48224,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260723-1200-diana@asoul.love",
+      "date": "2026/07/23",
+      "time": "12:00",
+      "title": "【突击】黑神话第五章！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1227332620519473156",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260723-1700-gladys@asoul.love",
       "date": "2026/07/23",
       "time": "17:00",
@@ -48326,10 +48343,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-21T01:57:43.811Z",
+  "lastUpdate": "2026-07-21T06:29:39.510Z",
   "updateInfo": {
-    "totalSchedules": 2725,
-    "newSchedules": 0,
+    "totalSchedules": 2726,
+    "newSchedules": 1,
     "updatedSchedules": 12
   }
 }
