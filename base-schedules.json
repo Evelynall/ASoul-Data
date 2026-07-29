@@ -1,5 +1,5 @@
 {
-  "version": "20260729063218",
+  "version": "20260729102432",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -48484,7 +48484,7 @@
       "id": "20260729-1500-gladys@asoul.love",
       "date": "2026/07/29",
       "time": "15:00",
-      "title": "思诺直播",
+      "title": "【2D】萌新来看鸣潮演唱会(≧◡≦)",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -48617,6 +48617,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260801-1200-eileen@asoul.love",
+      "date": "2026/08/01",
+      "time": "12:00",
+      "title": "【鸣潮/突击】先做危行任务",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1230410325353824258",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260801-1700-fiona@asoul.love",
       "date": "2026/08/01",
       "time": "17:00",
@@ -48685,11 +48702,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-29T06:32:18.759Z",
+  "lastUpdate": "2026-07-29T10:24:32.477Z",
   "updateInfo": {
-    "totalSchedules": 2745,
+    "totalSchedules": 2746,
     "newSchedules": 1,
-    "updatedSchedules": 11
-  },
-  "lastReplayUpdate": "2026-07-29T06:35:14.722Z"
+    "updatedSchedules": 12
+  }
 }
