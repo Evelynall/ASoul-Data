@@ -48585,7 +48585,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV18R3t6bErp"
     },
     {
       "id": "20260731-1200-bella@asoul.love",
@@ -48730,5 +48731,5 @@
     "newSchedules": 0,
     "updatedSchedules": 11
   },
-  "lastReplayUpdate": "2026-07-30T15:14:55.586Z"
+  "lastReplayUpdate": "2026-07-30T18:10:47.380Z"
 }
