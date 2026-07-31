@@ -1,5 +1,5 @@
 {
-  "version": "20260731102457",
+  "version": "20260731142606",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -48603,8 +48603,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1aYGA6hE2u"
+      "isFavorite": false
     },
     {
       "id": "20260731-1700-fiona@asoul.love",
@@ -48726,11 +48725,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-07-31T10:24:57.321Z",
+  "lastUpdate": "2026-07-31T14:26:06.531Z",
   "updateInfo": {
     "totalSchedules": 2747,
     "newSchedules": 0,
     "updatedSchedules": 7
-  },
-  "lastReplayUpdate": "2026-07-31T11:21:06.818Z"
+  }
 }
