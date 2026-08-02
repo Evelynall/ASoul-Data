@@ -1,5 +1,5 @@
 {
-  "version": "20260802063416",
+  "version": "20260802094611",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -48728,13 +48728,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260804-1200-bella@asoul.love",
+      "date": "2026/08/04",
+      "time": "12:00",
+      "title": "【突击】代抽收藏集！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1231899918770110473",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-02T06:34:16.972Z",
+  "lastUpdate": "2026-08-02T09:46:11.716Z",
   "updateInfo": {
-    "totalSchedules": 2747,
-    "newSchedules": 0,
+    "totalSchedules": 2748,
+    "newSchedules": 1,
     "updatedSchedules": 1
-  },
-  "lastReplayUpdate": "2026-08-02T06:37:22.199Z"
+  }
 }
