@@ -1,5 +1,5 @@
 {
-  "version": "20260806015243",
+  "version": "20260806063230",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -48992,6 +48992,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260807-2330-eileen@asoul.love",
+      "date": "2026/08/07",
+      "time": "23:30",
+      "title": "【突击】生日前夜电台",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1233312748281004032",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260808-1700-fiona@asoul.love",
       "date": "2026/08/08",
       "time": "17:00",
@@ -49026,6 +49043,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260808-2230-diana@asoul.love",
+      "date": "2026/08/08",
+      "time": "22:30",
+      "title": "【突击】黑神话鏖战杨戬！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1233314839925882889",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260809-2000-fiona@asoul.love",
       "date": "2026/08/09",
       "time": "20:00",
@@ -49041,12 +49075,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260809-2000-diana@asoul.love",
+      "date": "2026/08/09",
+      "time": "20:00",
+      "title": "【突击】最后的黑神话？",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1233315183502295046",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-06T01:52:43.113Z",
+  "lastUpdate": "2026-08-06T06:32:30.885Z",
   "updateInfo": {
-    "totalSchedules": 2765,
-    "newSchedules": 1,
-    "updatedSchedules": 9
+    "totalSchedules": 2768,
+    "newSchedules": 3,
+    "updatedSchedules": 10
   }
 }
