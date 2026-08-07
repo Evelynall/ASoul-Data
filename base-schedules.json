@@ -1,5 +1,5 @@
 {
-  "version": "20260807054111",
+  "version": "20260807084307",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49016,7 +49016,7 @@
       "id": "20260808-1700-fiona@asoul.love",
       "date": "2026/08/08",
       "time": "17:00",
-      "title": "心宜直播",
+      "title": "【2D】来看《鸣潮》演唱会～",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -49115,11 +49115,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-07T05:41:11.852Z",
+  "lastUpdate": "2026-08-07T08:43:07.175Z",
   "updateInfo": {
     "totalSchedules": 2769,
     "newSchedules": 0,
     "updatedSchedules": 10
-  },
-  "lastReplayUpdate": "2026-08-07T05:43:16.776Z"
+  }
 }
