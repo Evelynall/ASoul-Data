@@ -1,5 +1,5 @@
 {
-  "version": "20260808010302",
+  "version": "20260808045831",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49143,7 +49143,7 @@
       "type": "节目",
       "subTitle": "乃琳生日会",
       "category": "乃琳",
-      "dynamicUrl": "https://www.bilibili.com/opus/1233768938237591570",
+      "dynamicUrl": "https://www.bilibili.com/opus/1234053874925436952",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
@@ -49153,7 +49153,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-08T01:03:02.050Z",
+  "lastUpdate": "2026-08-08T04:58:31.167Z",
   "updateInfo": {
     "totalSchedules": 2771,
     "newSchedules": 0,
