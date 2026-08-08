@@ -1,5 +1,5 @@
 {
-  "version": "20260808045831",
+  "version": "20260808082445",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49141,9 +49141,9 @@
       "time": "20:00",
       "title": "乃琳生日会:幻梦叠影",
       "type": "节目",
-      "subTitle": "乃琳生日会",
+      "subTitle": "乃琳生日会喜患叠影",
       "category": "乃琳",
-      "dynamicUrl": "https://www.bilibili.com/opus/1234053874925436952",
+      "dynamicUrl": "https://www.bilibili.com/opus/1234054441895723010",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
@@ -49153,11 +49153,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-08T04:58:31.167Z",
+  "lastUpdate": "2026-08-08T08:24:45.064Z",
   "updateInfo": {
     "totalSchedules": 2771,
     "newSchedules": 0,
     "updatedSchedules": 8
-  },
-  "lastReplayUpdate": "2026-08-08T05:01:20.159Z"
+  }
 }
