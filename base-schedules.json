@@ -1,5 +1,5 @@
 {
-  "version": "20260809050653",
+  "version": "20260809082640",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49156,6 +49156,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260815-1800-bella@asoul.love",
+      "date": "2026/08/15",
+      "time": "18:00",
+      "title": "【突击】一起唠唠战双音乐会！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1234413660074409988",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260829-2000-eileen@asoul.love",
       "date": "2026/08/29",
       "time": "20:00",
@@ -49173,11 +49190,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-09T05:06:53.845Z",
+  "lastUpdate": "2026-08-09T08:26:40.304Z",
   "updateInfo": {
-    "totalSchedules": 2772,
+    "totalSchedules": 2773,
     "newSchedules": 1,
-    "updatedSchedules": 4
-  },
-  "lastReplayUpdate": "2026-08-09T05:09:51.635Z"
+    "updatedSchedules": 5
+  }
 }
