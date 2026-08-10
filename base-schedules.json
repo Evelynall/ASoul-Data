@@ -1,5 +1,5 @@
 {
-  "version": "20260810090322",
+  "version": "20260810132556",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49157,10 +49157,27 @@
       "isFavorite": false
     },
     {
+      "id": "20260810-1900-1871001@asoul.love",
+      "date": "2026/08/10",
+      "time": "19:00",
+      "title": "鸣潮歌友会",
+      "type": "节目",
+      "subTitle": "鸣潮歌友会",
+      "category": "其他",
+      "dynamicUrl": "https://www.bilibili.com/opus/1234884427123785748",
+      "liveRoomUrl": "https://space.bilibili.com/1871001",
+      "icsUrl": "https://space.bilibili.com/1871001",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260810-2000-gladys@asoul.love",
       "date": "2026/08/10",
       "time": "20:00",
-      "title": "思诺直播",
+      "title": "【2D】来看鸣潮歌友会！",
       "type": "联动",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -49429,14 +49446,31 @@
       "isFavorite": false
     },
     {
+      "id": "20260823-1900-9617619@asoul.love",
+      "date": "2026/08/23",
+      "time": "19:00",
+      "title": "2026冰火歌会夏日启航",
+      "type": "节目",
+      "subTitle": "2026冰火歌会",
+      "category": "其他",
+      "dynamicUrl": "https://www.bilibili.com/opus/1234906451725516809",
+      "liveRoomUrl": "https://space.bilibili.com/9617619",
+      "icsUrl": "https://space.bilibili.com/9617619",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260829-2000-eileen@asoul.love",
       "date": "2026/08/29",
       "time": "20:00",
-      "title": "乃琳生日会:幻梦叠影",
+      "title": "幻梦叠影",
       "type": "节目",
-      "subTitle": "乃琳生日会喜患叠影",
+      "subTitle": "乃琳生日会",
       "category": "乃琳",
-      "dynamicUrl": "https://www.bilibili.com/opus/1234054441895723010",
+      "dynamicUrl": "https://www.bilibili.com/opus/1233767538087690260",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
@@ -49446,11 +49480,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-10T09:03:22.943Z",
+  "lastUpdate": "2026-08-10T13:25:56.374Z",
   "updateInfo": {
-    "totalSchedules": 2788,
-    "newSchedules": 0,
+    "totalSchedules": 2790,
+    "newSchedules": 2,
     "updatedSchedules": 19
-  },
-  "lastReplayUpdate": "2026-08-10T10:09:05.064Z"
+  }
 }
