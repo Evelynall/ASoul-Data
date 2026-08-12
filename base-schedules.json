@@ -1,5 +1,5 @@
 {
-  "version": "20260811132156",
+  "version": "20260812011551",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49286,7 +49286,7 @@
       "id": "20260812-1630-gladys@asoul.love",
       "date": "2026/08/12",
       "time": "16:30",
-      "title": "思诺直播",
+      "title": "【2D】继续鸣潮1.0～",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -49402,6 +49402,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260815-1200-eileen@asoul.love",
+      "date": "2026/08/15",
+      "time": "12:00",
+      "title": "【突击】继续玩菲比小游戏！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1235302898651365399",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260815-1800-bella@asoul.love",
       "date": "2026/08/15",
       "time": "18:00",
@@ -49487,11 +49504,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-11T13:21:56.068Z",
+  "lastUpdate": "2026-08-12T01:15:51.755Z",
   "updateInfo": {
-    "totalSchedules": 2790,
-    "newSchedules": 0,
-    "updatedSchedules": 17
-  },
-  "lastReplayUpdate": "2026-08-11T21:56:17.531Z"
+    "totalSchedules": 2791,
+    "newSchedules": 1,
+    "updatedSchedules": 13
+  }
 }
