@@ -1,5 +1,5 @@
 {
-  "version": "20260812053756",
+  "version": "20260812085705",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49368,6 +49368,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260814-1200-diana@asoul.love",
+      "date": "2026/08/14",
+      "time": "12:00",
+      "title": "【突击】雀魂新手来咯！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1235567657632137238",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260814-1630-fiona@asoul.love",
       "date": "2026/08/14",
       "time": "16:30",
@@ -49453,6 +49470,40 @@
       "isFavorite": false
     },
     {
+      "id": "20260816-1600-bella@asoul.love",
+      "date": "2026/08/16",
+      "time": "16:00",
+      "title": "【突击】来看寂静岭第一部！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1235571510255550472",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260816-1900-diana@asoul.love",
+      "date": "2026/08/16",
+      "time": "19:00",
+      "title": "【突击】黑神话完结篇！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1235570586812416001",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260816-2000-gladys@asoul.love",
       "date": "2026/08/16",
       "time": "20:00",
@@ -49504,11 +49555,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-12T05:37:56.030Z",
+  "lastUpdate": "2026-08-12T08:57:05.192Z",
   "updateInfo": {
-    "totalSchedules": 2791,
-    "newSchedules": 0,
+    "totalSchedules": 2794,
+    "newSchedules": 3,
     "updatedSchedules": 14
-  },
-  "lastReplayUpdate": "2026-08-12T05:40:03.750Z"
+  }
 }
