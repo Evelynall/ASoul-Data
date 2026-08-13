@@ -1,5 +1,5 @@
 {
-  "version": "20260812132646",
+  "version": "20260813011720",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49524,6 +49524,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260817-1700-gladys@asoul.love",
+      "date": "2026/08/17",
+      "time": "17:00",
+      "title": "【2D】鸣潮1.1主线～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1235680516517134344",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260823-1900-9617619@asoul.love",
       "date": "2026/08/23",
       "time": "19:00",
@@ -49558,11 +49575,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-12T13:26:46.803Z",
+  "lastUpdate": "2026-08-13T01:17:20.990Z",
   "updateInfo": {
-    "totalSchedules": 2794,
-    "newSchedules": 0,
-    "updatedSchedules": 17
-  },
-  "lastReplayUpdate": "2026-08-12T21:54:04.007Z"
+    "totalSchedules": 2795,
+    "newSchedules": 1,
+    "updatedSchedules": 14
+  }
 }
