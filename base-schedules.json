@@ -1,5 +1,5 @@
 {
-  "version": "20260814132251",
+  "version": "20260815004824",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49445,6 +49445,23 @@
       "officialRecordUrl": "https://www.bilibili.com/video/BV1PqgN6SE3s"
     },
     {
+      "id": "20260815-1000-fiona@asoul.love",
+      "date": "2026/08/15",
+      "time": "10:00",
+      "title": "【电台】早安小球^ ^",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1236412327387987991",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260815-1200-eileen@asoul.love",
       "date": "2026/08/15",
       "time": "12:00",
@@ -49598,11 +49615,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-14T13:22:51.542Z",
+  "lastUpdate": "2026-08-15T00:48:24.302Z",
   "updateInfo": {
-    "totalSchedules": 2796,
-    "newSchedules": 0,
-    "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-08-14T21:31:14.798Z"
+    "totalSchedules": 2797,
+    "newSchedules": 1,
+    "updatedSchedules": 9
+  }
 }
