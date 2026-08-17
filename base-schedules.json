@@ -1,5 +1,5 @@
 {
-  "version": "20260817044247",
+  "version": "20260817082809",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49724,6 +49724,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260821-1200-diana@asoul.love",
+      "date": "2026/08/21",
+      "time": "12:00",
+      "title": "【突击】一起看JOJO第三部",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1237447745229291521",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260821-1600-fiona@asoul.love",
       "date": "2026/08/21",
       "time": "16:00",
@@ -49829,11 +49846,11 @@
       "id": "20260829-2000-eileen@asoul.love",
       "date": "2026/08/29",
       "time": "20:00",
-      "title": "幻梦叠影",
+      "title": "乃琳生日会:幻梦叠影",
       "type": "节目",
       "subTitle": "乃琳生日会",
       "category": "乃琳",
-      "dynamicUrl": "https://www.bilibili.com/opus/1233767538087690260",
+      "dynamicUrl": "https://www.bilibili.com/opus/1237414192945823750",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
@@ -49843,11 +49860,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-17T04:42:47.752Z",
+  "lastUpdate": "2026-08-17T08:28:09.803Z",
   "updateInfo": {
-    "totalSchedules": 2810,
-    "newSchedules": 12,
-    "updatedSchedules": 4
-  },
-  "lastReplayUpdate": "2026-08-17T04:47:59.198Z"
+    "totalSchedules": 2811,
+    "newSchedules": 1,
+    "updatedSchedules": 16
+  }
 }
