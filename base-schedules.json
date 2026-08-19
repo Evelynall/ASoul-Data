@@ -1,5 +1,5 @@
 {
-  "version": "20260819043800",
+  "version": "20260819082033",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49829,6 +49829,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260822-2130-diana@asoul.love",
+      "date": "2026/08/22",
+      "time": "21:30",
+      "title": "【突击】我依旧是斗地主高手！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1238123880436989987",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260823-1830-eileen@asoul.love",
       "date": "2026/08/23",
       "time": "18:30",
@@ -49914,11 +49931,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-19T04:38:00.961Z",
+  "lastUpdate": "2026-08-19T08:20:33.693Z",
   "updateInfo": {
-    "totalSchedules": 2814,
+    "totalSchedules": 2815,
     "newSchedules": 1,
-    "updatedSchedules": 16
-  },
-  "lastReplayUpdate": "2026-08-19T04:40:30.500Z"
+    "updatedSchedules": 17
+  }
 }
