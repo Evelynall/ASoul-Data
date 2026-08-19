@@ -1,5 +1,5 @@
 {
-  "version": "20260819082033",
+  "version": "20260819130035",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49662,7 +49662,7 @@
       "id": "20260819-1900-diana@asoul.love",
       "date": "2026/08/19",
       "time": "19:00",
-      "title": "嘉然七夕直播",
+      "title": "【3D】我们时代的偏爱",
       "type": "特别",
       "subTitle": "嘉然七夕直播",
       "category": "嘉然",
@@ -49693,10 +49693,27 @@
       "isFavorite": false
     },
     {
+      "id": "20260819-1925-gladys-u1238223527979515922@asoul.love",
+      "date": "2026/08/19",
+      "time": "19:25",
+      "title": "夏日迎新日记",
+      "type": "特别",
+      "subTitle": "思诺七夕直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1238223527979515922",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260819-2005-bella@asoul.love",
       "date": "2026/08/19",
       "time": "20:05",
-      "title": "贝拉七夕直播",
+      "title": "【突击】战双新主线·歧海循光",
       "type": "特别",
       "subTitle": "贝拉七夕直播",
       "category": "贝拉",
@@ -49737,6 +49754,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1238122939834957878",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260820-1400-bella@asoul.love",
+      "date": "2026/08/20",
+      "time": "14:00",
+      "title": "【突击】继续战双新主线！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1238227595326128131",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -49931,11 +49965,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-19T08:20:33.693Z",
+  "lastUpdate": "2026-08-19T13:00:35.704Z",
   "updateInfo": {
-    "totalSchedules": 2815,
-    "newSchedules": 1,
+    "totalSchedules": 2817,
+    "newSchedules": 2,
     "updatedSchedules": 17
-  },
-  "lastReplayUpdate": "2026-08-19T09:23:40.938Z"
+  }
 }
