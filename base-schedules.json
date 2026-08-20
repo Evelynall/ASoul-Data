@@ -1,5 +1,5 @@
 {
-  "version": "20260820043808",
+  "version": "20260820082128",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49764,8 +49764,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1WHbZ6LEZH"
+      "isFavorite": false
     },
     {
       "id": "20260820-1400-bella@asoul.love",
@@ -49938,6 +49937,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260824-1700-gladys@asoul.love",
+      "date": "2026/08/24",
+      "time": "17:00",
+      "title": "【2D】鸣潮1.3主线～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1238528788471480342",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260825-1830-diana@asoul.love",
       "date": "2026/08/25",
       "time": "18:30",
@@ -49972,11 +49988,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-20T04:38:08.123Z",
+  "lastUpdate": "2026-08-20T08:21:28.033Z",
   "updateInfo": {
-    "totalSchedules": 2817,
-    "newSchedules": 0,
+    "totalSchedules": 2818,
+    "newSchedules": 1,
     "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-08-20T04:41:19.638Z"
+  }
 }
