@@ -1,5 +1,5 @@
 {
-  "version": "20260821082254",
+  "version": "20260821130205",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49800,8 +49800,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1Sm8T6EEQR"
+      "isFavorite": false
     },
     {
       "id": "20260821-1600-fiona@asoul.love",
@@ -49841,7 +49840,7 @@
       "id": "20260822-1400-fiona@asoul.love",
       "date": "2026/08/22",
       "time": "14:00",
-      "title": "心宜直播",
+      "title": "【2D】从零开始的三角洲！",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -49991,11 +49990,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-21T08:22:54.775Z",
+  "lastUpdate": "2026-08-21T13:02:05.146Z",
   "updateInfo": {
     "totalSchedules": 2818,
     "newSchedules": 0,
     "updatedSchedules": 12
-  },
-  "lastReplayUpdate": "2026-08-21T09:26:26.420Z"
+  }
 }
