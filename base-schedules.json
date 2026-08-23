@@ -1,5 +1,5 @@
 {
-  "version": "20260823043835",
+  "version": "20260823081452",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49916,9 +49916,9 @@
       "time": "19:00",
       "title": "2026冰火歌会夏日启航",
       "type": "节目",
-      "subTitle": "2026冰火歌会",
+      "subTitle": "2026冰火歌会夏日启航",
       "category": "其他",
-      "dynamicUrl": "https://www.bilibili.com/opus/1234906451725516809",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239672869009489920",
       "liveRoomUrl": "https://space.bilibili.com/9617619",
       "icsUrl": "https://space.bilibili.com/9617619",
       "completed": false,
@@ -49962,6 +49962,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260825-1200-bella@asoul.love",
+      "date": "2026/08/25",
+      "time": "12:00",
+      "title": "【突击】看看战双夕韵暇光剧情",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239620414574952464",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260825-1830-diana@asoul.love",
       "date": "2026/08/25",
       "time": "18:30",
@@ -49994,13 +50011,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260902-1800-eileen@asoul.love",
+      "date": "2026/09/02",
+      "time": "18:00",
+      "title": "【突击】一起看鸣潮二创！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239619551252971536",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-23T04:38:35.586Z",
+  "lastUpdate": "2026-08-23T08:14:52.808Z",
   "updateInfo": {
-    "totalSchedules": 2818,
-    "newSchedules": 0,
+    "totalSchedules": 2820,
+    "newSchedules": 2,
     "updatedSchedules": 6
-  },
-  "lastReplayUpdate": "2026-08-23T04:41:22.233Z"
+  }
 }
