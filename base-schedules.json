@@ -1,5 +1,5 @@
 {
-  "version": "20260823081452",
+  "version": "20260823125408",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49916,9 +49916,9 @@
       "time": "19:00",
       "title": "2026冰火歌会夏日启航",
       "type": "节目",
-      "subTitle": "2026冰火歌会夏日启航",
+      "subTitle": "2026冰火歌会",
       "category": "其他",
-      "dynamicUrl": "https://www.bilibili.com/opus/1239672869009489920",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239673152476282904",
       "liveRoomUrl": "https://space.bilibili.com/9617619",
       "icsUrl": "https://space.bilibili.com/9617619",
       "completed": false,
@@ -50030,11 +50030,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-23T08:14:52.808Z",
+  "lastUpdate": "2026-08-23T12:54:08.523Z",
   "updateInfo": {
     "totalSchedules": 2820,
-    "newSchedules": 2,
-    "updatedSchedules": 6
-  },
-  "lastReplayUpdate": "2026-08-23T09:18:35.646Z"
+    "newSchedules": 0,
+    "updatedSchedules": 8
+  }
 }
