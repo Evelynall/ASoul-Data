@@ -1,5 +1,5 @@
 {
-  "version": "20260824044627",
+  "version": "20260824083310",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49951,10 +49951,10 @@
       "date": "2026/08/24",
       "time": "17:00",
       "title": "【2D】鸣潮1.3主线～",
-      "type": "突击",
-      "subTitle": "思诺突击",
+      "type": "2D",
+      "subTitle": "思诺直播",
       "category": "思诺",
-      "dynamicUrl": "https://www.bilibili.com/opus/1238528788471480342",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239981112362532867",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
@@ -49998,6 +49998,57 @@
       "isFavorite": false
     },
     {
+      "id": "20260825-1930-fiona@asoul.love",
+      "date": "2026/08/25",
+      "time": "19:30",
+      "title": "宁静的夏夜",
+      "type": "日常",
+      "subTitle": "心宜直播",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239981112362532867",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260825-2100-gladys@asoul.love",
+      "date": "2026/08/25",
+      "time": "21:00",
+      "title": "听筒回信",
+      "type": "日常",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239981112362532867",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260826-1600-fiona@asoul.love",
+      "date": "2026/08/26",
+      "time": "16:00",
+      "title": "心宜直播",
+      "type": "2D",
+      "subTitle": "心宜直播",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239981112362532867",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260826-1930-diana@asoul.love",
       "date": "2026/08/26",
       "time": "19:30",
@@ -50032,6 +50083,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260827-1700-gladys@asoul.love",
+      "date": "2026/08/27",
+      "time": "17:00",
+      "title": "思诺直播",
+      "type": "2D",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239981112362532867",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260827-2000-bella@asoul.love",
       "date": "2026/08/27",
       "time": "20:00",
@@ -50042,6 +50110,40 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1239981112376164354",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260828-1700-gladys@asoul.love",
+      "date": "2026/08/28",
+      "time": "17:00",
+      "title": "思诺直播",
+      "type": "2D",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239981112362532867",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260829-1400-fiona@asoul.love",
+      "date": "2026/08/29",
+      "time": "14:00",
+      "title": "心宜直播",
+      "type": "2D",
+      "subTitle": "心宜直播",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239981112362532867",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -50066,6 +50168,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260830-2000-gladys@asoul.love",
+      "date": "2026/08/30",
+      "time": "20:00",
+      "title": "假期保卫战",
+      "type": "节目",
+      "subTitle": "有点宜思的综艺",
+      "category": "小心思",
+      "dynamicUrl": "https://www.bilibili.com/opus/1239981112362532867",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260902-1800-eileen@asoul.love",
       "date": "2026/09/02",
       "time": "18:00",
@@ -50083,11 +50202,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-24T04:46:27.307Z",
+  "lastUpdate": "2026-08-24T08:33:10.844Z",
   "updateInfo": {
-    "totalSchedules": 2823,
-    "newSchedules": 3,
-    "updatedSchedules": 5
-  },
-  "lastReplayUpdate": "2026-08-24T04:50:14.282Z"
+    "totalSchedules": 2830,
+    "newSchedules": 7,
+    "updatedSchedules": 8
+  }
 }
