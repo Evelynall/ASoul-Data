@@ -1,5 +1,5 @@
 {
-  "version": "20260825082629",
+  "version": "20260825130117",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -49979,8 +49979,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1G5hg6aEoY"
+      "isFavorite": false
     },
     {
       "id": "20260825-1830-diana@asoul.love",
@@ -50187,6 +50186,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260828-2230-eileen@asoul.love",
+      "date": "2026/08/28",
+      "time": "22:30",
+      "title": "【突击电台】明天就是生日会了",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1240421614921711638",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260829-1400-fiona@asoul.love",
       "date": "2026/08/29",
       "time": "14:00",
@@ -50255,11 +50271,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-25T08:26:29.647Z",
+  "lastUpdate": "2026-08-25T13:01:17.578Z",
   "updateInfo": {
-    "totalSchedules": 2833,
+    "totalSchedules": 2834,
     "newSchedules": 1,
     "updatedSchedules": 16
-  },
-  "lastReplayUpdate": "2026-08-25T09:25:12.416Z"
+  }
 }
