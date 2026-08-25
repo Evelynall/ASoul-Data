@@ -1,5 +1,5 @@
 {
-  "version": "20260825043952",
+  "version": "20260825082629",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50169,6 +50169,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260828-1900-bella@asoul.love",
+      "date": "2026/08/28",
+      "time": "19:00",
+      "title": "【突击】一起看假面骑士！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1240394801449271364",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260829-1400-fiona@asoul.love",
       "date": "2026/08/29",
       "time": "14:00",
@@ -50237,11 +50254,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-25T04:39:52.996Z",
+  "lastUpdate": "2026-08-25T08:26:29.647Z",
   "updateInfo": {
-    "totalSchedules": 2832,
-    "newSchedules": 2,
-    "updatedSchedules": 14
-  },
-  "lastReplayUpdate": "2026-08-25T04:42:45.137Z"
+    "totalSchedules": 2833,
+    "newSchedules": 1,
+    "updatedSchedules": 16
+  }
 }
