@@ -1,5 +1,5 @@
 {
-  "version": "20260826082654",
+  "version": "20260826130630",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50050,8 +50050,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1Cz8Q6aEjD"
+      "isFavorite": false
     },
     {
       "id": "20260826-1600-fiona@asoul.love",
@@ -50210,7 +50209,7 @@
       "id": "20260829-1400-fiona@asoul.love",
       "date": "2026/08/29",
       "time": "14:00",
-      "title": "心宜直播",
+      "title": "【2D】三角洲行动！",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -50275,11 +50274,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-26T08:26:54.602Z",
+  "lastUpdate": "2026-08-26T13:06:30.506Z",
   "updateInfo": {
     "totalSchedules": 2834,
     "newSchedules": 0,
     "updatedSchedules": 14
-  },
-  "lastReplayUpdate": "2026-08-26T09:31:15.875Z"
+  }
 }
