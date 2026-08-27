@@ -1,5 +1,5 @@
 {
-  "version": "20260827062934",
+  "version": "20260827150157",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50111,7 +50111,7 @@
       "id": "20260827-1700-gladys@asoul.love",
       "date": "2026/08/27",
       "time": "17:00",
-      "title": "思诺直播",
+      "title": "【2D】八月爱七日~",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -50278,7 +50278,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-27T06:29:34.992Z",
+  "lastUpdate": "2026-08-27T15:01:57.366Z",
   "updateInfo": {
     "totalSchedules": 2834,
     "newSchedules": 0,
