@@ -1,5 +1,5 @@
 {
-  "version": "20260830094824",
+  "version": "20260830132153",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50269,6 +50269,57 @@
       "isFavorite": false
     },
     {
+      "id": "20260831-1100-gladys@asoul.love",
+      "date": "2026/08/31",
+      "time": "11:00",
+      "title": "【2D】开启鸣潮2.0！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1242277732310581286",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260831-1900-diana@asoul.love",
+      "date": "2026/08/31",
+      "time": "19:00",
+      "title": "【突击】试一试闪耀！优俊少女",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1242301693901668392",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260901-2000-eileen@asoul.love",
+      "date": "2026/09/01",
+      "time": "20:00",
+      "title": "【突击】​优俊少女尝尝咸淡",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1242301702479020080",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260902-1200-diana@asoul.love",
       "date": "2026/09/02",
       "time": "12:00",
@@ -50303,11 +50354,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-08-30T09:48:24.932Z",
+  "lastUpdate": "2026-08-30T13:21:53.502Z",
   "updateInfo": {
-    "totalSchedules": 2835,
-    "newSchedules": 1,
-    "updatedSchedules": 2
-  },
-  "lastReplayUpdate": "2026-08-30T09:50:19.425Z"
+    "totalSchedules": 2838,
+    "newSchedules": 3,
+    "updatedSchedules": 3
+  }
 }
