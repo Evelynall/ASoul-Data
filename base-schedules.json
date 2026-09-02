@@ -1,5 +1,5 @@
 {
-  "version": "20260902021608",
+  "version": "20260902083120",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50496,6 +50496,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260904-1200-bella@asoul.love",
+      "date": "2026/09/04",
+      "time": "12:00",
+      "title": "【突击】战双·覆海离声",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1243309572430495747",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260904-1600-fiona@asoul.love",
       "date": "2026/09/04",
       "time": "16:00",
@@ -50564,6 +50581,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260905-2230-diana@asoul.love",
+      "date": "2026/09/05",
+      "time": "22:30",
+      "title": "【突击】一起看叶问！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1243363839352766469",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260906-2000-fiona@asoul.love",
       "date": "2026/09/06",
       "time": "20:00",
@@ -50581,10 +50615,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-02T02:16:08.008Z",
+  "lastUpdate": "2026-09-02T08:31:20.155Z",
   "updateInfo": {
-    "totalSchedules": 2851,
-    "newSchedules": 0,
+    "totalSchedules": 2853,
+    "newSchedules": 2,
     "updatedSchedules": 13
   }
 }
