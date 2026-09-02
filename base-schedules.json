@@ -1,5 +1,5 @@
 {
-  "version": "20260902121921",
+  "version": "20260902162740",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50448,6 +50448,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260903-1430-fiona@asoul.love",
+      "date": "2026/09/03",
+      "time": "14:30",
+      "title": "【突击】小球中午好～",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1243486933110226948",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260903-1700-gladys@asoul.love",
       "date": "2026/09/03",
       "time": "17:00",
@@ -50550,6 +50567,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260904-2230-eileen@asoul.love",
+      "date": "2026/09/04",
+      "time": "22:30",
+      "title": "接着聊聊今年生日会",
+      "type": "节目",
+      "subTitle": "乃琳生日会",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1243482247314538518",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260905-1400-fiona@asoul.love",
       "date": "2026/09/05",
       "time": "14:00",
@@ -50618,11 +50652,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-02T12:19:21.786Z",
+  "lastUpdate": "2026-09-02T16:27:40.534Z",
   "updateInfo": {
-    "totalSchedules": 2853,
-    "newSchedules": 0,
-    "updatedSchedules": 15
-  },
-  "lastReplayUpdate": "2026-09-02T13:05:37.797Z"
+    "totalSchedules": 2855,
+    "newSchedules": 2,
+    "updatedSchedules": 11
+  }
 }
