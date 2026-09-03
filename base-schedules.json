@@ -1,5 +1,5 @@
 {
-  "version": "20260903083940",
+  "version": "20260903121731",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50446,8 +50446,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1oytd6oEAB"
+      "isFavorite": false
     },
     {
       "id": "20260903-1430-fiona@asoul.love",
@@ -50470,7 +50469,7 @@
       "id": "20260903-1700-gladys@asoul.love",
       "date": "2026/09/03",
       "time": "17:00",
-      "title": "思诺直播",
+      "title": "【2D】晚岸歌叙",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -50654,11 +50653,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-03T08:39:40.474Z",
+  "lastUpdate": "2026-09-03T12:17:31.131Z",
   "updateInfo": {
     "totalSchedules": 2855,
     "newSchedules": 0,
     "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-09-03T08:46:11.572Z"
+  }
 }
