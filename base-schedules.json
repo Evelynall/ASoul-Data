@@ -50446,7 +50446,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1oytd6oEAB"
     },
     {
       "id": "20260903-1430-fiona@asoul.love",
@@ -50463,7 +50464,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1vstR6QECs"
     },
     {
       "id": "20260903-1700-gladys@asoul.love",
@@ -50480,7 +50482,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1nfto6TEY8"
     },
     {
       "id": "20260903-1930-bella@asoul.love",
@@ -50497,7 +50500,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1Yato6REVz"
     },
     {
       "id": "20260903-2100-diana@asoul.love",
@@ -50658,5 +50662,6 @@
     "totalSchedules": 2855,
     "newSchedules": 0,
     "updatedSchedules": 13
-  }
+  },
+  "lastReplayUpdate": "2026-09-03T13:07:12.956Z"
 }
