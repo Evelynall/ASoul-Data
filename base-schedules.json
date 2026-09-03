@@ -1,5 +1,5 @@
 {
-  "version": "20260902162740",
+  "version": "20260903022309",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50572,8 +50572,8 @@
       "date": "2026/09/04",
       "time": "22:30",
       "title": "接着聊聊今年生日会",
-      "type": "节目",
-      "subTitle": "乃琳生日会",
+      "type": "突击",
+      "subTitle": "乃琳突击",
       "category": "乃琳",
       "dynamicUrl": "https://www.bilibili.com/opus/1243482247314538518",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
@@ -50653,11 +50653,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-02T16:27:40.534Z",
+  "lastUpdate": "2026-09-03T02:23:09.073Z",
   "updateInfo": {
     "totalSchedules": 2855,
-    "newSchedules": 2,
-    "updatedSchedules": 11
-  },
-  "lastReplayUpdate": "2026-09-02T23:13:02.311Z"
+    "newSchedules": 0,
+    "updatedSchedules": 13
+  }
 }
