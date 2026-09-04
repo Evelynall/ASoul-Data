@@ -50589,7 +50589,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV162tz6HErL"
     },
     {
       "id": "20260905-1400-fiona@asoul.love",
@@ -50666,5 +50667,5 @@
     "newSchedules": 0,
     "updatedSchedules": 4
   },
-  "lastReplayUpdate": "2026-09-04T16:47:49.488Z"
+  "lastReplayUpdate": "2026-09-04T19:14:42.108Z"
 }
