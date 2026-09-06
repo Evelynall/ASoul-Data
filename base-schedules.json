@@ -1,5 +1,5 @@
 {
-  "version": "20260906021451",
+  "version": "20260906082629",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50679,12 +50679,46 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260908-1200-eileen@asoul.love",
+      "date": "2026/09/08",
+      "time": "12:00",
+      "title": "【突击】收藏集，抽！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1244835183469789218",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260908-1800-bella@asoul.love",
+      "date": "2026/09/08",
+      "time": "18:00",
+      "title": "【突击】一起看假面骑士ZZZ",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1244834268649095175",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-06T02:14:51.292Z",
+  "lastUpdate": "2026-09-06T08:26:29.102Z",
   "updateInfo": {
-    "totalSchedules": 2856,
-    "newSchedules": 0,
+    "totalSchedules": 2858,
+    "newSchedules": 2,
     "updatedSchedules": 2
   }
 }
