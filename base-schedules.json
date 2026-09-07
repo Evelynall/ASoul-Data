@@ -1,5 +1,5 @@
 {
-  "version": "20260907134344",
+  "version": "20260907174058",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50889,7 +50889,7 @@
       "id": "20260913-1400-gladys@asoul.love",
       "date": "2026/09/13",
       "time": "14:00",
-      "title": "思诺直播",
+      "title": "【2D】鸣潮2.2诺来了！！",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -50920,11 +50920,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-07T13:43:44.973Z",
+  "lastUpdate": "2026-09-07T17:40:58.141Z",
   "updateInfo": {
     "totalSchedules": 2870,
     "newSchedules": 0,
-    "updatedSchedules": 15
-  },
-  "lastReplayUpdate": "2026-09-07T14:36:12.230Z"
+    "updatedSchedules": 14
+  }
 }
