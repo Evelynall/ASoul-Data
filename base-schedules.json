@@ -1,5 +1,5 @@
 {
-  "version": "20260908022404",
+  "version": "20260908084047",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50751,6 +50751,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260909-1200-diana@asoul.love",
+      "date": "2026/09/09",
+      "time": "12:00",
+      "title": "【突击】一起看JOJO第三部",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1245541190214877200",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260909-1930-bella@asoul.love",
       "date": "2026/09/09",
       "time": "19:30",
@@ -50795,6 +50812,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1245176304779657221",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260910-1850-bella@asoul.love",
+      "date": "2026/09/10",
+      "time": "18:50",
+      "title": "【突击】战双《远信回响》前瞻",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1245541774302117892",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -50921,10 +50955,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-08T02:24:04.083Z",
+  "lastUpdate": "2026-09-08T08:40:47.036Z",
   "updateInfo": {
-    "totalSchedules": 2870,
-    "newSchedules": 0,
+    "totalSchedules": 2872,
+    "newSchedules": 2,
     "updatedSchedules": 14
   }
 }
