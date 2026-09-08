@@ -50697,7 +50697,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1pnbG6EEe2"
     },
     {
       "id": "20260908-1800-bella@asoul.love",
@@ -50994,5 +50995,6 @@
     "totalSchedules": 2874,
     "newSchedules": 2,
     "updatedSchedules": 14
-  }
+  },
+  "lastReplayUpdate": "2026-09-08T13:10:16.797Z"
 }
