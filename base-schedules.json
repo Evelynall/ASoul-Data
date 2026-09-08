@@ -1,5 +1,5 @@
 {
-  "version": "20260908084047",
+  "version": "20260908121938",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50697,8 +50697,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1pnbG6EEe2"
+      "isFavorite": false
     },
     {
       "id": "20260908-1800-bella@asoul.love",
@@ -50803,6 +50802,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260909-2100-gladys-u1245620685706887173@asoul.love",
+      "date": "2026/09/09",
+      "time": "21:00",
+      "title": "怪盗DJ之夜",
+      "type": "日常",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1245620685706887173",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260910-1700-gladys@asoul.love",
       "date": "2026/09/10",
       "time": "17:00",
@@ -50830,6 +50846,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1245541774302117892",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260910-1930-fiona-u1245620685706887173@asoul.love",
+      "date": "2026/09/10",
+      "time": "19:30",
+      "title": "开学啦！",
+      "type": "日常",
+      "subTitle": "心宜直播",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1245620685706887173",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -50956,11 +50989,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-08T08:40:47.036Z",
+  "lastUpdate": "2026-09-08T12:19:38.831Z",
   "updateInfo": {
-    "totalSchedules": 2872,
+    "totalSchedules": 2874,
     "newSchedules": 2,
     "updatedSchedules": 14
-  },
-  "lastReplayUpdate": "2026-09-08T08:44:53.646Z"
+  }
 }
