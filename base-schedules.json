@@ -1,5 +1,5 @@
 {
-  "version": "20260911122330",
+  "version": "20260911162052",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50986,7 +50986,7 @@
       "id": "20260912-1400-fiona@asoul.love",
       "date": "2026/09/12",
       "time": "14:00",
-      "title": "心宜直播",
+      "title": "【2D】三角洲o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -51068,11 +51068,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-11T12:23:30.594Z",
+  "lastUpdate": "2026-09-11T16:20:52.138Z",
   "updateInfo": {
     "totalSchedules": 2878,
     "newSchedules": 0,
-    "updatedSchedules": 9
-  },
-  "lastReplayUpdate": "2026-09-11T13:07:06.616Z"
+    "updatedSchedules": 6
+  }
 }
