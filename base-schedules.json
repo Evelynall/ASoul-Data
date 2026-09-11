@@ -50927,7 +50927,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1KnYE67EMR"
     },
     {
       "id": "20260911-1700-fiona@asoul.love",
@@ -50944,7 +50945,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1zgY76NEBy"
     },
     {
       "id": "20260911-2000-eileen@asoul.love",
@@ -51071,5 +51073,6 @@
     "totalSchedules": 2878,
     "newSchedules": 0,
     "updatedSchedules": 9
-  }
+  },
+  "lastReplayUpdate": "2026-09-11T13:07:06.616Z"
 }
