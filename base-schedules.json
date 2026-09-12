@@ -1,5 +1,5 @@
 {
-  "version": "20260912082759",
+  "version": "20260912114501",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -50981,8 +50981,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1RzYD6WEZE"
+      "isFavorite": false
     },
     {
       "id": "20260912-1400-fiona@asoul.love",
@@ -51068,13 +51067,46 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20260919-1850-diana@asoul.love",
+      "date": "2026/09/19",
+      "time": "18:50",
+      "title": "【突击】一起看鸣潮3.7前瞻",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1247125328758833152",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260919-1850-eileen@asoul.love",
+      "date": "2026/09/19",
+      "time": "18:50",
+      "title": "【突击】鸣潮3.7前瞻！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1247125302999515139",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-12T08:27:59.851Z",
+  "lastUpdate": "2026-09-12T11:45:01.530Z",
   "updateInfo": {
-    "totalSchedules": 2878,
-    "newSchedules": 0,
+    "totalSchedules": 2880,
+    "newSchedules": 2,
     "updatedSchedules": 6
-  },
-  "lastReplayUpdate": "2026-09-12T08:31:13.336Z"
+  }
 }
