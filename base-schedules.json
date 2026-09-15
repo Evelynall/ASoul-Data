@@ -1,5 +1,5 @@
 {
-  "version": "20260915024704",
+  "version": "20260915091553",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51228,6 +51228,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260917-1700-fiona@asoul.love",
+      "date": "2026/09/17",
+      "time": "17:00",
+      "title": "【2D】《闪耀吧！噜咪》开启",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1248147316180779016",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260917-1930-bella@asoul.love",
       "date": "2026/09/17",
       "time": "19:30",
@@ -51272,6 +51289,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1247773018410713111",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260919-1400-gladys@asoul.love",
+      "date": "2026/09/19",
+      "time": "14:00",
+      "title": "【2D】开启露米娅大冒险咯！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1248147320475746309",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -51381,10 +51415,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-15T02:47:04.601Z",
+  "lastUpdate": "2026-09-15T09:15:53.364Z",
   "updateInfo": {
-    "totalSchedules": 2896,
-    "newSchedules": 0,
+    "totalSchedules": 2898,
+    "newSchedules": 2,
     "updatedSchedules": 18
   }
 }
