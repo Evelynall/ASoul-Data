@@ -1,5 +1,5 @@
 {
-  "version": "20260916024205",
+  "version": "20260916090841",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51149,7 +51149,7 @@
       "id": "20260916-1400-gladys@asoul.love",
       "date": "2026/09/16",
       "time": "14:00",
-      "title": "思诺直播",
+      "title": "【2D】又一次的练歌诺，请信任。",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -51183,7 +51183,7 @@
       "id": "20260916-1700-fiona@asoul.love",
       "date": "2026/09/16",
       "time": "17:00",
-      "title": "心宜直播",
+      "title": "【2D】宜宝放映室o.O",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -51418,7 +51418,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-16T02:42:05.004Z",
+  "lastUpdate": "2026-09-16T09:08:41.239Z",
   "updateInfo": {
     "totalSchedules": 2898,
     "newSchedules": 0,
