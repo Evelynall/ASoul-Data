@@ -1,5 +1,5 @@
 {
-  "version": "20260917091711",
+  "version": "20260917124941",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51233,8 +51233,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1gNe36uEZX"
+      "isFavorite": false
     },
     {
       "id": "20260917-1700-fiona@asoul.love",
@@ -51393,7 +51392,7 @@
       "id": "20260920-1300-gladys@asoul.love",
       "date": "2026/09/20",
       "time": "13:00",
-      "title": "思诺直播",
+      "title": "【2D】鸣潮夏空坎特蕾拉伴星",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -51424,11 +51423,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-17T09:17:11.074Z",
+  "lastUpdate": "2026-09-17T12:49:41.477Z",
   "updateInfo": {
     "totalSchedules": 2898,
     "newSchedules": 0,
     "updatedSchedules": 12
-  },
-  "lastReplayUpdate": "2026-09-17T09:19:15.472Z"
+  }
 }
