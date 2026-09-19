@@ -1,5 +1,5 @@
 {
-  "version": "20260919083910",
+  "version": "20260919120542",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51328,7 +51328,7 @@
       "id": "20260919-1700-fiona@asoul.love",
       "date": "2026/09/19",
       "time": "17:00",
-      "title": "心宜直播",
+      "title": "【2D】聊聊天吧~",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -51427,11 +51427,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-19T08:39:10.173Z",
+  "lastUpdate": "2026-09-19T12:05:42.481Z",
   "updateInfo": {
     "totalSchedules": 2898,
     "newSchedules": 0,
     "updatedSchedules": 8
-  },
-  "lastReplayUpdate": "2026-09-19T08:41:11.973Z"
+  }
 }
