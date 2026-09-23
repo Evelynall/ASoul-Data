@@ -1,5 +1,5 @@
 {
-  "version": "20260923090905",
+  "version": "20260923130421",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51539,8 +51539,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1u8hx6qEcD"
+      "isFavorite": false
     },
     {
       "id": "20260923-1700-eileen@asoul.love",
@@ -51563,7 +51562,7 @@
       "id": "20260923-1800-gladys@asoul.love",
       "date": "2026/09/23",
       "time": "18:00",
-      "title": "思诺直播",
+      "title": "【2D】小诺影厅~",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -51747,11 +51746,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-23T09:09:05.254Z",
+  "lastUpdate": "2026-09-23T13:04:21.149Z",
   "updateInfo": {
     "totalSchedules": 2916,
-    "newSchedules": 4,
-    "updatedSchedules": 9
-  },
-  "lastReplayUpdate": "2026-09-23T09:11:29.830Z"
+    "newSchedules": 0,
+    "updatedSchedules": 13
+  }
 }
