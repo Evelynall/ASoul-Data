@@ -1,5 +1,5 @@
 {
-  "version": "20260923130421",
+  "version": "20260923164325",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51647,6 +51647,23 @@
       "isFavorite": false
     },
     {
+      "id": "20260924-2200-gladys@asoul.love",
+      "date": "2026/09/24",
+      "time": "22:00",
+      "title": "【晚安电台】清唱一下～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1251261811722813460",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260925-0830-bella@asoul.love",
       "date": "2026/09/25",
       "time": "08:30",
@@ -51749,11 +51766,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-23T13:04:21.149Z",
+  "lastUpdate": "2026-09-23T16:43:25.905Z",
   "updateInfo": {
-    "totalSchedules": 2916,
-    "newSchedules": 0,
-    "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-09-23T13:58:16.654Z"
+    "totalSchedules": 2917,
+    "newSchedules": 1,
+    "updatedSchedules": 9
+  }
 }
