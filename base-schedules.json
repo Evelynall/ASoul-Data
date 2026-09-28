@@ -1,5 +1,5 @@
 {
-  "version": "20260928025418",
+  "version": "20260928104029",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51813,6 +51813,40 @@
       "officialRecordUrl": "https://www.bilibili.com/video/BV1FTaa66Eih"
     },
     {
+      "id": "20260928-1930-gladys@asoul.love",
+      "date": "2026/09/28",
+      "time": "19:30",
+      "title": "诺的九宫格",
+      "type": "日常",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1252969093487656960",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260928-2100-fiona@asoul.love",
+      "date": "2026/09/28",
+      "time": "21:00",
+      "title": "今天也没什么大事",
+      "type": "日常",
+      "subTitle": "心宜直播",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1252969093487656960",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20260929-1200-diana@asoul.love",
       "date": "2026/09/29",
       "time": "12:00",
@@ -51840,6 +51874,57 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1252582217828270120",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260929-2100-eileen@asoul.love",
+      "date": "2026/09/29",
+      "time": "21:00",
+      "title": "紫罗兰的人间之旅",
+      "type": "日常",
+      "subTitle": "乃琳直播",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1252969093459345415",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260930-1930-bella@asoul.love",
+      "date": "2026/09/30",
+      "time": "19:30",
+      "title": "超级大负翁!",
+      "type": "日常",
+      "subTitle": "贝拉直播",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1252969093459345415",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20260930-2100-diana@asoul.love",
+      "date": "2026/09/30",
+      "time": "21:00",
+      "title": "万物鉴定大师",
+      "type": "日常",
+      "subTitle": "嘉然直播",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1252969093459345415",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -51881,6 +51966,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261004-2000-diana@asoul.love",
+      "date": "2026/10/04",
+      "time": "20:00",
+      "title": "友情增加小游戏",
+      "type": "节目",
+      "subTitle": "A-SOUL游戏室",
+      "category": "A-SOUL",
+      "dynamicUrl": "https://www.bilibili.com/opus/1252969093459345415",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261005-1700-diana@asoul.love",
       "date": "2026/10/05",
       "time": "17:00",
@@ -51896,12 +51998,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20261031-2000-gladys@asoul.love",
+      "date": "2026/10/31",
+      "time": "20:00",
+      "title": "【3D出道周年纪念】执笔入梦",
+      "type": "节目",
+      "subTitle": "心宜思诺出道三周年纪念直播",
+      "category": "小心思",
+      "dynamicUrl": "https://www.bilibili.com/opus/1253033623216455686",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-28T02:54:18.922Z",
+  "lastUpdate": "2026-09-28T10:40:29.170Z",
   "updateInfo": {
-    "totalSchedules": 2924,
-    "newSchedules": 0,
+    "totalSchedules": 2931,
+    "newSchedules": 7,
     "updatedSchedules": 5
   }
 }
