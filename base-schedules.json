@@ -1,5 +1,5 @@
 {
-  "version": "20260929033439",
+  "version": "20260929102810",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51951,6 +51951,40 @@
       "isFavorite": false
     },
     {
+      "id": "20261001-2100-fiona@asoul.love",
+      "date": "2026/10/01",
+      "time": "21:00",
+      "title": "【突击】球我来啦",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1253357175959453696",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261002-1500-gladys@asoul.love",
+      "date": "2026/10/02",
+      "time": "15:00",
+      "title": "【突击】下午茶时间～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1253356535997792261",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261002-1700-eileen@asoul.love",
       "date": "2026/10/02",
       "time": "17:00",
@@ -52019,10 +52053,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-29T03:34:39.411Z",
+  "lastUpdate": "2026-09-29T10:28:10.173Z",
   "updateInfo": {
-    "totalSchedules": 2931,
-    "newSchedules": 0,
+    "totalSchedules": 2933,
+    "newSchedules": 2,
     "updatedSchedules": 10
   }
 }
