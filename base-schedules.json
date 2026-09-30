@@ -1,5 +1,5 @@
 {
-  "version": "20260930102000",
+  "version": "20260930141853",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51923,7 +51923,7 @@
       "id": "20260930-2100-diana@asoul.love",
       "date": "2026/09/30",
       "time": "21:00",
-      "title": "万物鉴定大师",
+      "title": "歹物鉴定大师",
       "type": "日常",
       "subTitle": "嘉然直播",
       "category": "嘉然",
@@ -52056,11 +52056,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-09-30T10:20:00.043Z",
+  "lastUpdate": "2026-09-30T14:18:53.990Z",
   "updateInfo": {
     "totalSchedules": 2933,
     "newSchedules": 0,
     "updatedSchedules": 9
-  },
-  "lastReplayUpdate": "2026-09-30T10:21:54.219Z"
+  }
 }
