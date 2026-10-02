@@ -1,5 +1,5 @@
 {
-  "version": "20261002102105",
+  "version": "20261002141304",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -51989,8 +51989,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1Vma26zE47"
+      "isFavorite": false
     },
     {
       "id": "20261002-1500-gladys@asoul.love",
@@ -52007,8 +52006,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV152a26gEbo"
+      "isFavorite": false
     },
     {
       "id": "20261002-1700-eileen@asoul.love",
@@ -52028,6 +52026,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261003-2200-fiona@asoul.love",
+      "date": "2026/10/03",
+      "time": "22:00",
+      "title": "【突击】想我了嘛～",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1254546512526966807",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261004-2000-diana@asoul.love",
       "date": "2026/10/04",
       "time": "20:00",
@@ -52038,6 +52053,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1252969093459345415",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261004-2200-gladys@asoul.love",
+      "date": "2026/10/04",
+      "time": "22:00",
+      "title": "【突击】螺，陪在我身边吧～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1254545872610394135",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -52079,11 +52111,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-02T10:21:05.222Z",
+  "lastUpdate": "2026-10-02T14:13:04.333Z",
   "updateInfo": {
-    "totalSchedules": 2934,
-    "newSchedules": 0,
+    "totalSchedules": 2936,
+    "newSchedules": 2,
     "updatedSchedules": 6
-  },
-  "lastReplayUpdate": "2026-10-02T10:22:59.123Z"
+  }
 }
