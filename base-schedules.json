@@ -1,5 +1,5 @@
 {
-  "version": "20261005111449",
+  "version": "20261005162927",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52135,6 +52135,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261006-1800-diana@asoul.love",
+      "date": "2026/10/06",
+      "time": "18:00",
+      "title": "【突击/鸣潮】璇心如月寄尘情",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1255756971742593031",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261006-1930-fiona@asoul.love",
       "date": "2026/10/06",
       "time": "19:30",
@@ -52339,11 +52356,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-05T11:14:49.302Z",
+  "lastUpdate": "2026-10-05T16:29:27.226Z",
   "updateInfo": {
-    "totalSchedules": 2949,
-    "newSchedules": 12,
-    "updatedSchedules": 2
-  },
-  "lastReplayUpdate": "2026-10-05T11:17:31.155Z"
+    "totalSchedules": 2950,
+    "newSchedules": 1,
+    "updatedSchedules": 12
+  }
 }
