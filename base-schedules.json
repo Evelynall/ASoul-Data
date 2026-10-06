@@ -1,5 +1,5 @@
 {
-  "version": "20261006110417",
+  "version": "20261006143213",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52341,6 +52341,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261009-2000-eileen@asoul.love",
+      "date": "2026/10/09",
+      "time": "20:00",
+      "title": "【突击】和队长小的汐汐玩游戏",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1256025694996004865",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261010-1700-fiona@asoul.love",
       "date": "2026/10/10",
       "time": "17:00",
@@ -52409,11 +52426,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-06T11:04:17.056Z",
+  "lastUpdate": "2026-10-06T14:32:13.233Z",
   "updateInfo": {
-    "totalSchedules": 2953,
-    "newSchedules": 3,
-    "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-10-06T11:07:27.119Z"
+    "totalSchedules": 2954,
+    "newSchedules": 1,
+    "updatedSchedules": 16
+  }
 }
