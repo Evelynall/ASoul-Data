@@ -1,5 +1,5 @@
 {
-  "version": "20261007033733",
+  "version": "20261007105350",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52361,6 +52361,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261010-1200-eileen@asoul.love",
+      "date": "2026/10/10",
+      "time": "12:00",
+      "title": "【突击/鸣潮】团团勇者大乱斗",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1256350269929684999",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261010-1700-fiona@asoul.love",
       "date": "2026/10/10",
       "time": "17:00",
@@ -52429,10 +52446,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-07T03:37:33.604Z",
+  "lastUpdate": "2026-10-07T10:53:50.519Z",
   "updateInfo": {
-    "totalSchedules": 2954,
-    "newSchedules": 0,
+    "totalSchedules": 2955,
+    "newSchedules": 1,
     "updatedSchedules": 14
   }
 }
