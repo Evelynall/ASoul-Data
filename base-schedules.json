@@ -1,5 +1,5 @@
 {
-  "version": "20261008111111",
+  "version": "20261008145939",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52259,8 +52259,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1udHU61EUP"
+      "isFavorite": false
     },
     {
       "id": "20261008-1600-gladys@asoul.love",
@@ -52307,6 +52306,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1255576041938747409",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261009-1600-gladys@asoul.love",
+      "date": "2026/10/09",
+      "time": "16:00",
+      "title": "【2D】继续噜咪公会战！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1256807439130427408",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -52416,6 +52432,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261011-1100-gladys@asoul.love",
+      "date": "2026/10/11",
+      "time": "11:00",
+      "title": "【2D】开启鸣潮2.4！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1256810668943736833",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261011-2000-gladys@asoul.love",
       "date": "2026/10/11",
       "time": "20:00",
@@ -52450,11 +52483,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-08T11:11:11.333Z",
+  "lastUpdate": "2026-10-08T14:59:39.657Z",
   "updateInfo": {
-    "totalSchedules": 2955,
-    "newSchedules": 0,
+    "totalSchedules": 2957,
+    "newSchedules": 2,
     "updatedSchedules": 12
-  },
-  "lastReplayUpdate": "2026-10-08T11:13:13.611Z"
+  }
 }
