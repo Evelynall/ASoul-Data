@@ -52259,7 +52259,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1udHU61EUP"
     },
     {
       "id": "20261008-1600-gladys@asoul.love",
@@ -52454,5 +52455,6 @@
     "totalSchedules": 2955,
     "newSchedules": 0,
     "updatedSchedules": 12
-  }
+  },
+  "lastReplayUpdate": "2026-10-08T11:13:13.611Z"
 }
