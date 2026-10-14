@@ -1,5 +1,5 @@
 {
-  "version": "20261014092115",
+  "version": "20261014130815",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52565,14 +52565,13 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1ZEpy67E9b"
+      "isFavorite": false
     },
     {
       "id": "20261014-1800-gladys@asoul.love",
       "date": "2026/10/14",
       "time": "18:00",
-      "title": "思诺直播",
+      "title": "【2D】晚岸歌叙~",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -52596,6 +52595,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1258164285871226881",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261014-2300-gladys@asoul.love",
+      "date": "2026/10/14",
+      "time": "23:00",
+      "title": "【电台突击】出道三周年啦！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1259039928771149833",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -52722,6 +52738,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261017-1200-eileen@asoul.love",
+      "date": "2026/10/17",
+      "time": "12:00",
+      "title": "【突击/鸣潮】矩阵专家会诊",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1259033512146632709",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261017-1600-fiona@asoul.love",
       "date": "2026/10/17",
       "time": "16:00",
@@ -52773,6 +52806,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261018-2000-eileen@asoul.love",
+      "date": "2026/10/18",
+      "time": "20:00",
+      "title": "【突击】电台电台！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1259033378975383568",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261031-2000-gladys@asoul.love",
       "date": "2026/10/31",
       "time": "20:00",
@@ -52790,11 +52840,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-14T09:21:15.358Z",
+  "lastUpdate": "2026-10-14T13:08:15.615Z",
   "updateInfo": {
-    "totalSchedules": 2974,
-    "newSchedules": 1,
-    "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-10-14T09:23:06.187Z"
+    "totalSchedules": 2977,
+    "newSchedules": 3,
+    "updatedSchedules": 14
+  }
 }
