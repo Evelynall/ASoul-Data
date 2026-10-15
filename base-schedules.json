@@ -1,5 +1,5 @@
 {
-  "version": "20261015023804",
+  "version": "20261015085712",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52643,7 +52643,7 @@
       "id": "20261015-1600-gladys@asoul.love",
       "date": "2026/10/15",
       "time": "16:00",
-      "title": "思诺直播",
+      "title": "【2D】小诺影厅~",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -52793,6 +52793,40 @@
       "isFavorite": false
     },
     {
+      "id": "20261017-2230-diana@asoul.love",
+      "date": "2026/10/17",
+      "time": "22:30",
+      "title": "【突击】深夜斗地主的王！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1259327489711276049",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261018-1300-gladys@asoul.love",
+      "date": "2026/10/18",
+      "time": "13:00",
+      "title": "【2D】开启鸣潮2.5～",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1259255398744981510",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261018-2000-fiona@asoul.love",
       "date": "2026/10/18",
       "time": "20:00",
@@ -52827,6 +52861,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261019-2100-diana@asoul.love",
+      "date": "2026/10/19",
+      "time": "21:00",
+      "title": "【突击】ASMR电台！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1259327524124491778",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261031-2000-gladys@asoul.love",
       "date": "2026/10/31",
       "time": "20:00",
@@ -52844,10 +52895,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-15T02:38:04.584Z",
+  "lastUpdate": "2026-10-15T08:57:12.161Z",
   "updateInfo": {
-    "totalSchedules": 2977,
-    "newSchedules": 0,
+    "totalSchedules": 2980,
+    "newSchedules": 3,
     "updatedSchedules": 13
   }
 }
