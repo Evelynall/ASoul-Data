@@ -1,5 +1,5 @@
 {
-  "version": "20261015164754",
+  "version": "20261016023318",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52780,6 +52780,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261017-1700-bella@asoul.love",
+      "date": "2026/10/17",
+      "time": "17:00",
+      "title": "【突击】战双测试服看看莱亚！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1259610609691918339",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261017-2000-diana@asoul.love",
       "date": "2026/10/17",
       "time": "20:00",
@@ -52899,11 +52916,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-15T16:47:54.472Z",
+  "lastUpdate": "2026-10-16T02:33:18.131Z",
   "updateInfo": {
-    "totalSchedules": 2980,
-    "newSchedules": 0,
+    "totalSchedules": 2981,
+    "newSchedules": 1,
     "updatedSchedules": 12
-  },
-  "lastReplayUpdate": "2026-10-15T23:37:43.255Z"
+  }
 }
