@@ -1,5 +1,5 @@
 {
-  "version": "20261016124607",
+  "version": "20261016163022",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52768,7 +52768,7 @@
       "id": "20261017-1600-fiona@asoul.love",
       "date": "2026/10/17",
       "time": "16:00",
-      "title": "心宜直播",
+      "title": "【2D】酸角粥！",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -52918,11 +52918,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-16T12:46:07.483Z",
+  "lastUpdate": "2026-10-16T16:30:22.770Z",
   "updateInfo": {
     "totalSchedules": 2981,
     "newSchedules": 0,
-    "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-10-16T13:37:38.046Z"
+    "updatedSchedules": 10
+  }
 }
