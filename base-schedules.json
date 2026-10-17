@@ -1,5 +1,5 @@
 {
-  "version": "20261017114723",
+  "version": "20261017152424",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52763,8 +52763,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1feJe61EBz"
+      "isFavorite": false
     },
     {
       "id": "20261017-1600-fiona@asoul.love",
@@ -52798,8 +52797,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1yuJq68EKP"
+      "isFavorite": false
     },
     {
       "id": "20261017-2000-diana@asoul.love",
@@ -52938,11 +52936,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-17T11:47:23.707Z",
+  "lastUpdate": "2026-10-17T15:24:24.467Z",
   "updateInfo": {
     "totalSchedules": 2982,
-    "newSchedules": 1,
-    "updatedSchedules": 10
-  },
-  "lastReplayUpdate": "2026-10-17T12:35:10.276Z"
+    "newSchedules": 0,
+    "updatedSchedules": 11
+  }
 }
