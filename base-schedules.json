@@ -1,5 +1,5 @@
 {
-  "version": "20261019094106",
+  "version": "20261019150335",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52907,14 +52907,13 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1dwnJ6NEY5"
+      "isFavorite": false
     },
     {
       "id": "20261019-1800-gladys@asoul.love",
       "date": "2026/10/19",
       "time": "18:00",
-      "title": "思诺直播",
+      "title": "【2D】首播挑战！",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -53149,11 +53148,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-19T09:41:06.722Z",
+  "lastUpdate": "2026-10-19T15:03:35.159Z",
   "updateInfo": {
     "totalSchedules": 2994,
-    "newSchedules": 11,
-    "updatedSchedules": 4
-  },
-  "lastReplayUpdate": "2026-10-19T09:44:10.143Z"
+    "newSchedules": 0,
+    "updatedSchedules": 15
+  }
 }
