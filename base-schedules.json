@@ -1,5 +1,5 @@
 {
-  "version": "20261020025201",
+  "version": "20261020091520",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -52998,6 +52998,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261021-1200-bella@asoul.love",
+      "date": "2026/10/21",
+      "time": "12:00",
+      "title": "【突击】继续看小当家！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1261174785235222529",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261021-1700-fiona@asoul.love",
       "date": "2026/10/21",
       "time": "17:00",
@@ -53025,6 +53042,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1260769542217400324",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261022-1200-bella@asoul.love",
+      "date": "2026/10/22",
+      "time": "12:00",
+      "title": "【突击】品一下《栀子与荆棘》",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1261174798157873159",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -53103,9 +53137,9 @@
       "id": "20261024-0000-@asoul.love",
       "date": "2026/10/24",
       "time": "00:00",
-      "title": "【】A-SOUL团体线下演唱会",
+      "title": "【】A-SOUL线下演唱会",
       "type": "订阅",
-      "subTitle": "【】A-SOUL团体线下演唱会",
+      "subTitle": "【】A-SOUL线下演唱会",
       "category": "A-SOUL",
       "dynamicUrl": "https://www.bilibili.com/opus/1260769542217400324",
       "liveRoomUrl": "",
@@ -53120,13 +53154,13 @@
       "id": "20261025-0000-bella@asoul.love",
       "date": "2026/10/25",
       "time": "00:00",
-      "title": "A-SOUL团体线下演唱会",
-      "type": "活动",
-      "subTitle": "A-SOUL团体线下演唱会",
+      "title": "【】A-SOUL线下演唱会",
+      "type": "订阅",
+      "subTitle": "【】A-SOUL线下演唱会",
       "category": "A-SOUL",
       "dynamicUrl": "https://www.bilibili.com/opus/1260769542217400324",
-      "liveRoomUrl": "https://live.bilibili.com/22632424",
-      "icsUrl": "https://live.bilibili.com/22632424",
+      "liveRoomUrl": "",
+      "icsUrl": "",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -53151,10 +53185,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-20T02:52:01.153Z",
+  "lastUpdate": "2026-10-20T09:15:20.529Z",
   "updateInfo": {
-    "totalSchedules": 2994,
-    "newSchedules": 0,
+    "totalSchedules": 2996,
+    "newSchedules": 2,
     "updatedSchedules": 12
   }
 }
