@@ -1,5 +1,5 @@
 {
-  "version": "20261020091520",
+  "version": "20261020130509",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53032,6 +53032,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261021-1900-eileen@asoul.love",
+      "date": "2026/10/21",
+      "time": "19:00",
+      "title": "【突击】一起品鉴腾讯新游",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1261225749316108376",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261021-2100-diana@asoul.love",
       "date": "2026/10/21",
       "time": "21:00",
@@ -53185,11 +53202,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-20T09:15:20.529Z",
+  "lastUpdate": "2026-10-20T13:05:09.347Z",
   "updateInfo": {
-    "totalSchedules": 2996,
-    "newSchedules": 2,
-    "updatedSchedules": 12
-  },
-  "lastReplayUpdate": "2026-10-20T09:17:35.187Z"
+    "totalSchedules": 2997,
+    "newSchedules": 1,
+    "updatedSchedules": 14
+  }
 }
