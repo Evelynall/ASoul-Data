@@ -1,5 +1,5 @@
 {
-  "version": "20261021091106",
+  "version": "20261021131625",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53015,8 +53015,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1Utnq63EEc"
+      "isFavorite": false
     },
     {
       "id": "20261021-1700-fiona@asoul.love",
@@ -53192,7 +53191,7 @@
       "id": "20261024-0000-@asoul.love",
       "date": "2026/10/24",
       "time": "00:00",
-      "title": "【】A-SOUL线下演唱会",
+      "title": "此间共鸣",
       "type": "订阅",
       "subTitle": "【】A-SOUL线下演唱会",
       "category": "A-SOUL",
@@ -53209,7 +53208,7 @@
       "id": "20261025-0000-bella@asoul.love",
       "date": "2026/10/25",
       "time": "00:00",
-      "title": "【】A-SOUL线下演唱会",
+      "title": "此间共鸣",
       "type": "订阅",
       "subTitle": "【】A-SOUL线下演唱会",
       "category": "A-SOUL",
@@ -53240,11 +53239,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-21T09:11:06.415Z",
+  "lastUpdate": "2026-10-21T13:16:25.271Z",
   "updateInfo": {
     "totalSchedules": 2999,
-    "newSchedules": 2,
-    "updatedSchedules": 12
-  },
-  "lastReplayUpdate": "2026-10-21T09:13:58.230Z"
+    "newSchedules": 0,
+    "updatedSchedules": 14
+  }
 }
