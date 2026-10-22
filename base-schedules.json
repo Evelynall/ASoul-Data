@@ -1,5 +1,5 @@
 {
-  "version": "20261022091344",
+  "version": "20261022131439",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53087,8 +53087,7 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false,
-      "officialRecordUrl": "https://www.bilibili.com/video/BV1RSny6uEnz"
+      "isFavorite": false
     },
     {
       "id": "20261022-1700-gladys@asoul.love",
@@ -53227,6 +53226,40 @@
       "isFavorite": false
     },
     {
+      "id": "20261029-1000-eileen@asoul.love",
+      "date": "2026/10/29",
+      "time": "10:00",
+      "title": "【突击】早起影之刃零！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1261974387908673553",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261029-2100-diana@asoul.love",
+      "date": "2026/10/29",
+      "time": "21:00",
+      "title": "【突击】影之刃零DAY1",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1261974375003848721",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261031-2000-gladys@asoul.love",
       "date": "2026/10/31",
       "time": "20:00",
@@ -53244,11 +53277,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-22T09:13:44.029Z",
+  "lastUpdate": "2026-10-22T13:14:39.377Z",
   "updateInfo": {
-    "totalSchedules": 2999,
-    "newSchedules": 0,
+    "totalSchedules": 3001,
+    "newSchedules": 2,
     "updatedSchedules": 10
-  },
-  "lastReplayUpdate": "2026-10-22T09:16:52.825Z"
+  }
 }
