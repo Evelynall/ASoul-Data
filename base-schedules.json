@@ -1,5 +1,5 @@
 {
-  "version": "20261022024945",
+  "version": "20261022091344",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53093,7 +53093,7 @@
       "id": "20261022-1700-gladys@asoul.love",
       "date": "2026/10/22",
       "time": "17:00",
-      "title": "心宜&思诺直播",
+      "title": "【2D】双人成行！",
       "type": "2D",
       "subTitle": "心宜&思诺直播",
       "category": "小心思",
@@ -53243,7 +53243,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-22T02:49:45.340Z",
+  "lastUpdate": "2026-10-22T09:13:44.029Z",
   "updateInfo": {
     "totalSchedules": 2999,
     "newSchedules": 0,
