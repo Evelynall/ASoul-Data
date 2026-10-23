@@ -53194,7 +53194,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1mBn86nEca"
     },
     {
       "id": "20261024-0000-@asoul.love",
@@ -53338,5 +53339,6 @@
     "totalSchedules": 3004,
     "newSchedules": 0,
     "updatedSchedules": 8
-  }
+  },
+  "lastReplayUpdate": "2026-10-23T17:48:09.828Z"
 }
