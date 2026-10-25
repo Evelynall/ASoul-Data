@@ -1,5 +1,5 @@
 {
-  "version": "20261025085945",
+  "version": "20261025124817",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53232,6 +53232,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261025-2230-diana@asoul.love",
+      "date": "2026/10/25",
+      "time": "22:30",
+      "title": "【突击】线下结束后的三人电台",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1263098556949987397",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261026-2000-fiona@asoul.love",
       "date": "2026/10/26",
       "time": "20:00",
@@ -53351,11 +53368,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-25T08:59:45.958Z",
+  "lastUpdate": "2026-10-25T12:48:17.809Z",
   "updateInfo": {
-    "totalSchedules": 3005,
+    "totalSchedules": 3006,
     "newSchedules": 1,
-    "updatedSchedules": 7
-  },
-  "lastReplayUpdate": "2026-10-25T09:01:50.722Z"
+    "updatedSchedules": 8
+  }
 }
