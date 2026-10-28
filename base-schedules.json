@@ -1,5 +1,5 @@
 {
-  "version": "20261028102450",
+  "version": "20261028143532",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53440,6 +53440,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261029-1900-gladys@asoul.love",
+      "date": "2026/10/29",
+      "time": "19:00",
+      "title": "【2D】继续噜咪公会战！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1264248160782385176",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261029-1930-bella@asoul.love",
       "date": "2026/10/29",
       "time": "19:30",
@@ -53525,11 +53542,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-28T10:24:50.160Z",
+  "lastUpdate": "2026-10-28T14:35:32.298Z",
   "updateInfo": {
-    "totalSchedules": 3015,
-    "newSchedules": 2,
-    "updatedSchedules": 7
-  },
-  "lastReplayUpdate": "2026-10-28T10:26:19.954Z"
+    "totalSchedules": 3016,
+    "newSchedules": 1,
+    "updatedSchedules": 9
+  }
 }
