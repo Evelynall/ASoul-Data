@@ -53335,7 +53335,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1A1x76dEW3"
     },
     {
       "id": "20261028-1900-eileen@asoul.love",
@@ -53352,7 +53353,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1Pyx764Eaq"
     },
     {
       "id": "20261028-1900-eileen-u1264178958117634084@asoul.love",
@@ -53386,7 +53388,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1Pyx764Eaq"
     },
     {
       "id": "20261028-1930-eileen-u1263873412009295922@asoul.love",
@@ -53420,7 +53423,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1zDsX6LEwc"
     },
     {
       "id": "20261029-1000-eileen@asoul.love",
@@ -53547,5 +53551,6 @@
     "totalSchedules": 3016,
     "newSchedules": 1,
     "updatedSchedules": 9
-  }
+  },
+  "lastReplayUpdate": "2026-10-28T15:38:02.682Z"
 }
