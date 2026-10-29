@@ -1,5 +1,5 @@
 {
-  "version": "20261029104442",
+  "version": "20261029144219",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53512,6 +53512,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261030-2130-eileen@asoul.love",
+      "date": "2026/10/30",
+      "time": "21:30",
+      "title": "【突击】继续影之刃零！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1264584138844798983",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261031-2000-gladys@asoul.love",
       "date": "2026/10/31",
       "time": "20:00",
@@ -53546,11 +53563,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-29T10:44:42.214Z",
+  "lastUpdate": "2026-10-29T14:42:19.649Z",
   "updateInfo": {
-    "totalSchedules": 3016,
-    "newSchedules": 0,
+    "totalSchedules": 3017,
+    "newSchedules": 1,
     "updatedSchedules": 7
-  },
-  "lastReplayUpdate": "2026-10-29T10:46:16.814Z"
+  }
 }
