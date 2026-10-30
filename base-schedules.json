@@ -1,5 +1,5 @@
 {
-  "version": "20261029182216",
+  "version": "20261030034942",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53499,6 +53499,23 @@
       "officialRecordUrl": "https://www.bilibili.com/video/BV15oxw6AEEt"
     },
     {
+      "id": "20261030-1200-diana@asoul.love",
+      "date": "2026/10/30",
+      "time": "12:00",
+      "title": "【突击】继续影之刃零！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1264711746655879176",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261030-1300-fiona@asoul.love",
       "date": "2026/10/30",
       "time": "13:00",
@@ -53584,11 +53601,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-10-29T18:22:16.493Z",
+  "lastUpdate": "2026-10-30T03:49:42.296Z",
   "updateInfo": {
-    "totalSchedules": 3018,
+    "totalSchedules": 3019,
     "newSchedules": 1,
-    "updatedSchedules": 4
-  },
-  "lastReplayUpdate": "2026-10-30T00:44:28.330Z"
+    "updatedSchedules": 5
+  }
 }
