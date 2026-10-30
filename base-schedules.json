@@ -53513,7 +53513,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV17txv6wEWH"
     },
     {
       "id": "20261030-1300-fiona@asoul.love",
@@ -53530,7 +53531,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1ufxa6VEfD"
     },
     {
       "id": "20261030-1700-bella@asoul.love",
@@ -53623,5 +53625,6 @@
     "totalSchedules": 3020,
     "newSchedules": 1,
     "updatedSchedules": 6
-  }
+  },
+  "lastReplayUpdate": "2026-10-30T10:45:48.921Z"
 }
