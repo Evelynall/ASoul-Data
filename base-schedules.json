@@ -1,5 +1,5 @@
 {
-  "version": "20261103044859",
+  "version": "20261103114144",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53752,7 +53752,7 @@
     {
       "id": "20261103-1600-eileen@asoul.love",
       "date": "2026/11/03",
-      "time": "16:00",
+      "time": "15:00",
       "title": "【突击】影之刃零DAY5！",
       "type": "突击",
       "subTitle": "乃琳突击",
@@ -53860,6 +53860,23 @@
       "subTitle": "贝拉直播",
       "category": "贝拉",
       "dynamicUrl": "https://www.bilibili.com/opus/1265957074584469537",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261105-1200-bella@asoul.love",
+      "date": "2026/11/05",
+      "time": "12:00",
+      "title": "【突击】继续看小当家！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1266385834691526672",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
@@ -54039,9 +54056,9 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-03T04:48:59.388Z",
+  "lastUpdate": "2026-11-03T11:41:44.423Z",
   "updateInfo": {
-    "totalSchedules": 3044,
+    "totalSchedules": 3045,
     "newSchedules": 1,
     "updatedSchedules": 17
   }
