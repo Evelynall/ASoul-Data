@@ -1,5 +1,5 @@
 {
-  "version": "20261103153128",
+  "version": "20261103192358",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -53957,6 +53957,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261106-1200-diana@asoul.love",
+      "date": "2026/11/06",
+      "time": "12:00",
+      "title": "【突击】继续影之刃之旅！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1266553531668627494",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261106-1700-gladys@asoul.love",
       "date": "2026/11/06",
       "time": "17:00",
@@ -54076,11 +54093,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-03T15:31:28.718Z",
+  "lastUpdate": "2026-11-03T19:23:58.184Z",
   "updateInfo": {
-    "totalSchedules": 3046,
+    "totalSchedules": 3047,
     "newSchedules": 1,
-    "updatedSchedules": 18
-  },
-  "lastReplayUpdate": "2026-11-03T16:43:43.309Z"
+    "updatedSchedules": 14
+  }
 }
