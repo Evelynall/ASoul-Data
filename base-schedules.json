@@ -1,5 +1,5 @@
 {
-  "version": "20261106043143",
+  "version": "20261106115330",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54020,7 +54020,7 @@
       "id": "20261106-1700-gladys@asoul.love",
       "date": "2026/11/06",
       "time": "17:00",
-      "title": "思诺直播",
+      "title": "【2D】来听诺宝的新单曲吧",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -54119,6 +54119,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261107-1600-diana@asoul.love",
+      "date": "2026/11/07",
+      "time": "16:00",
+      "title": "【突击】和塔菲喵一起名将杀！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1267534502202179587",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261107-2000-diana@asoul.love",
       "date": "2026/11/07",
       "time": "20:00",
@@ -54127,6 +54144,23 @@
       "subTitle": "A-SOUL游戏室",
       "category": "A-SOUL",
       "dynamicUrl": "https://www.bilibili.com/opus/1265957074584469537",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261108-1900-diana@asoul.love",
+      "date": "2026/11/08",
+      "time": "19:00",
+      "title": "【突击】影之刃零！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1267491569767809024",
       "liveRoomUrl": "https://live.bilibili.com/22637261",
       "icsUrl": "https://live.bilibili.com/22637261",
       "completed": false,
@@ -54170,10 +54204,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-06T04:31:43.304Z",
+  "lastUpdate": "2026-11-06T11:53:30.370Z",
   "updateInfo": {
-    "totalSchedules": 3051,
-    "newSchedules": 0,
+    "totalSchedules": 3053,
+    "newSchedules": 2,
     "updatedSchedules": 11
   }
 }
