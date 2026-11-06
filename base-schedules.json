@@ -1,5 +1,5 @@
 {
-  "version": "20261106152554",
+  "version": "20261106191439",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54158,6 +54158,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261107-2200-fiona@asoul.love",
+      "date": "2026/11/07",
+      "time": "22:00",
+      "title": "【突击】周末愉快～",
+      "type": "突击",
+      "subTitle": "心宜突击",
+      "category": "心宜",
+      "dynamicUrl": "https://www.bilibili.com/opus/1267621578382770177",
+      "liveRoomUrl": "https://live.bilibili.com/30849777",
+      "icsUrl": "https://live.bilibili.com/30849777",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261108-1200-eileen@asoul.love",
       "date": "2026/11/08",
       "time": "12:00",
@@ -54226,11 +54243,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-06T15:25:54.346Z",
+  "lastUpdate": "2026-11-06T19:14:39.426Z",
   "updateInfo": {
-    "totalSchedules": 3054,
+    "totalSchedules": 3055,
     "newSchedules": 1,
-    "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-11-06T16:29:47.488Z"
+    "updatedSchedules": 8
+  }
 }
