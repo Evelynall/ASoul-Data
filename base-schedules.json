@@ -54194,7 +54194,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV14TWn6aEVH"
     },
     {
       "id": "20261108-1900-diana@asoul.love",
@@ -54287,5 +54288,6 @@
     "totalSchedules": 3057,
     "newSchedules": 0,
     "updatedSchedules": 6
-  }
+  },
+  "lastReplayUpdate": "2026-11-08T11:08:44.706Z"
 }
