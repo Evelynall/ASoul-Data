@@ -1,5 +1,5 @@
 {
-  "version": "20261108175204",
+  "version": "20261109035601",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54268,6 +54268,40 @@
       "isFavorite": false
     },
     {
+      "id": "20261110-1900-eileen@asoul.love",
+      "date": "2026/11/10",
+      "time": "19:00",
+      "title": "【突击】影之刃零争取完结！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1268539589016944640",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261113-1000-bella@asoul.love",
+      "date": "2026/11/13",
+      "time": "10:00",
+      "title": "【突击】战双·流光抛诸寰宇",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1268540319168725014",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261128-2000-fiona@asoul.love",
       "date": "2026/11/28",
       "time": "20:00",
@@ -54285,11 +54319,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-08T17:52:04.263Z",
+  "lastUpdate": "2026-11-09T03:56:01.404Z",
   "updateInfo": {
-    "totalSchedules": 3057,
-    "newSchedules": 0,
+    "totalSchedules": 3059,
+    "newSchedules": 2,
     "updatedSchedules": 3
-  },
-  "lastReplayUpdate": "2026-11-09T00:41:05.411Z"
+  }
 }
