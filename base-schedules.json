@@ -1,5 +1,5 @@
 {
-  "version": "20261112051128",
+  "version": "20261112121757",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54397,7 +54397,7 @@
       "id": "20261112-1830-fiona@asoul.love",
       "date": "2026/11/12",
       "time": "18:30",
-      "title": "心宜直播",
+      "title": "【2D】一起看视频吧~",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -54620,9 +54620,9 @@
       "time": "20:00",
       "title": "【3D生日会】心之轨迹",
       "type": "节目",
-      "subTitle": "心宜生日会",
+      "subTitle": "3D生日会",
       "category": "心宜",
-      "dynamicUrl": "https://www.bilibili.com/opus/1269655739363754008",
+      "dynamicUrl": "https://www.bilibili.com/opus/1269774417879105537",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
       "completed": false,
@@ -54632,7 +54632,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-12T05:11:28.242Z",
+  "lastUpdate": "2026-11-12T12:17:57.856Z",
   "updateInfo": {
     "totalSchedules": 3077,
     "newSchedules": 0,
