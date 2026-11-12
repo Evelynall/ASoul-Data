@@ -1,5 +1,5 @@
 {
-  "version": "20261111192918",
+  "version": "20261112051128",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54622,7 +54622,7 @@
       "type": "节目",
       "subTitle": "心宜生日会",
       "category": "心宜",
-      "dynamicUrl": "https://www.bilibili.com/opus/1266776676742725649",
+      "dynamicUrl": "https://www.bilibili.com/opus/1269655739363754008",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
       "completed": false,
@@ -54632,11 +54632,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-11T19:29:18.241Z",
+  "lastUpdate": "2026-11-12T05:11:28.242Z",
   "updateInfo": {
     "totalSchedules": 3077,
     "newSchedules": 0,
     "updatedSchedules": 14
-  },
-  "lastReplayUpdate": "2026-11-12T02:11:25.110Z"
+  }
 }
