@@ -1,5 +1,5 @@
 {
-  "version": "20261113042732",
+  "version": "20261113115628",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54468,7 +54468,7 @@
       "id": "20261113-1700-gladys@asoul.love",
       "date": "2026/11/13",
       "time": "17:00",
-      "title": "思诺直播",
+      "title": "【2D】先节奏医生6点半斗地主！",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -54509,6 +54509,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1269435484830957587",
       "liveRoomUrl": "https://live.bilibili.com/22625027",
       "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261114-1000-bella@asoul.love",
+      "date": "2026/11/14",
+      "time": "10:00",
+      "title": "【突击】战双·流光抛诸寰宇",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1270088362807525393",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -54623,9 +54640,9 @@
       "time": "20:00",
       "title": "【3D生日会】心之轨迹",
       "type": "节目",
-      "subTitle": "3D生日会",
+      "subTitle": "心宜生日会",
       "category": "心宜",
-      "dynamicUrl": "https://www.bilibili.com/opus/1269774417879105537",
+      "dynamicUrl": "https://www.bilibili.com/opus/1270047139695689750",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
       "completed": false,
@@ -54635,10 +54652,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-13T04:27:32.967Z",
+  "lastUpdate": "2026-11-13T11:56:28.283Z",
   "updateInfo": {
-    "totalSchedules": 3077,
-    "newSchedules": 0,
+    "totalSchedules": 3078,
+    "newSchedules": 1,
     "updatedSchedules": 11
   }
 }
