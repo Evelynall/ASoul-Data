@@ -1,5 +1,5 @@
 {
-  "version": "20261114042324",
+  "version": "20261114111508",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54540,7 +54540,7 @@
       "id": "20261114-1400-fiona@asoul.love",
       "date": "2026/11/14",
       "time": "14:00",
-      "title": "心宜直播",
+      "title": "【2D】唱歌聊天~",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -54622,6 +54622,40 @@
       "isFavorite": false
     },
     {
+      "id": "20261116-1400-gladys@asoul.love",
+      "date": "2026/11/16",
+      "time": "14:00",
+      "title": "【2D鸣潮】2.7主线！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1270510416366141479",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261117-1200-bella@asoul.love",
+      "date": "2026/11/17",
+      "time": "12:00",
+      "title": "【突击】战双·莱亚好感剧情！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1270507439948562456",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261117-1800-diana@asoul.love",
       "date": "2026/11/17",
       "time": "18:00",
@@ -54656,10 +54690,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-14T04:23:24.759Z",
+  "lastUpdate": "2026-11-14T11:15:08.059Z",
   "updateInfo": {
-    "totalSchedules": 3078,
-    "newSchedules": 0,
+    "totalSchedules": 3080,
+    "newSchedules": 2,
     "updatedSchedules": 8
   }
 }
