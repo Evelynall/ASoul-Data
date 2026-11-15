@@ -1,5 +1,5 @@
 {
-  "version": "20261115150226",
+  "version": "20261115184410",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54678,6 +54678,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261118-1200-eileen@asoul.love",
+      "date": "2026/11/18",
+      "time": "12:00",
+      "title": "【突击】一起看鸣潮二创！",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1270984177002479665",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261118-1700-bella@asoul.love",
       "date": "2026/11/18",
       "time": "17:00",
@@ -54712,11 +54729,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-15T15:02:26.032Z",
+  "lastUpdate": "2026-11-15T18:44:10.521Z",
   "updateInfo": {
-    "totalSchedules": 3081,
-    "newSchedules": 0,
-    "updatedSchedules": 7
-  },
-  "lastReplayUpdate": "2026-11-15T15:58:04.845Z"
+    "totalSchedules": 3082,
+    "newSchedules": 1,
+    "updatedSchedules": 5
+  }
 }
