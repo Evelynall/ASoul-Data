@@ -1,5 +1,5 @@
 {
-  "version": "20261117204502",
+  "version": "20261118052459",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54768,6 +54768,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261118-1900-eileen@asoul.love",
+      "date": "2026/11/18",
+      "time": "19:00",
+      "title": "我能在不违规的情况下过主线吗",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1271890762997432322",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261118-1930-gladys-u1271608392498020354@asoul.love",
       "date": "2026/11/18",
       "time": "19:30",
@@ -54938,11 +54955,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-17T20:45:02.214Z",
+  "lastUpdate": "2026-11-18T05:24:59.728Z",
   "updateInfo": {
-    "totalSchedules": 3094,
-    "newSchedules": 0,
+    "totalSchedules": 3095,
+    "newSchedules": 1,
     "updatedSchedules": 13
-  },
-  "lastReplayUpdate": "2026-11-18T02:49:08.379Z"
+  }
 }
