@@ -54838,7 +54838,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1Vfs86rE6n"
     },
     {
       "id": "20261119-2100-eileen@asoul.love",
@@ -54855,7 +54856,8 @@
       "note": "",
       "isIcs": true,
       "isAnime": false,
-      "isFavorite": false
+      "isFavorite": false,
+      "officialRecordUrl": "https://www.bilibili.com/video/BV1uGsY66EKa"
     },
     {
       "id": "20261120-1700-gladys@asoul.love",
@@ -54999,5 +55001,6 @@
     "totalSchedules": 3097,
     "newSchedules": 0,
     "updatedSchedules": 8
-  }
+  },
+  "lastReplayUpdate": "2026-11-19T17:50:07.772Z"
 }
