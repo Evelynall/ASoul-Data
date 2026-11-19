@@ -1,5 +1,5 @@
 {
-  "version": "20261118202058",
+  "version": "20261119052120",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54892,6 +54892,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261120-2230-eileen@asoul.love",
+      "date": "2026/11/20",
+      "time": "22:30",
+      "title": "【GTA6】我一直都是好市民",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1272269119573458944",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261121-1400-fiona@asoul.love",
       "date": "2026/11/21",
       "time": "14:00",
@@ -54977,11 +54994,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-18T20:20:58.210Z",
+  "lastUpdate": "2026-11-19T05:21:20.891Z",
   "updateInfo": {
-    "totalSchedules": 3096,
-    "newSchedules": 0,
+    "totalSchedules": 3097,
+    "newSchedules": 1,
     "updatedSchedules": 9
-  },
-  "lastReplayUpdate": "2026-11-19T02:27:09.262Z"
+  }
 }
