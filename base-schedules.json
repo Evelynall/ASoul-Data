@@ -1,5 +1,5 @@
 {
-  "version": "20261121050105",
+  "version": "20261121121359",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -54950,7 +54950,7 @@
       "id": "20261121-1400-fiona@asoul.love",
       "date": "2026/11/21",
       "time": "14:00",
-      "title": "心宜直播",
+      "title": "【2D】三点三角洲！",
       "type": "2D",
       "subTitle": "心宜直播",
       "category": "心宜",
@@ -55008,6 +55008,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1272721379624484867",
       "liveRoomUrl": "https://live.bilibili.com/22632424",
       "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261121-2230-eileen@asoul.love",
+      "date": "2026/11/21",
+      "time": "22:30",
+      "title": "【GTA6】我有着金子般的心",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1272994904578981889",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -55083,10 +55100,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-21T05:01:05.128Z",
+  "lastUpdate": "2026-11-21T12:13:59.375Z",
   "updateInfo": {
-    "totalSchedules": 3102,
-    "newSchedules": 0,
-    "updatedSchedules": 7
+    "totalSchedules": 3103,
+    "newSchedules": 1,
+    "updatedSchedules": 6
   }
 }
