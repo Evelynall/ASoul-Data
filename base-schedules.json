@@ -1,5 +1,5 @@
 {
-  "version": "20261122042536",
+  "version": "20261122122012",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -55037,7 +55037,7 @@
       "id": "20261122-1400-gladys-u1272703237701500928@asoul.love",
       "date": "2026/11/22",
       "time": "14:00",
-      "title": "思诺直播",
+      "title": "【2D】周末快乐，小螺~",
       "type": "2D",
       "subTitle": "思诺直播",
       "category": "思诺",
@@ -55071,7 +55071,7 @@
       "id": "20261122-2000-fiona@asoul.love",
       "date": "2026/11/22",
       "time": "20:00",
-      "title": "心宜思诺的聊天室",
+      "title": "【3D】好冷！暖一下",
       "type": "节目",
       "subTitle": "心宜思诺的聊天室",
       "category": "小心思",
@@ -55102,7 +55102,7 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-22T04:25:36.172Z",
+  "lastUpdate": "2026-11-22T12:20:12.647Z",
   "updateInfo": {
     "totalSchedules": 3103,
     "newSchedules": 0,
