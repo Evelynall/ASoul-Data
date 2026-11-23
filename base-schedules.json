@@ -1,5 +1,5 @@
 {
-  "version": "20261122192553",
+  "version": "20261123050113",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -55087,14 +55087,82 @@
       "officialRecordUrl": "https://www.bilibili.com/video/BV1hby5zREYL"
     },
     {
+      "id": "20261123-1730-gladys@asoul.love",
+      "date": "2026/11/23",
+      "time": "17:30",
+      "title": "【电台】螺，下班了吗下课了吗",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273725435604107272",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261124-1930-gladys@asoul.love",
+      "date": "2026/11/24",
+      "time": "19:30",
+      "title": "思诺直播",
+      "type": "日常",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273749863235846165",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261125-1800-gladys@asoul.love",
+      "date": "2026/11/25",
+      "time": "18:00",
+      "title": "思诺直播",
+      "type": "日常",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273749863235846165",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261127-2200-gladys@asoul.love",
+      "date": "2026/11/27",
+      "time": "22:00",
+      "title": "思诺直播",
+      "type": "电台",
+      "subTitle": "思诺直播",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273749863235846165",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261128-2000-fiona@asoul.love",
       "date": "2026/11/28",
       "time": "20:00",
-      "title": "【3D生日会】心之轨迹",
-      "type": "节目",
+      "title": "心之轨迹",
+      "type": "生日会",
       "subTitle": "心宜生日会",
       "category": "心宜",
-      "dynamicUrl": "https://www.bilibili.com/opus/1270047139695689750",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273749863235846165",
       "liveRoomUrl": "https://live.bilibili.com/30849777",
       "icsUrl": "https://live.bilibili.com/30849777",
       "completed": false,
@@ -55104,11 +55172,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-22T19:25:53.142Z",
+  "lastUpdate": "2026-11-23T05:01:13.236Z",
   "updateInfo": {
-    "totalSchedules": 3103,
-    "newSchedules": 0,
+    "totalSchedules": 3107,
+    "newSchedules": 4,
     "updatedSchedules": 1
-  },
-  "lastReplayUpdate": "2026-11-23T01:29:41.916Z"
+  }
 }
