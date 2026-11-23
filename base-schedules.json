@@ -1,5 +1,5 @@
 {
-  "version": "20261123050113",
+  "version": "20261123140826",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -55121,6 +55121,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261124-2030-bella@asoul.love",
+      "date": "2026/11/24",
+      "time": "20:30",
+      "title": "【突击】来看恐怖电影！",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273862152992587800",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261125-1800-gladys@asoul.love",
       "date": "2026/11/25",
       "time": "18:00",
@@ -55131,6 +55148,57 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1273749863235846165",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261125-2100-bella@asoul.love",
+      "date": "2026/11/25",
+      "time": "21:00",
+      "title": "放声KTV",
+      "type": "日常",
+      "subTitle": "贝拉直播",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273759425968996385",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261126-1930-diana@asoul.love",
+      "date": "2026/11/26",
+      "time": "19:30",
+      "title": "火鸡复仇计划",
+      "type": "日常",
+      "subTitle": "嘉然直播",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273759425968996385",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261126-2100-eileen@asoul.love",
+      "date": "2026/11/26",
+      "time": "21:00",
+      "title": "蝴蝶来过",
+      "type": "日常",
+      "subTitle": "乃琳直播",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273759425968996385",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -55170,12 +55238,29 @@
       "isIcs": true,
       "isAnime": false,
       "isFavorite": false
+    },
+    {
+      "id": "20261129-2000-eileen@asoul.love",
+      "date": "2026/11/29",
+      "time": "20:00",
+      "title": "快乐分享大会！",
+      "type": "节目",
+      "subTitle": "A-SOUL夜谈",
+      "category": "A-SOUL",
+      "dynamicUrl": "https://www.bilibili.com/opus/1273759425968996385",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-23T05:01:13.236Z",
+  "lastUpdate": "2026-11-23T14:08:26.391Z",
   "updateInfo": {
-    "totalSchedules": 3107,
-    "newSchedules": 4,
-    "updatedSchedules": 1
+    "totalSchedules": 3112,
+    "newSchedules": 5,
+    "updatedSchedules": 5
   }
 }
