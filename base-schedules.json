@@ -1,5 +1,5 @@
 {
-  "version": "20261125062238",
+  "version": "20261125135817",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -55260,6 +55260,74 @@
       "isFavorite": false
     },
     {
+      "id": "20261127-1200-diana@asoul.love",
+      "date": "2026/11/27",
+      "time": "12:00",
+      "title": "【突击】鸣潮未名之梦！",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1274582126980759602",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261127-1600-bella@asoul.love",
+      "date": "2026/11/27",
+      "time": "16:00",
+      "title": "【突击】战双测试服看看卡俄斯",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1274583179189026824",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261127-1800-gladys@asoul.love",
+      "date": "2026/11/27",
+      "time": "18:00",
+      "title": "【2D】噜咪新赛季！",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1274580396107890695",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261127-2030-eileen@asoul.love",
+      "date": "2026/11/27",
+      "time": "20:30",
+      "title": "【GTA6】今天去借什么好呢",
+      "type": "突击",
+      "subTitle": "乃琳突击",
+      "category": "乃琳",
+      "dynamicUrl": "https://www.bilibili.com/opus/1274580744000241703",
+      "liveRoomUrl": "https://live.bilibili.com/22625027",
+      "icsUrl": "https://live.bilibili.com/22625027",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261127-2200-gladys@asoul.love",
       "date": "2026/11/27",
       "time": "22:00",
@@ -55270,6 +55338,23 @@
       "dynamicUrl": "https://www.bilibili.com/opus/1273749863235846165",
       "liveRoomUrl": "https://live.bilibili.com/30858592",
       "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
+      "id": "20261128-1200-bella@asoul.love",
+      "date": "2026/11/28",
+      "time": "12:00",
+      "title": "【突击】看甲斗和ZZZ剧场版",
+      "type": "突击",
+      "subTitle": "贝拉突击",
+      "category": "贝拉",
+      "dynamicUrl": "https://www.bilibili.com/opus/1274583892208123920",
+      "liveRoomUrl": "https://live.bilibili.com/22632424",
+      "icsUrl": "https://live.bilibili.com/22632424",
       "completed": false,
       "note": "",
       "isIcs": true,
@@ -55294,6 +55379,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261128-2230-diana@asoul.love",
+      "date": "2026/11/28",
+      "time": "22:30",
+      "title": "【突击】叶问4然后美丽人生",
+      "type": "突击",
+      "subTitle": "嘉然突击",
+      "category": "嘉然",
+      "dynamicUrl": "https://www.bilibili.com/opus/1274582101153284101",
+      "liveRoomUrl": "https://live.bilibili.com/22637261",
+      "icsUrl": "https://live.bilibili.com/22637261",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261129-2000-eileen@asoul.love",
       "date": "2026/11/29",
       "time": "20:00",
@@ -55311,10 +55413,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-25T06:22:38.197Z",
+  "lastUpdate": "2026-11-25T13:58:17.746Z",
   "updateInfo": {
-    "totalSchedules": 3115,
-    "newSchedules": 1,
-    "updatedSchedules": 9
+    "totalSchedules": 3121,
+    "newSchedules": 6,
+    "updatedSchedules": 10
   }
 }
