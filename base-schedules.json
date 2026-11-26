@@ -1,5 +1,5 @@
 {
-  "version": "20261126061432",
+  "version": "20261126133713",
   "schedules": [
     {
       "id": "20210128-2000-bella@asoul.love",
@@ -55400,6 +55400,23 @@
       "isFavorite": false
     },
     {
+      "id": "20261129-1100-gladys@asoul.love",
+      "date": "2026/11/29",
+      "time": "11:00",
+      "title": "【2D鸣潮】仇远+2.8主线",
+      "type": "突击",
+      "subTitle": "思诺突击",
+      "category": "思诺",
+      "dynamicUrl": "https://www.bilibili.com/opus/1274954745443778566",
+      "liveRoomUrl": "https://live.bilibili.com/30858592",
+      "icsUrl": "https://live.bilibili.com/30858592",
+      "completed": false,
+      "note": "",
+      "isIcs": true,
+      "isAnime": false,
+      "isFavorite": false
+    },
+    {
       "id": "20261129-2000-eileen@asoul.love",
       "date": "2026/11/29",
       "time": "20:00",
@@ -55417,10 +55434,10 @@
       "isFavorite": false
     }
   ],
-  "lastUpdate": "2026-11-26T06:14:32.558Z",
+  "lastUpdate": "2026-11-26T13:37:13.241Z",
   "updateInfo": {
-    "totalSchedules": 3121,
-    "newSchedules": 0,
+    "totalSchedules": 3122,
+    "newSchedules": 1,
     "updatedSchedules": 12
   }
 }
